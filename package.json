@@ -19,6 +19,8 @@
   "homepage": "https://github.com/chadananda/ocean-site-content#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "crypto-js": "^3.1.9-1",
+    "file-exists": "^5.0.1",
     "fs": "0.0.1-security",
     "jsonfile": "^4.0.0",
     "mkdirp": "^0.5.1",

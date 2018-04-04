@@ -4,7 +4,7 @@ const mkdirp = require('mkdirp')
 
 module.exports = function(outputFolder, outputFile, meta, markdown) { 
   var header = [].concat(['---'], Object.keys(meta).map((key) =>`${key}: ${meta[key]}`), ['---']).join('\n')
-  console.log(`Outputing file: ${outputFile}`) 
+  //console.log(`Outputing file: ${outputFile}`) 
   
   // output with forced directory
   mkdirp(outputFolder, function (err) {

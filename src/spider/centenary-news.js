@@ -1,13 +1,15 @@
 // spider centenary news articles
 
 const TurndownService = require('turndown')
-const output_page = require('../output_page.js')
- 
+const outputPage = require('../output_page.js')
+const pageCache = require('../page_cache.js')
+// const SHA256 = require("crypto-js/sha256")
 
+var pages = {} // keep a list of loaded pages so we don't repeat same URL (from cache)
 
 module.exports = function requestHandler(doc) {
-  const parentSpiderObj = this 
-    
+  pageCache.put(doc)  
+  const spider = this 
   const turndownService = new TurndownService({headingStyle: 'atx'}) 
   var outputFolder = 'output/centenary/'
   var host = 'https://centenary.bahai.us' 
@@ -36,14 +38,22 @@ module.exports = function requestHandler(doc) {
     + meta.location +'\n{.noid}  \n\n\n\n'  
     + turndownService.turndown(htmltext)
    
-  output_page(outputFolder, outputFile, meta, markdown)
+  outputPage(outputFolder, outputFile, meta, markdown)
    
   // uses cheerio, check its docs for more info 
   doc.$('a[href*="/news/"]').each(function(i, elem) {
-      // do stuff with element 
-      var href = doc.$(elem).attr('href').split('#')[0]
-      var url = doc.resolve(href)
-      parentSpiderObj.queue(url, requestHandler);
+    // do stuff with element 
+    var href = doc.$(elem).attr('href').split('#')[0]
+    var url = doc.resolve(href) 
+    if (!pages.hasOwnProperty(url)) {
+      pages[url] = 1 // save a reference to this page so we don't try to load it again
+      pageCache.get(url).then(cacheDoc => {
+        if (cacheDoc) {
+          console.log('Resolved URL from local cache: ', url)
+          requestHandler(cacheDoc)
+        } else spider.queue(url, requestHandler);
+      })  
+    } // else console.log('Skipped already loaded page', url)
   })
 }
  
