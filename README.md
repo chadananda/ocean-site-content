@@ -12,12 +12,12 @@ Data will be output as MD files in subdirectories of  output/
 
 ### Site collections supported so far:
 
-* centenary.bahai.us/news -- News articles about Abdu'l-Baha's travels in America
+* https://centenary.bahai.us/news -- 250+ news articles about Abdu'l-Baha's travels in America
 
 ### Todo:
 
-* reference.bahai.org/fa/ -- Farsi books collection
-* reference.bahai.org/ar/ -- Arabic books collection
+* https://reference.bahai.org/fa/ -- Farsi books collection
+* https://reference.bahai.org/ar/ -- Arabic books collection
 * https://bahai-library.com/UHJ-documents -- UHJ Books
 * https://bahai-library.com/UHJ-letters -- UHJ Letters
 * https://bahai-library.com/Guardian -- Unpublished Letters of Shoghi Effendi
