@@ -1,0 +1,30 @@
+{
+  "name": "ocean-site-content",
+  "version": "1.0.0",
+  "description": "Tool to extract content from various sites for Ocean supplemental search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "spider": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadananda/ocean-site-content.git"
+  },
+  "bin": {
+    "ocnspider": "./index.js"
+  },
+  "author": "Chad Jones <chadananda@gmail.com> (http://bahai-education.org/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadananda/ocean-site-content/issues"
+  },
+  "homepage": "https://github.com/chadananda/ocean-site-content#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "jsonfile": "^4.0.0",
+    "node-spider": "^1.4.1",
+    "turndown": "^4.0.1"
+  }
+}
