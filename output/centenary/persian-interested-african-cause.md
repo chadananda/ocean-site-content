@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Interested in African Cause
+# Persian Interested in African Cause {.title}
 
 Baltimore Maryland American  
 November 18, 1912  
-Baltimore, MD  
+Baltimore, MD
+{.noid}  
 
 
 

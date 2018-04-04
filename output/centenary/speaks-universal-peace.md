@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Speaks on Universal Peace.
+# Speaks on Universal Peace. {.title}
 
 Washington DC Herald  
 November 9, 1912  
-Washington DC, DC  
+Washington DC, DC
+{.noid}  
 
 
 

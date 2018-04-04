@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# (Letters to the Editor) ‘Abdu’l-Bahá
+# (Letters to the Editor) ‘Abdu’l-Bahá {.title}
 
 The Idaho Sunday Statesman  
 June 16, 1912  
-Boise, ID  
+Boise, ID
+{.noid}  
 
 
 

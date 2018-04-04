@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Talk at Stanford
+# ‘Abdu’l-Bahá to Talk at Stanford {.title}
 
 San Jose California Herald  
 October 3, 1912  
-San Jose, CA  
+San Jose, CA
+{.noid}  
 
 
 

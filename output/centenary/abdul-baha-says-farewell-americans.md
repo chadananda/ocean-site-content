@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá says Farewell to Americans
+# ‘Abdu’l-Bahá says Farewell to Americans {.title}
 
 Washington DC Star  
 November 24, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá, the Persian Philosopher
+# ‘Abdu’l-Bahá, the Persian Philosopher {.title}
 
 Charlotte Daily Observer  
 July 14, 1912  
-Charlotte, NC  
+Charlotte, NC
+{.noid}  
 
 
 

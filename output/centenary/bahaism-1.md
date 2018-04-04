@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’ísm
+# Bahá’ísm {.title}
 
 Poverty Bay New Zealand Herald  
 September 3, 1911  
-Poverty Bay  
+Poverty Bay
+{.noid}  
 
 
 

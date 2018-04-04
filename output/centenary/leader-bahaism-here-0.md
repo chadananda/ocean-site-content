@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leader of Bahá’ísm Is Here
+# Leader of Bahá’ísm Is Here {.title}
 
 The Palo Alto Tribune  
 May 8, 1912  
-Emmetsburg, IA  
+Emmetsburg, IA
+{.noid}  
 
 
 

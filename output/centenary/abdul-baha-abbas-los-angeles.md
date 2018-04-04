@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdul-Bahá Abbas is in Los Angeles
+# ‘Abdul-Bahá Abbas is in Los Angeles {.title}
 
 Los Angeles California Tribune  
 October 20, 1912  
-Los Angeles, CA  
+Los Angeles, CA
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Who is Head of New Religion of Peace
+# Persian Who is Head of New Religion of Peace {.title}
 
 Savannah Georgia News  
 June 22, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

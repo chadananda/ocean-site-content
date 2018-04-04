@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Ten Commandments of ‘Abdu’l-Bahá, New Persian Prophet
+# The Ten Commandments of ‘Abdu’l-Bahá, New Persian Prophet {.title}
 
 LA Cal Times  
 February 5, 1913  
-Los Angeles, CA  
+Los Angeles, CA
+{.noid}  
 
 
 

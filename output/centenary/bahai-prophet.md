@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Bahá’í Prophet
+# The Bahá’í Prophet {.title}
 
 Chicago Daily Tribune  
 September 24, 1911  
-  
+
+{.noid}  
 
 
 

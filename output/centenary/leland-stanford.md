@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leland Stanford
+# Leland Stanford {.title}
 
 The New York Times  
 November 10, 1912  
-Palo Alto, CA  
+Palo Alto, CA
+{.noid}  
 
 
 

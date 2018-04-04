@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá in Boston
+# ‘Abdu’l-Bahá in Boston {.title}
 
 The Hartford Courant  
 May 31, 1912  
-Boston  
+Boston
+{.noid}  
 
 
 

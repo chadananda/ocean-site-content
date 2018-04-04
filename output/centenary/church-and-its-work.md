@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Church And Its Work
+# Church And Its Work {.title}
 
 Grand Rapids Minnesota Press  
 June 24, 1912  
-  
+
+{.noid}  
 
 
 

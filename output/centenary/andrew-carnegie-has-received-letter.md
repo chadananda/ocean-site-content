@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Andrew Carnegie has received a letter
+# Andrew Carnegie has received a letter {.title}
 
 Grand Rapids Michigan Press  
 June 20, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

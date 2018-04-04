@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Preach Peace to Americans
+# ‘Abdu’l-Bahá to Preach Peace to Americans {.title}
 
 The Springfield Daily News  
 April 12, 1912  
-  
+
+{.noid}  
 
 
 

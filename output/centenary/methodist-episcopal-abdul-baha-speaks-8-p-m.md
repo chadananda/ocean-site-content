@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Methodist Episcopal, ‘Abdu’l-Bahá Speaks at 8 P. M.
+# Methodist Episcopal, ‘Abdu’l-Bahá Speaks at 8 P. M. {.title}
 
 The New York Times  
 May 11, 1912  
-  
+
+{.noid}  
 
 
 

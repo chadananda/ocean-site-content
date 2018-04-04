@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Head Due Today
+# Bahá’í Head Due Today {.title}
 
 The Washington Post  
 April 19, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

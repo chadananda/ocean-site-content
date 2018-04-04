@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# June Roses and Wedding Bells
+# June Roses and Wedding Bells {.title}
 
 The Syracuse Herald  
 June 3, 1912  
-  
+
+{.noid}  
 
 
 

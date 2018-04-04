@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Herald Doctrine of Bahá’ísm
+# Herald Doctrine of Bahá’ísm {.title}
 
 Washington DC Herald  
 April 28, 1912  
-Washington DC, DC  
+Washington DC, DC
+{.noid}  
 
 
 

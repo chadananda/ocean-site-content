@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Give Last Lecture Friday
+# ‘Abdu’l-Bahá to Give Last Lecture Friday {.title}
 
 Washington DC Evening Star  
 April 24, 1912  
-Washington DC, DC  
+Washington DC, DC
+{.noid}  
 
 
 

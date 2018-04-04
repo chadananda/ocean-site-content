@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Peace Prophet Is To Speak In S. F.
+# Peace Prophet Is To Speak In S. F. {.title}
 
 Oakland Tribune  
 October 11, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

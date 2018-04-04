@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’ísm the Religion of Brotherhood
+# Bahá’ísm the Religion of Brotherhood {.title}
 
 The New York Times  
 March 31, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

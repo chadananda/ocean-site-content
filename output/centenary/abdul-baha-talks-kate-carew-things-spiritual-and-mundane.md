@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá talks to Kate Carew of Things Spiritual and Mundane
+# ‘Abdu’l-Bahá talks to Kate Carew of Things Spiritual and Mundane {.title}
 
 New York Tribune  
 May 5, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

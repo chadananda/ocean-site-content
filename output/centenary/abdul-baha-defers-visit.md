@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Defers Visit
+# ‘Abdu’l-Bahá Defers Visit {.title}
 
 New London Conn. Day  
 June 22, 1912  
-New London, CT  
+New London, CT
+{.noid}  
 
 
 

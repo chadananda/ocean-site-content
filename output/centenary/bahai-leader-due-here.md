@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Leader Due Here
+# Bahá’í Leader Due Here {.title}
 
 The New York Times  
 March 4, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

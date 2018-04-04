@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Talks of Universal Peace
+# ‘Abdu’l-Bahá Talks of Universal Peace {.title}
 
 Washington (DC) Herald  
 November 7, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

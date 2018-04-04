@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Teaches Harmony of All Religions
+# Teaches Harmony of All Religions {.title}
 
 Youngstown Ohio Telegram  
 May 25, 1912  
-Youngstown, OH  
+Youngstown, OH
+{.noid}  
 
 
 

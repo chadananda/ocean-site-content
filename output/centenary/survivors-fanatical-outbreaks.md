@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Survivors of Fanatical Outbreaks
+# Survivors of Fanatical Outbreaks {.title}
 
 McKeesport PA News  
 April 18, 1912  
-Maraghih  
+Maraghih
+{.noid}  
 
 
 

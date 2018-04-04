@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Revelation
+# Bahá’í Revelation {.title}
 
 The Washington DC Bee  
 November 11, 1911  
-Washington DC, DC  
+Washington DC, DC
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Some Time Ago
+# Some Time Ago {.title}
 
 Portland Oregon Oregonian  
 August 15, 1912  
-Portland, OR  
+Portland, OR
+{.noid}  
 
 
 

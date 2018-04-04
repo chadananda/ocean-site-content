@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Today Is Naurooz Bahá’í New Year
+# Today Is Naurooz Bahá’í New Year {.title}
 
 Boston (No Paper)  
 March 21, 1912  
-Boston  
+Boston
+{.noid}  
 
 
 

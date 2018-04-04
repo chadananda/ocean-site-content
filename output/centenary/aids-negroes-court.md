@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Aids Negroes In Court
+# Aids Negroes In Court {.title}
 
 The New York Times  
 April 27, 1913  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

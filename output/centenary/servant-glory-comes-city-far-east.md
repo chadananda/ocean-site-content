@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# "Servant of Glory" Comes to City From Far East
+# "Servant of Glory" Comes to City From Far East {.title}
 
 Minneapolis Tribune  
 September 19, 1912  
-Minneapolis  
+Minneapolis
+{.noid}  
 
 
 

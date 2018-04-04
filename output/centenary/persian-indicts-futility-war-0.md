@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Indicts the Futility of War
+# Persian Indicts the Futility of War {.title}
 
 The Daily Palo Alto (Stanford University Student Newspaper)  
 October 8, 1912  
-Palo Alto, CA  
+Palo Alto, CA
+{.noid}  
 
 
 

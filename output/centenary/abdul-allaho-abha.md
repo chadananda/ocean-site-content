@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá
+# ‘Abdu’l-Bahá {.title}
 
 Denver Colorado Daily News  
 September 25, 1912  
-Denver, CO  
+Denver, CO
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Fred S. Ball to Attend Lake Mohonk Conference
+# Fred S. Ball to Attend Lake Mohonk Conference {.title}
 
 Montgomery Ala  
 April 29, 1912  
-Alabama  
+Alabama
+{.noid}  
 
 
 

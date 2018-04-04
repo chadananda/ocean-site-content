@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Speak in Huntington Hall
+# ‘Abdu’l-Bahá to Speak in Huntington Hall {.title}
 
 Boston Massachusetts Evening Herald  
 May 25, 1912  
-Boston, MA  
+Boston, MA
+{.noid}  
 
 
 

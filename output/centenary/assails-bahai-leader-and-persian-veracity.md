@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Assails Bahá’í Leader And Persian Veracity
+# Assails Bahá’í Leader And Persian Veracity {.title}
 
 Washington DC Star  
 May 6, 1912  
-Washington DC  
+Washington DC
+{.noid}  
 
 
 

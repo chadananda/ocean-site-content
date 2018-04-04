@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Ways of the World
+# Ways of the World {.title}
 
 SFO Bulletin  
 October 12, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

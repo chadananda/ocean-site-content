@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Meeting Between ‘Abdul-Bahá and Mr. Campbell
+# Meeting Between ‘Abdul-Bahá and Mr. Campbell {.title}
 
 The Christian Commonwealth  
 September 13, 1911  
-  
+
+{.noid}  
 
 
 

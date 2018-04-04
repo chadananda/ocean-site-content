@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Spoke at Woolson Home in St. Paul
+# Spoke at Woolson Home in St. Paul {.title}
 
 The Appeal (St. Paul MN)  
 September 21, 1912  
-St. Paul, MN  
+St. Paul, MN
+{.noid}  
 
 
 

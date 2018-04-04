@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# New Faith Head Heard
+# New Faith Head Heard {.title}
 
 Worcester Telegram 2nd edition  
 May 24, 1912  
-Worcester, MA  
+Worcester, MA
+{.noid}  
 
 
 

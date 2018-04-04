@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Noted Persian is Here to Plead for Peace
+# Noted Persian is Here to Plead for Peace {.title}
 
 Los Angeles California Herald  
 October 19, 1912  
-Los Angeles, CA  
+Los Angeles, CA
+{.noid}  
 
 
 

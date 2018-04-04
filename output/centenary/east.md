@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# From the East
+# From the East {.title}
 
 Los Angeles Times  
 June 19, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

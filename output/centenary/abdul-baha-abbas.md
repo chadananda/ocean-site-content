@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdul-Bahá Abbas
+# ‘Abdul-Bahá Abbas {.title}
 
 Nashville Tenn  
 July 20, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

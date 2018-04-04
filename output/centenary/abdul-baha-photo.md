@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá (photo)
+# ‘Abdu’l-Bahá (photo) {.title}
 
 Lincoln Daily News  
 June 17, 1912  
-Lincoln, NE  
+Lincoln, NE
+{.noid}  
 
 
 

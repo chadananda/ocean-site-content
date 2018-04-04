@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Will Speak at All Souls’ Unitarian Church Tomorrow
+# ‘Abdu’l-Bahá Will Speak at All Souls’ Unitarian Church Tomorrow {.title}
 
 New York Tribune  
 July 13, 1912  
-New York  
+New York
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Plans for ‘Abdu’l-Bahá
+# Plans for ‘Abdu’l-Bahá {.title}
 
 St. Paul Minn. Pioneer Press  
 June 5, 1912  
-St. Paul, MN  
+St. Paul, MN
+{.noid}  
 
 
 

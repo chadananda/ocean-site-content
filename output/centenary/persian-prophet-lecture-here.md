@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet To Lecture Here
+# Persian Prophet To Lecture Here {.title}
 
 Oakland Сalifornia Tribune  
 October 4, 1912  
-Oakland, CA  
+Oakland, CA
+{.noid}  
 
 
 

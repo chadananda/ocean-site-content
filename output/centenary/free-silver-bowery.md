@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Free Silver On Bowery
+# Free Silver On Bowery {.title}
 
 The Washington Herald  
 April 22, 1912  
-New York  
+New York
+{.noid}  
 
 
 

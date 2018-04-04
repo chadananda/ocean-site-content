@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá, "Prophet of God," Is Asked to Come to Spokane
+# ‘Abdu’l-Bahá, "Prophet of God," Is Asked to Come to Spokane {.title}
 
 Spokane Washington Daily Chronicle  
 September 17, 1912  
-Spokane, WA  
+Spokane, WA
+{.noid}  
 
 
 

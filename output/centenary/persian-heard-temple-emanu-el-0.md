@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Heard at Temple Emanu-El
+# Persian Heard at Temple Emanu-El {.title}
 
 San Francisco Chronicle  
 October 13, 1912  
-  
+
+{.noid}  
 
 
 

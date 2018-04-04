@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Speak from Unitarian Pulpit
+# ‘Abdu’l-Bahá to Speak from Unitarian Pulpit {.title}
 
 San Francisco California Bulletin  
 October 5, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

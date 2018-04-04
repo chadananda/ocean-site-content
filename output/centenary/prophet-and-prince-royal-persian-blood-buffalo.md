@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Prophet and Prince of Royal Persian Blood In Buffalo
+# Prophet and Prince of Royal Persian Blood In Buffalo {.title}
 
 Buffalo New York Enquirer  
 September 10, 1912  
-Buffalo, NY  
+Buffalo, NY
+{.noid}  
 
 
 

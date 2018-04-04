@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# A Reader’s Notes
+# A Reader’s Notes {.title}
 
 Manitoba Free Press  
 May 9, 1912  
-Winnipeg, MB  
+Winnipeg, MB
+{.noid}  
 
 
 

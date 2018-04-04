@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas, Will Visit Seattle
+# ‘Abdu’l-Bahá Abbas, Will Visit Seattle {.title}
 
 No Paper  
 October 6, 1912  
-Seattle  
+Seattle
+{.noid}  
 
 
 

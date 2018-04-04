@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Assembly to Meet
+# Bahá’í Assembly to Meet {.title}
 
 Portland Oregon Journal  
 August 11, 1912  
-Portland, OR  
+Portland, OR
+{.noid}  
 
 
 

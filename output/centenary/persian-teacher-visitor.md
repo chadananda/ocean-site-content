@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Teacher a Visitor
+# Persian Teacher a Visitor {.title}
 
 Minneapolis Tribune  
 September 18, 1912  
-Minneapolis  
+Minneapolis
+{.noid}  
 
 
 

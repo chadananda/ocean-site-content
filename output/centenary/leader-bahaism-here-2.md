@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leader of Bahá’ísm Is Here
+# Leader of Bahá’ísm Is Here {.title}
 
 Marble Rock Journal  
 May 9, 1912  
-Floyd, IA  
+Floyd, IA
+{.noid}  
 
 
 

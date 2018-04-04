@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Brings Gospel of Love
+# Persian Brings Gospel of Love {.title}
 
 No Paper  
 March 27, 1912  
-Washington DC  
+Washington DC
+{.noid}  
 
 
 

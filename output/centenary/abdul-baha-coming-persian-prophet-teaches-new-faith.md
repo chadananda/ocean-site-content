@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Coming Persian Prophet Teaches New Faith
+# ‘Abdu’l-Bahá Coming Persian Prophet Teaches New Faith {.title}
 
 Rocky Mountain News  
 September 22, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

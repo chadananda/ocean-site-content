@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Lecture on Bahá’ísm
+# Lecture on Bahá’ísm {.title}
 
 Washington DC Herald  
 October 28, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

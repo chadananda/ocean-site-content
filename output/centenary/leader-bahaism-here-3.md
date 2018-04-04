@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leader of Bahá’ísm Is Here
+# Leader of Bahá’ísm Is Here {.title}
 
 Grand Valley Times  
 May 10, 1912  
-Moab, UT  
+Moab, UT
+{.noid}  
 
 
 

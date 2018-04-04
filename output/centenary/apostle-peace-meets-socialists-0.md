@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Apostle of Peace Meets Socialists
+# Apostle of Peace Meets Socialists {.title}
 
 The Montreal Gazette  
 September 4, 1912  
-Montreal  
+Montreal
+{.noid}  
 
 
 

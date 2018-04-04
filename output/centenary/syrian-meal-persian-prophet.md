@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Syrian Meal For Persian Prophet
+# Syrian Meal For Persian Prophet {.title}
 
 Boston Massachusetts Evening Herald  
 July 26, 1912  
-Boston, MA  
+Boston, MA
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Peace Apostle Predicts War in Europe
+# Persian Peace Apostle Predicts War in Europe {.title}
 
 Buffalo New York Courier  
 September 11, 1912  
-New York  
+New York
+{.noid}  
 
 
 

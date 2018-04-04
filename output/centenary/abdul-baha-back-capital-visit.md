@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Back on Capital Visit
+# ‘Abdu’l-Bahá Back on Capital Visit {.title}
 
 The Washington Times  
 November 6, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

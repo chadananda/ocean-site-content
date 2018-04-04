@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Speak
+# ‘Abdu’l-Bahá to Speak {.title}
 
 Pittsburgh Pennsylvania Post  
 May 6, 1912  
-Cleveland, OH  
+Cleveland, OH
+{.noid}  
 
 
 

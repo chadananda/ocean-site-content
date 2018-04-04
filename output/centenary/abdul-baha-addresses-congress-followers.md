@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Addresses Congress of Followers
+# ‘Abdu’l-Bahá Addresses Congress of Followers {.title}
 
 Philadelphia Pennsylvania Star  
 April 27, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

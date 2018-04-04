@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Light in the Lantern
+# The Light in the Lantern {.title}
 
 Everybody's Magazine  
 December 1, 1911  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

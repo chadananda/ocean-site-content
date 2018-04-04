@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Approaching Visit of ‘Abdu’l-Bahá
+# The Approaching Visit of ‘Abdu’l-Bahá {.title}
 
 Detroit Michigan Tribune  
 April 7, 1912  
-Detroit, MI  
+Detroit, MI
+{.noid}  
 
 
 

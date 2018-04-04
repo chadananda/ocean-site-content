@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Great Persian Here
+# Great Persian Here {.title}
 
 Baltimore Maryland Evening Sun  
 April 12, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

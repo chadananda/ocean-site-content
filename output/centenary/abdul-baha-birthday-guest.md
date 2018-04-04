@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá is Birthday Guest
+# ‘Abdu’l-Bahá is Birthday Guest {.title}
 
 Boston Massachusetts Evening Herald  
 May 26, 1912  
-Boston, MA  
+Boston, MA
+{.noid}  
 
 
 

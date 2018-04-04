@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Hailed as New "Messiah," Comes to Teach Unity of the World
+# Persian Hailed as New "Messiah," Comes to Teach Unity of the World {.title}
 
 Cleveland Ohio Leader  
 April 22, 1912  
-Cleveland, OH  
+Cleveland, OH
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Site Dedicated
+# Bahá’í Site Dedicated {.title}
 
 The Chicago Evening Post  
 May 1, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

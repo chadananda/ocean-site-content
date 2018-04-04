@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet To Remain in U. S.
+# Persian Prophet To Remain in U. S. {.title}
 
 The Evening Observer  
 July 1, 1912  
-  
+
+{.noid}  
 
 
 

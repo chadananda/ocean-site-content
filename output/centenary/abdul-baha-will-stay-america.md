@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Will Stay in America
+# ‘Abdu’l-Bahá Will Stay in America {.title}
 
 No Paper  
 June 26, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

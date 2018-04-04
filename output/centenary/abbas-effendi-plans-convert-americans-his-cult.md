@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Abbas Effendi Plans to Convert Americans to His Cult
+# Abbas Effendi Plans to Convert Americans to His Cult {.title}
 
 Chicago Ill. Journal  
 April 11, 1912  
-New York  
+New York
+{.noid}  
 
 
 

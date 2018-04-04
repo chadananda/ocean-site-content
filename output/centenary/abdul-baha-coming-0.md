@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Coming
+# ‘Abdu’l-Bahá Coming {.title}
 
 The Sun (Baltimore)  
 April 6, 1912  
-Baltimore, MD  
+Baltimore, MD
+{.noid}  
 
 
 

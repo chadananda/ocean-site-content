@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Local Artist Wins Fame by Portrait
+# Local Artist Wins Fame by Portrait {.title}
 
 Oakland Cal Enquirer  
 August 8, 1912  
-Berkeley, CA  
+Berkeley, CA
+{.noid}  
 
 
 

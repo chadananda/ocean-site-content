@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Gossip of the Metropolis
+# Gossip of the Metropolis {.title}
 
 The Anaconda Standard  
 June 16, 1912  
-Montclair, NJ  
+Montclair, NJ
+{.noid}  
 
 
 

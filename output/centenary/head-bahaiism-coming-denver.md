@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Head of Bahá’íism Coming to Denver
+# Head of Bahá’íism Coming to Denver {.title}
 
 Denver Express  
 April 8, 1912  
-Denver  
+Denver
+{.noid}  
 
 
 

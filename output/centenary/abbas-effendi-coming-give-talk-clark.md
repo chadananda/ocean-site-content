@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Abbas Effendi Coming to Give Talk at Clark
+# Abbas Effendi Coming to Give Talk at Clark {.title}
 
 Worcester Evening Gazette  
 May 21, 1912  
-Worcester, MA  
+Worcester, MA
+{.noid}  
 
 
 

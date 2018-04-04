@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Le Prophete Abul Bahá
+# Le Prophete Abul Bahá {.title}
 
 Montreal Le Devoir  
 September 6, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

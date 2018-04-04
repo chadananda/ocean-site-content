@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# "Servant of God" Visiting America
+# "Servant of God" Visiting America {.title}
 
 The Brooklyn Daily Eagle  
 April 7, 1912  
-Brooklyn, NY  
+Brooklyn, NY
+{.noid}  
 
 
 

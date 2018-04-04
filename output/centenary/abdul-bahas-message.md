@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá’s Message
+# ‘Abdu’l-Bahá’s Message {.title}
 
 Philadelphia PA Telegraph  
 July 25, 1912  
-Philadelphia, PA  
+Philadelphia, PA
+{.noid}  
 
 
 

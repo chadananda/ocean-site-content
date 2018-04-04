@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leader of the Bahá’í Religious Movement, With His Retinue, Visits Followers Here
+# Leader of the Bahá’í Religious Movement, With His Retinue, Visits Followers Here {.title}
 
 Minneapolis Tribune  
 September 20, 1912  
-Minneapolis, MN  
+Minneapolis, MN
+{.noid}  
 
 
 

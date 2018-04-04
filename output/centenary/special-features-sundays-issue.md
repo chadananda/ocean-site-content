@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Special Features In Sunday’s Issue
+# Special Features In Sunday’s Issue {.title}
 
 The New York Tribune  
 May 3, 1912  
-  
+
+{.noid}  
 
 
 

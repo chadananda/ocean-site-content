@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Farewell Address of ‘Abdu’l-Bahá
+# Farewell Address of ‘Abdu’l-Bahá {.title}
 
 Peninsula Herald  
 July 11, 1924  
-Portland, OR  
+Portland, OR
+{.noid}  
 
 
 

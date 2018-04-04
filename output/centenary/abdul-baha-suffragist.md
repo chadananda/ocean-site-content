@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá a Suffragist
+# ‘Abdu’l-Bahá a Suffragist {.title}
 
 The Washington Post  
 April 27, 1912  
-Washington  
+Washington
+{.noid}  
 
 
 

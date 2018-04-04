@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Score ‘Abdu’l-Bahá as False Prophet
+# Score ‘Abdu’l-Bahá as False Prophet {.title}
 
 Baltimore Maryland Star  
 May 27, 1912  
-Washington  
+Washington
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# A Study In Perseverance
+# A Study In Perseverance {.title}
 
 New York Tribune  
 May 11, 1912  
-  
+
+{.noid}  
 
 
 

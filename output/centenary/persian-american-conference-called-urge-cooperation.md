@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian-American Conference Called to Urge Cooperation
+# Persian-American Conference Called to Urge Cooperation {.title}
 
 Christian Science Monitor  
 March 16, 1912  
-Washington, London, Westminster  
+Washington, London, Westminster
+{.noid}  
 
 
 

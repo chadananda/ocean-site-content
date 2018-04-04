@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Bahá’í Movement
+# The Bahá’í Movement {.title}
 
 Pittsburgh Pennsylvania Post  
 August 22, 1912  
-Pittsburgh, PA  
+Pittsburgh, PA
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Venerable Persian Arrives
+# Venerable Persian Arrives {.title}
 
 San Francisco California Bulletin  
 October 2, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

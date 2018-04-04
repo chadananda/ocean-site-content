@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Chief Missing
+# Bahá’í Chief Missing {.title}
 
 Chicago Illinois News  
 April 29, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

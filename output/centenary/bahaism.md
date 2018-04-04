@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# This is Bahá’ísm
+# This is Bahá’ísm {.title}
 
 Buffalo New York Enquirer  
 September 3, 1912  
-Buffalo, NY  
+Buffalo, NY
+{.noid}  
 
 
 

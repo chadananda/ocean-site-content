@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet Will Not Visit Portland
+# Persian Prophet Will Not Visit Portland {.title}
 
 Portland Oregon Telegram  
 October 12, 1912  
-Portland, OR  
+Portland, OR
+{.noid}  
 
 
 

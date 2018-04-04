@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas in Pulpit
+# ‘Abdu’l-Bahá Abbas in Pulpit {.title}
 
 Brooklyn Daily Eagle NY  
 June 17, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

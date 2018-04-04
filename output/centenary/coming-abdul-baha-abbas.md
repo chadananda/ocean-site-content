@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Coming of ‘Abdu’l-Bahá Abbas
+# The Coming of ‘Abdu’l-Bahá Abbas {.title}
 
 Boston Massachusetts Evening Transcript  
 January 27, 1912  
-Boston, MA  
+Boston, MA
+{.noid}  
 
 
 

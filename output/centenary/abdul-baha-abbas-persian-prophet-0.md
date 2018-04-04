@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas, Persian Prophet
+# ‘Abdu’l-Bahá Abbas, Persian Prophet {.title}
 
 The Brooklyn Daily Eagle  
 July 15, 1912  
-New York  
+New York
+{.noid}  
 
 
 

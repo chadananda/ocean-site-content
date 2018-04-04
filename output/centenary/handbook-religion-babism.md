@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Handbook of Religion (Bábism)
+# Handbook of Religion (Bábism) {.title}
 
 The Boston Daily Globe  
 June 1, 1912  
-  
+
+{.noid}  
 
 
 

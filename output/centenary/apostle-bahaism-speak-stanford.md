@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Apostle of Bahá’ísm to Speak at Stanford
+# Apostle of Bahá’ísm to Speak at Stanford {.title}
 
 San Francisco Chronicle  
 October 3, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

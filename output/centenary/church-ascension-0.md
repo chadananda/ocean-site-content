@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Church of the Ascension
+# Church of the Ascension {.title}
 
 The New York Times  
 June 1, 1912  
-New York  
+New York
+{.noid}  
 
 
 

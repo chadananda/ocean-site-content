@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá’s Address
+# ‘Abdu’l-Bahá’s Address {.title}
 
 Clark College Monthly Vol.1 No. 10. page 544  
 May 23, 1912  
-Worcester, MA  
+Worcester, MA
+{.noid}  
 
 
 

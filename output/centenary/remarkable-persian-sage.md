@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Remarkable Persian Sage
+# Remarkable Persian Sage {.title}
 
 Concord NH Monitor  
 July 26, 1912  
-Concord, NH  
+Concord, NH
+{.noid}  
 
 
 

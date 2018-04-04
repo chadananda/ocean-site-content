@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Carnegie Exalted By Bahá’í Leader
+# Carnegie Exalted By Bahá’í Leader {.title}
 
 The New York Times  
 September 5, 1915  
-  
+
+{.noid}  
 
 
 

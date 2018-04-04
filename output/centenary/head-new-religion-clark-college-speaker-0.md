@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Head of New Religion Clark College Speaker
+# Head of New Religion Clark College Speaker {.title}
 
 Worchester Massachusetts Post  
 May 23, 1912  
-Worchester, MA  
+Worchester, MA
+{.noid}  
 
 
 

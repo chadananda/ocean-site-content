@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas Says Object of Mission Is To Unify All Creeds
+# ‘Abdu’l-Bahá Abbas Says Object of Mission Is To Unify All Creeds {.title}
 
 San Francisco California Chronicle  
 October 8, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Head Of Bahá’ís Will Pay Portland A Visit
+# Persian Head Of Bahá’ís Will Pay Portland A Visit {.title}
 
 Portland Oregon Journal  
 August 29, 1912  
-Portland, OR  
+Portland, OR
+{.noid}  
 
 
 

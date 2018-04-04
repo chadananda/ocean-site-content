@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Events of National Interest Seen by Camera’s Eye
+# Events of National Interest Seen by Camera’s Eye {.title}
 
 The Sunday Oregonian  
 June 2, 1912  
-  
+
+{.noid}  
 
 
 

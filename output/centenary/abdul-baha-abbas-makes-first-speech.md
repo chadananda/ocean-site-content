@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas Makes First Speech
+# ‘Abdu’l-Bahá Abbas Makes First Speech {.title}
 
 The Philadelphia Inquirer  
 April 15, 1912  
-New York  
+New York
+{.noid}  
 
 
 

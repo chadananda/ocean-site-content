@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá — a Sign of the Times
+# ‘Abdu’l-Bahá — a Sign of the Times {.title}
 
 The Washington Herald  
 August 4, 1912  
-  
+
+{.noid}  
 
 
 

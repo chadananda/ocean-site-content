@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# People Worth While
+# People Worth While {.title}
 
 Houston Texas Chronicle  
 April 24, 1912  
-Houston, TX  
+Houston, TX
+{.noid}  
 
 
 

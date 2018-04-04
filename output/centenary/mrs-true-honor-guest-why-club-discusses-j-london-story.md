@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# With Mrs. True as Honor Guest Why Club Discusses J. London Story
+# With Mrs. True as Honor Guest Why Club Discusses J. London Story {.title}
 
 Denver Colorado Republican  
 January 6, 1912  
-Denver, CO  
+Denver, CO
+{.noid}  
 
 
 

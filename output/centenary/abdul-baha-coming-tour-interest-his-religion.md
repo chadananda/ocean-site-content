@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá is Coming on Tour in the Interest of His Religion
+# ‘Abdu’l-Bahá is Coming on Tour in the Interest of His Religion {.title}
 
 Portland Oregon Oregonian  
 September 1, 1912  
-Portland, OR  
+Portland, OR
+{.noid}  
 
 
 

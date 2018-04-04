@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leader of Bahá’ísm Is Here
+# Leader of Bahá’ísm Is Here {.title}
 
 The Van Nuys News  
 July 5, 1912  
-Van Nuys, CA  
+Van Nuys, CA
+{.noid}  
 
 
 

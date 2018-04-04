@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Socialism Must Be Met
+# Socialism Must Be Met {.title}
 
 The Montreal Gazette  
 September 5, 1912  
-Montreal  
+Montreal
+{.noid}  
 
 
 

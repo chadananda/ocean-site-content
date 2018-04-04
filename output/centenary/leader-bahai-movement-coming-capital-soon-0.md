@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leader of Bahá’í Movement Coming to Capital Soon
+# Leader of Bahá’í Movement Coming to Capital Soon {.title}
 
 The Washington (DC) Times  
 April 5, 1912  
-Washington  
+Washington
+{.noid}  
 
 
 

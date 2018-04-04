@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# After Forty Years in Prison Bahá’í Leader Plans to Visit Followers in United States
+# After Forty Years in Prison Bahá’í Leader Plans to Visit Followers in United States {.title}
 
 The Pittsburgh Pennsylvania Press  
 February 18, 1912  
-Pittsburgh, PA  
+Pittsburgh, PA
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Unitarians Begin Anniversary Week
+# Unitarians Begin Anniversary Week {.title}
 
 Boston Massachusetts Post  
 May 20, 1912  
-Boston, MA  
+Boston, MA
+{.noid}  
 
 
 

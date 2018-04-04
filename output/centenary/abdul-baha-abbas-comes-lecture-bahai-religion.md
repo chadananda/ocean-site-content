@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas Comes to Lecture on Bahá’í Religion
+# ‘Abdu’l-Bahá Abbas Comes to Lecture on Bahá’í Religion {.title}
 
 The Evening Standard  
 September 30, 1912  
-Salt Lake, UT  
+Salt Lake, UT
+{.noid}  
 
 
 

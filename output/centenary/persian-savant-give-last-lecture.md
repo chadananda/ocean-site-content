@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Savant to Give Last Lecture
+# Persian Savant to Give Last Lecture {.title}
 
 Washigton DC Times  
 April 26, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

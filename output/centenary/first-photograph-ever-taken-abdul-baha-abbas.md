@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# First Photograph Ever Taken of ‘Abdu’l-Bahá Abbas.
+# First Photograph Ever Taken of ‘Abdu’l-Bahá Abbas. {.title}
 
 The New York Times  
 September 16, 1911  
-London  
+London
+{.noid}  
 
 
 

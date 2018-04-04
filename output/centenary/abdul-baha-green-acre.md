@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá at Green Acre
+# ‘Abdu’l-Bahá at Green Acre {.title}
 
 The Portsmouth Herald  
 August 14, 1912  
-Green Acre, Eliot  
+Green Acre, Eliot
+{.noid}  
 
 
 

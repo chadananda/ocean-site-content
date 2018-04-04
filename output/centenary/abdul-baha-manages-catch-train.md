@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Manages to Catch a Train
+# ‘Abdu’l-Bahá Manages to Catch a Train {.title}
 
 The Sun  
 June 30, 1912  
-Montclair, NJ  
+Montclair, NJ
+{.noid}  
 
 
 

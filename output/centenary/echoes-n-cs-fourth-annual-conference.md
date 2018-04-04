@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Echoes Of The N. A. A. C.’s Fourth Annual Conference
+# Echoes Of The N. A. A. C.’s Fourth Annual Conference {.title}
 
 The Chicago Defender  
 May 4, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

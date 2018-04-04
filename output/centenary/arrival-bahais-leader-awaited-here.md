@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Arrival Bahá’ís Leader Awaited Here
+# Arrival Bahá’ís Leader Awaited Here {.title}
 
 Washington DC Post  
 March 10, 1912  
-Washington  
+Washington
+{.noid}  
 
 
 

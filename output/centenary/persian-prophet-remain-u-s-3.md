@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet To Remain in U. S.
+# Persian Prophet To Remain in U. S. {.title}
 
 New Castle News  
 July 5, 1912  
-New Castle  
+New Castle
+{.noid}  
 
 
 

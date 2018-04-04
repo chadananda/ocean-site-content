@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Gives His Impressions of New York
+# ‘Abdu’l-Bahá Gives His Impressions of New York {.title}
 
 The Sun  
 July 7, 1912  
-New York  
+New York
+{.noid}  
 
 
 

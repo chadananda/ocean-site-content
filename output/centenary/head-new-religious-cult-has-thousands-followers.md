@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Head of New Religious Cult Has Thousands of Followers
+# Head of New Religious Cult Has Thousands of Followers {.title}
 
 Troy NY Press  
 December 16, 1912  
-  
+
+{.noid}  
 
 
 

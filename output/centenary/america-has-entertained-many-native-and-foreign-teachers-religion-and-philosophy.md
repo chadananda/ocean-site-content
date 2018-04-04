@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# AMERICA has entertained many native and foreign teachers of religion and philosophy
+# AMERICA has entertained many native and foreign teachers of religion and philosophy {.title}
 
 American Journal & the SFO & LA Examiner  
 April 1, 1912  
-San Francisco  
+San Francisco
+{.noid}  
 
 
 

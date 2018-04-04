@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet, Leader of Bahá Movement, Lectures on Doctrines
+# Persian Prophet, Leader of Bahá Movement, Lectures on Doctrines {.title}
 
 Sacramento California Union  
 October 26, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

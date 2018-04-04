@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Peace Advocate in Chicago
+# Peace Advocate in Chicago {.title}
 
 Chicago Illinois Inter-Ocean  
 November 1, 1912  
-Chicago  
+Chicago
+{.noid}  
 
 
 

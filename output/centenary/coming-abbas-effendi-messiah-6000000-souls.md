@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Coming of Abbas Effendi, Messiah of 6,000,000 Souls
+# The Coming of Abbas Effendi, Messiah of 6,000,000 Souls {.title}
 
 The Washington Post  
 December 31, 1911  
-  
+
+{.noid}  
 
 
 

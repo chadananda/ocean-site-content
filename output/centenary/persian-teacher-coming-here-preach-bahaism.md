@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Teacher Coming Here to Preach Bahá’ísm
+# Persian Teacher Coming Here to Preach Bahá’ísm {.title}
 
 SFO  
 September 29, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

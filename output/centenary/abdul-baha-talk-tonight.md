@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Talk Tonight
+# ‘Abdu’l-Bahá to Talk Tonight {.title}
 
 San Francisco California Bulletin  
 October 10, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

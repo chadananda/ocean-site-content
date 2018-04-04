@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Unity of Religions
+# Unity of Religions {.title}
 
 The Washington Post  
 March 22, 1914  
-  
+
+{.noid}  
 
 
 

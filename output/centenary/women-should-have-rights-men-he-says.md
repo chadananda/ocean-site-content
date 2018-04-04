@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Women Should Have Rights Of Men, He Says
+# Women Should Have Rights Of Men, He Says {.title}
 
 The Sacramento Bee  
 October 4, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

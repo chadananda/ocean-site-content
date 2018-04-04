@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá In Paris
+# ‘Abdu’l-Bahá In Paris {.title}
 
 (No Paper)  
 November 1, 1911  
-Paris  
+Paris
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Letters to the Editor, ‘Abdu’l-Bahá
+# Letters to the Editor, ‘Abdu’l-Bahá {.title}
 
 New York Tribune  
 April 18, 1912  
-New York  
+New York
+{.noid}  
 
 
 

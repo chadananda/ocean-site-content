@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Many Countries Were Represented at the Eighteenth Annual Session of the Lake Mohonk Conference
+# Many Countries Were Represented at the Eighteenth Annual Session of the Lake Mohonk Conference {.title}
 
 The Hawaiian Star  
 June 3, 1912  
-Lake Mohonk, NY  
+Lake Mohonk, NY
+{.noid}  
 
 
 

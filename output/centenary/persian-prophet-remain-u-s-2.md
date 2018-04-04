@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet To Remain in U. S.
+# Persian Prophet To Remain in U. S. {.title}
 
 The Janesville Daily Gazette  
 July 2, 1912  
-Janesville  
+Janesville
+{.noid}  
 
 
 

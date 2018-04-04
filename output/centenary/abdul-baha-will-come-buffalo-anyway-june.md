@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Will Come to Buffalo Anyway in June
+# ‘Abdu’l-Bahá Will Come to Buffalo Anyway in June {.title}
 
 Buffalo New York Times  
 May 19, 1912  
-Buffalo, NY  
+Buffalo, NY
+{.noid}  
 
 
 

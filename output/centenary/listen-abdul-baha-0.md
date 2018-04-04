@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Listen to ‘Abdu’l-Bahá
+# Listen to ‘Abdu’l-Bahá {.title}
 
 The Sun  
 April 13, 1912  
-New York  
+New York
+{.noid}  
 
 
 

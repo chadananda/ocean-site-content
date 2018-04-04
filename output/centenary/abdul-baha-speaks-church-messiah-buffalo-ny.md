@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá speaks at the Church of the Messiah in Buffalo, NY
+# ‘Abdu’l-Bahá speaks at the Church of the Messiah in Buffalo, NY {.title}
 
 Mahmud’s Diary  
 September 11, 1912  
-Buffalo, NY  
+Buffalo, NY
+{.noid}  
 
 
 

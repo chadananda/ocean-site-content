@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Plan Suggested For a Universal Religion
+# Plan Suggested For a Universal Religion {.title}
 
 The Evening News  
 July 16, 1912  
-San Jose, CA  
+San Jose, CA
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Famous Teacher Coming
+# Famous Teacher Coming {.title}
 
 The Montreal Daily Star  
 August 24, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

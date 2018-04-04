@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Free Money On Bowery
+# Free Money On Bowery {.title}
 
 The New York Tribune  
 April 20, 1912  
-New York  
+New York
+{.noid}  
 
 
 

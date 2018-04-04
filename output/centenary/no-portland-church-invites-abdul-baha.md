@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# No Portland Church Invites ‘Abdu’l-Bahá
+# No Portland Church Invites ‘Abdu’l-Bahá {.title}
 
 Portland Oregon Telegram  
 October 10, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

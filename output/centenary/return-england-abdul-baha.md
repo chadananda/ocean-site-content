@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Return To England Of ‘Abdu’l-Bahá
+# Return To England Of ‘Abdu’l-Bahá {.title}
 
 The Christian Commonwealth  
 December 8, 1912  
-  
+
+{.noid}  
 
 
 

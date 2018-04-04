@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Suffragists
+# ‘Abdu’l-Bahá to Suffragists {.title}
 
 The New York Times  
 May 21, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Priest Attracts Society Women to the Cult of Bahá’ísm
+# Persian Priest Attracts Society Women to the Cult of Bahá’ísm {.title}
 
 The Washington Post  
 April 26, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

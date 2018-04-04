@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Comes as Prophet of Peace By Elbert Hubbard
+# ‘Abdu’l-Bahá Comes as Prophet of Peace By Elbert Hubbard {.title}
 
 A-B  
 March 1, 1915  
-OR  
+OR
+{.noid}  
 
 
 

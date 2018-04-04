@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas the Persian Prophet
+# ‘Abdu’l-Bahá Abbas the Persian Prophet {.title}
 
 Denver Colo Post  
 August 3, 1912  
-Denver, CO  
+Denver, CO
+{.noid}  
 
 
 

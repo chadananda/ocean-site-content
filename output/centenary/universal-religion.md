@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Universal Religion
+# Universal Religion {.title}
 
 Columbus Ohio Journal  
 July 2, 1912  
-  
+
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’ísm Founded in Martyrdom, Taking Root Here
+# Bahá’ísm Founded in Martyrdom, Taking Root Here {.title}
 
 The New York Times  
 July 2, 1911  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

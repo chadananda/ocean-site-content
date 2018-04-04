@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet Pleads for Union of All Religions
+# Persian Prophet Pleads for Union of All Religions {.title}
 
 Denver Colorado Republican  
 September 26, 1912  
-Denver, CO  
+Denver, CO
+{.noid}  
 
 
 

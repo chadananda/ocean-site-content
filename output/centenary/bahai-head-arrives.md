@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Head Arrives
+# Bahá’í Head Arrives {.title}
 
 Washington DC Evening Star  
 April 20, 1912  
-Washington DC, DC  
+Washington DC, DC
+{.noid}  
 
 
 

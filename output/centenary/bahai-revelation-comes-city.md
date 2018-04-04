@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Revelation Comes to City
+# Bahá’í Revelation Comes to City {.title}
 
 London Ontario paper  
 September 3, 1912  
-London, ON  
+London, ON
+{.noid}  
 
 
 

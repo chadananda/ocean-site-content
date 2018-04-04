@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Servant of God Is Headed for America
+# Servant of God Is Headed for America {.title}
 
 The Lexington Herald  
 April 14, 1912  
-  
+
+{.noid}  
 
 
 

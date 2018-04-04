@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Be Speaker at Berkeley
+# ‘Abdu’l-Bahá to Be Speaker at Berkeley {.title}
 
 Oakland Calif Tribune  
 October 9, 1912  
-Berkeley  
+Berkeley
+{.noid}  
 
 
 

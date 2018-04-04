@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# A World Religion
+# A World Religion {.title}
 
 The Christian Commonwealth  
 September 6, 1911  
-  
+
+{.noid}  
 
 
 

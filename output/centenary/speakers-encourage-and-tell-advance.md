@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Speakers Encourage and Tell of Advance
+# Speakers Encourage and Tell of Advance {.title}
 
 The Chicago Defender  
 May 4, 1912  
-  
+
+{.noid}  
 
 
 

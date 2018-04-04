@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l Bahá Riding Around Town In An Automobile
+# ‘Abdu’l Bahá Riding Around Town In An Automobile {.title}
 
 The Chicago Sunday Tribune  
 May 12, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

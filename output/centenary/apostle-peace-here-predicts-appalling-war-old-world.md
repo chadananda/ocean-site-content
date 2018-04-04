@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Apostle of Peace Here Predicts an Appalling War in the Old World
+# Apostle of Peace Here Predicts an Appalling War in the Old World {.title}
 
 The Montreal Daily Star  
 August 31, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

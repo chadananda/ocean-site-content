@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Cleverness of the Bahá’í
+# Cleverness of the Bahá’í {.title}
 
 Grand Rapids Michigan Herald  
 November 17, 1912  
-Grand Rapids, MI  
+Grand Rapids, MI
+{.noid}  
 
 
 

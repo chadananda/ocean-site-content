@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Priest Tells Beliefs
+# Persian Priest Tells Beliefs {.title}
 
 The Philadelphia Press  
 June 10, 1912  
-Philadelphia  
+Philadelphia
+{.noid}  
 
 
 

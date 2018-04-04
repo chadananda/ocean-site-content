@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Prophet of Peace Comes to Buffalo
+# Prophet of Peace Comes to Buffalo {.title}
 
 Buffalo New York Times  
 September 10, 1912  
-Buffalo, NY  
+Buffalo, NY
+{.noid}  
 
 
 

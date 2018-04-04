@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# "The Light in the Lantern"
+# "The Light in the Lantern" {.title}
 
 El Paso Herald  
 January 19, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

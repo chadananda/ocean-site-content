@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Followers Observe New Year
+# Bahá’í Followers Observe New Year {.title}
 
 POST  
 March 22, 1912  
-Cambridge  
+Cambridge
+{.noid}  
 
 
 

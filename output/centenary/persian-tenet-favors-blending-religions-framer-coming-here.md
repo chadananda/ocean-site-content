@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Tenet Favors Blending of Religions; Framer Coming Here
+# Persian Tenet Favors Blending of Religions; Framer Coming Here {.title}
 
 (No Paper Named)  
 April 1, 1912  
-Kansas City, KS  
+Kansas City, KS
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Wonderful Persian Mystic, Expected To Be Here Next Month
+# ‘Abdu’l-Bahá Wonderful Persian Mystic, Expected To Be Here Next Month {.title}
 
 Portland Oregon Telegram  
 August 16, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Priest Lectures Here
+# Persian Priest Lectures Here {.title}
 
 Sacramento California Star  
 October 26, 1912  
-  
+
+{.noid}  
 
 
 

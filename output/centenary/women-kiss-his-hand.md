@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Women Kiss His Hand
+# Women Kiss His Hand {.title}
 
 The Baltimore Sun  
 November 12, 1912  
-Baltimore  
+Baltimore
+{.noid}  
 
 
 

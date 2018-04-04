@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leader of Bahá’ísm Is Here
+# Leader of Bahá’ísm Is Here {.title}
 
 The Red Cloud Chief (Webster Co Neb)  
 May 2, 1912  
-  
+
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# A Prophet from the East
+# A Prophet from the East {.title}
 
 San Francisco California Chronicle  
 July 29, 1912  
-San Francisco  
+San Francisco
+{.noid}  
 
 
 

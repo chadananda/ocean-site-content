@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Leader in Pulpit
+# Bahá’í Leader in Pulpit {.title}
 
 Washington DC Post  
 April 15, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

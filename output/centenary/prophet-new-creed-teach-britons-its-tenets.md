@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Prophet of New Creed To Teach Britons Its Tenets
+# Prophet of New Creed To Teach Britons Its Tenets {.title}
 
 The Daily Phoenix  
 September 19, 1911  
-  
+
+{.noid}  
 
 
 

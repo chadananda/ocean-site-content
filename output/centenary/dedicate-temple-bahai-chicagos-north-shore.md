@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# To Dedicate a Temple of Bahá’í on Chicago’s North Shore
+# To Dedicate a Temple of Bahá’í on Chicago’s North Shore {.title}
 
 No Paper  
 January 7, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

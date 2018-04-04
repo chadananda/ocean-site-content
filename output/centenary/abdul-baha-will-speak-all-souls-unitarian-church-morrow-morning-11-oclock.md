@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá will speak at All Souls’ Unitarian Church to-morrow morning at 11 o’clock
+# ‘Abdu’l-Bahá will speak at All Souls’ Unitarian Church to-morrow morning at 11 o’clock {.title}
 
 New York Tribune  
 July 13, 1912  
-  
+
+{.noid}  
 
 
 

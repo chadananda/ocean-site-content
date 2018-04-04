@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Speak
+# ‘Abdu’l-Bahá to Speak {.title}
 
 Worcester Telegram 2nd edition  
 May 22, 1912  
-Worcester, MA  
+Worcester, MA
+{.noid}  
 
 
 

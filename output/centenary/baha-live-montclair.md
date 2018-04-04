@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá To Live In Montclair
+# Bahá To Live In Montclair {.title}
 
 The New York Times  
 June 2, 1912  
-Montclair, NJ  
+Montclair, NJ
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Universal Movement Towards Unity
+# The Universal Movement Towards Unity {.title}
 
 The Christian Commonwealth  
 December 6, 1911  
-  
+
+{.noid}  
 
 
 

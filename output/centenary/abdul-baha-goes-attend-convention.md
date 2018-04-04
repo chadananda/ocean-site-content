@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Goes to Attend Convention
+# ‘Abdu’l-Bahá Goes to Attend Convention {.title}
 
 Washington DC Times  
 April 28, 1912  
-Washington D.C.  
+Washington D.C.
+{.noid}  
 
 
 

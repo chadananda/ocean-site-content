@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Canada Should Prepare For Great War Coming, Says Apostle of Peace
+# Canada Should Prepare For Great War Coming, Says Apostle of Peace {.title}
 
 The Montreal Daily Star  
 September 11, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

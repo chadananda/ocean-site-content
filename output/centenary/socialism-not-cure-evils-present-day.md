@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Socialism Not Cure For Evils of Present Day
+# Socialism Not Cure For Evils of Present Day {.title}
 
 The Montreal Daily Star  
 September 5, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

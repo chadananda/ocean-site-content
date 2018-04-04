@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Returns
+# ‘Abdu’l-Bahá Returns {.title}
 
 Boston Massachusetts Evening Transcript  
 August 26, 1912  
-Boston, MA  
+Boston, MA
+{.noid}  
 
 
 

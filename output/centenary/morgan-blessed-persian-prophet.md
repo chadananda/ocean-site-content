@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Morgan Blessed by Persian Prophet
+# Morgan Blessed by Persian Prophet {.title}
 
 Buffalo New York News  
 November 19, 1912  
-Buffalo, NY  
+Buffalo, NY
+{.noid}  
 
 
 

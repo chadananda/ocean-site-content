@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Earth Should Be Paradise, Says Seer ‘Abdu’l-Bahá
+# Earth Should Be Paradise, Says Seer ‘Abdu’l-Bahá {.title}
 
 The Montreal Daily Star  
 September 4, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

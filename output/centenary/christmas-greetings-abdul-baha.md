@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Christmas Greetings From ‘Abdu’l-Bahá
+# Christmas Greetings From ‘Abdu’l-Bahá {.title}
 
 (No Paper)  
 December 6, 1911  
-Paris  
+Paris
+{.noid}  
 
 
 

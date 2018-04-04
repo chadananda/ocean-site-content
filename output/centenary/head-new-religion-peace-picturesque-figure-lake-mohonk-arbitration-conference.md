@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Head of New Religion of Peace Is Picturesque Figure at Lake Mohonk Arbitration Conference
+# Head of New Religion of Peace Is Picturesque Figure at Lake Mohonk Arbitration Conference {.title}
 
 The Superior (Wisc) News Tribune  
 June 7, 1912  
-New Paltz, NY  
+New Paltz, NY
+{.noid}  
 
 
 

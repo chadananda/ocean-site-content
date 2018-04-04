@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas Arrived in New York
+# ‘Abdu’l-Bahá Abbas Arrived in New York {.title}
 
 Buffalo New York Commercial  
 April 17, 1912  
-Buffalo, NY  
+Buffalo, NY
+{.noid}  
 
 
 

@@ -30,10 +30,10 @@ module.exports = function requestHandler(doc) {
   meta.copyright = '© 2011 National Spiritual Assembly of the Bahá’ís of the United States' 
   
   var htmltext = doc.$('.node.build-mode-full .node-body').html() 
-  var markdown = '# ' + meta.title +'\n\n'
+  var markdown = '# ' + meta.title +' {.title}\n\n'
     + meta.source +'  \n'
     + meta.date +'  \n'
-    + meta.location +'  \n\n\n\n'  
+    + meta.location +'\n{.noid}  \n\n\n\n'  
     + turndownService.turndown(htmltext)
    
   output_page(outputFolder, outputFile, meta, markdown)

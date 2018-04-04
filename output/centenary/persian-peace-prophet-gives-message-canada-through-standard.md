@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Peace Prophet Gives Message to Canada through the Standard
+# Persian Peace Prophet Gives Message to Canada through the Standard {.title}
 
 Harbor Grace Standard  
 September 7, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

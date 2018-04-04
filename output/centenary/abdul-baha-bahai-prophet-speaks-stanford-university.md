@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá, the Bahá’í Prophet, Speaks at Stanford University
+# ‘Abdu’l-Bahá, the Bahá’í Prophet, Speaks at Stanford University {.title}
 
 The Palo Altan  
 November 1, 1912  
-Palo Alto, CA  
+Palo Alto, CA
+{.noid}  
 
 
 

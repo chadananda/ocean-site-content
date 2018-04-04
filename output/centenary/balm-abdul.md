@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Balm of ‘Abdul
+# The Balm of ‘Abdul {.title}
 
 The Chicago Daily Tribune  
 May 1, 1912  
-  
+
+{.noid}  
 
 
 

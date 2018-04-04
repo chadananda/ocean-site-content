@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas Arrived on a Mission
+# ‘Abdu’l-Bahá Abbas Arrived on a Mission {.title}
 
 Putnam Connecticut Patriot  
 April 19, 1912  
-Putnam, CT  
+Putnam, CT
+{.noid}  
 
 
 

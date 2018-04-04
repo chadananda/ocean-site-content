@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Brings Cult From Persia
+# Brings Cult From Persia {.title}
 
 Kansas City Star  
 April 11, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

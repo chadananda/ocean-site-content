@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet In London
+# Persian Prophet In London {.title}
 
 Boston Evening Transcript  
 September 9, 1911  
-  
+
+{.noid}  
 
 
 

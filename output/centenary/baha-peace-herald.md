@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá is Peace Herald
+# Bahá is Peace Herald {.title}
 
 Chicago Daily News  
 April 30, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

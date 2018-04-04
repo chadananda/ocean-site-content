@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Prophet of Bahá’ísm a London Society Cult
+# Persian Prophet of Bahá’ísm a London Society Cult {.title}
 
 The Gazette Times  
 September 30, 1911  
-London  
+London
+{.noid}  
 
 
 

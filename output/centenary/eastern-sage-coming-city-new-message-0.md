@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Eastern Sage Coming to City with New Message
+# Eastern Sage Coming to City with New Message {.title}
 
 The Montreal Daily Star  
 February 10, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá, Head of New Religion of Brotherhood
+# ‘Abdu’l-Bahá, Head of New Religion of Brotherhood {.title}
 
 The Evening News (San Jose)  
 June 15, 1912  
-San Jose, CA  
+San Jose, CA
+{.noid}  
 
 
 

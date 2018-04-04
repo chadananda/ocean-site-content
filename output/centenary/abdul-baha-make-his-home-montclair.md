@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Make his Home in Montclair
+# ‘Abdu’l-Bahá to Make his Home in Montclair {.title}
 
 The Agitator Wellsboro Pennsylvania  
 July 3, 1912  
-Wellsboro, PA  
+Wellsboro, PA
+{.noid}  
 
 
 

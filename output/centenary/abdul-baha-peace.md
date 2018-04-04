@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá on Peace
+# ‘Abdu’l-Bahá on Peace {.title}
 
 Boston Massachusetts Evening Transcript  
 May 14, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

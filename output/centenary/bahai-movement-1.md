@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# The Bahá’í Movement
+# The Bahá’í Movement {.title}
 
 Cleveland Ohio Plaindealer  
 May 12, 1912  
-Chicago  
+Chicago
+{.noid}  
 
 
 

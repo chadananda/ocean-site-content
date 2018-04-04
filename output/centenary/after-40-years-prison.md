@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# After 40 Years In Prison
+# After 40 Years In Prison {.title}
 
 SFO Daily News  
 February 28, 1912  
-San Francisco, CA  
+San Francisco, CA
+{.noid}  
 
 
 

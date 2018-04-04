@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Men and Women Equal is Doctrine of Persian Sage
+# Men and Women Equal is Doctrine of Persian Sage {.title}
 
 Philadelphia PA (newspaper)  
 June 10, 1912  
-Philadelphia  
+Philadelphia
+{.noid}  
 
 
 

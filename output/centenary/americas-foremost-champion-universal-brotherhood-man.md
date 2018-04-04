@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# America’s Foremost Champion of Universal Brotherhood of Man
+# America’s Foremost Champion of Universal Brotherhood of Man {.title}
 
 The Evening News (San Jose)  
 June 15, 1912  
-  
+
+{.noid}  
 
 
 

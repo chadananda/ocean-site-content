@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Leader May Address Bethel Literary
+# Bahá’í Leader May Address Bethel Literary {.title}
 
 Wash DC Bee  
 March 30, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

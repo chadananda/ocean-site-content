@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# A Message from ‘Abdu’l-Bahá, Head of the Bahá’ís
+# A Message from ‘Abdu’l-Bahá, Head of the Bahá’ís {.title}
 
 The New York Times  
 April 21, 1912  
-New York  
+New York
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Leader In Minneapolis Tells of Mission
+# Bahá’í Leader In Minneapolis Tells of Mission {.title}
 
 Minneapolis (no paper)  
 September 18, 1912  
-Minneapolis  
+Minneapolis
+{.noid}  
 
 
 

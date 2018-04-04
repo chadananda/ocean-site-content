@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# All Right Nations Slogan
+# All Right Nations Slogan {.title}
 
 Chicago Illinois Record Herald  
 May 13, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

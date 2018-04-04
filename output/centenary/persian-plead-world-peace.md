@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian to Plead for World Peace
+# Persian to Plead for World Peace {.title}
 
 Boston Mass Post  
 August 23, 1912  
-Boston, MA  
+Boston, MA
+{.noid}  
 
 
 

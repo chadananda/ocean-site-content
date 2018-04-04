@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Message of Universal Religion Brought by Persian M [text missing]
+# Message of Universal Religion Brought by Persian M [text missing] {.title}
 
 The Daily News Denver Colorado  
 September 25, 1912  
-  
+
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Pleads for Religious Unity
+# Pleads for Religious Unity {.title}
 
 The New York Times  
 July 15, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

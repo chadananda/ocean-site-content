@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Head of New Religion at Arbitaration Conference
+# Head of New Religion at Arbitaration Conference {.title}
 
 Berkeley California Gazette  
 May 24, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

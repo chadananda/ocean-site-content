@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# America Foremost Champion of Universal Brotherhood of Man
+# America Foremost Champion of Universal Brotherhood of Man {.title}
 
 Fond du Lac Wis Reporter  
 July 6, 1912  
-Fond du Lac, WI  
+Fond du Lac, WI
+{.noid}  
 
 
 

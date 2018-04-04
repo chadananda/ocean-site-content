@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# "Prophet of Glory" Visits Minneapolis
+# "Prophet of Glory" Visits Minneapolis {.title}
 
 The Minneapolis Morning Tribune  
 September 20, 1912  
-Minneapolis  
+Minneapolis
+{.noid}  
 
 
 

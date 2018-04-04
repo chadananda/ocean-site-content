@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Head of a New Cult
+# Head of a New Cult {.title}
 
 Pittsburg PA Times  
 April 17, 1912  
-New York  
+New York
+{.noid}  
 
 
 

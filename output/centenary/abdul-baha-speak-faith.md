@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá to Speak on Faith
+# ‘Abdu’l-Bahá to Speak on Faith {.title}
 
 Oakland California Enquirer  
 October 9, 1912  
-  
+
+{.noid}  
 
 
 

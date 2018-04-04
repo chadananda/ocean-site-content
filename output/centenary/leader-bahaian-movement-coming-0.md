@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Leader of Bahá’ían Movement is Coming
+# Leader of Bahá’ían Movement is Coming {.title}
 
 Chicago (rest missing)  
 April 14, 1912  
-Chicago, IL  
+Chicago, IL
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Bahá’í Leader at Howard University
+# Bahá’í Leader at Howard University {.title}
 
 ProQuest Historical Newspapers Baltimore Maryland Afro-American  
 April 25, 1912  
-Washington, DC  
+Washington, DC
+{.noid}  
 
 
 

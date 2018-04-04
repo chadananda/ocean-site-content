@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# A Barbecue for ‘Abdu’l-Bahá
+# A Barbecue for ‘Abdu’l-Bahá {.title}
 
 The Sun  
 June 28, 1912  
-Morris Plains, NJ  
+Morris Plains, NJ
+{.noid}  
 
 
 

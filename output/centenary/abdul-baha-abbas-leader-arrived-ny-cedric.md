@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas leader arrived NY Cedric
+# ‘Abdu’l-Bahá Abbas leader arrived NY Cedric {.title}
 
 Hawaii Evening Bulletin  
 April 25, 1912  
-New York  
+New York
+{.noid}  
 
 
 

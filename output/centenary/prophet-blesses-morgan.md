@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Prophet Blesses Morgan
+# Prophet Blesses Morgan {.title}
 
 Hawaiian Gazette  
 December 6, 1912  
-New York  
+New York
+{.noid}  
 
 
 

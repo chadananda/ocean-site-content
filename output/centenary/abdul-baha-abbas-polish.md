@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Abbas (Polish)
+# ‘Abdu’l-Bahá Abbas (Polish) {.title}
 
 Chicago paper (no name given)  
 May 22, 1912  
-  
+
+{.noid}  
 
 
 

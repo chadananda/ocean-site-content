@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Servant of Splendor
+# ‘Abdu’l-Bahá Servant of Splendor {.title}
 
 Inter Ocean  
 May 2, 1912  
-Chicago  
+Chicago
+{.noid}  
 
 
 

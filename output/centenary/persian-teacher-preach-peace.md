@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Persian Teacher to Preach Peace
+# Persian Teacher to Preach Peace {.title}
 
 The Montreal Gazette  
 August 29, 1912  
-Montreal, QC  
+Montreal, QC
+{.noid}  
 
 
 

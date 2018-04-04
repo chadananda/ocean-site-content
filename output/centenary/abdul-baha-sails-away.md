@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# ‘Abdu’l-Bahá Sails Away
+# ‘Abdu’l-Bahá Sails Away {.title}
 
 New York City Times  
 December 6, 1912  
-New York, NY  
+New York, NY
+{.noid}  
 
 
 

@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# After 40 years
+# After 40 years {.title}
 
 Wilmington DEL Star  
 June 30, 1912  
-  
+
+{.noid}  
 
 
 

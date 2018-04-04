@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Faith of the Bahá’ís is Revealed by Its Chief
+# Faith of the Bahá’ís is Revealed by Its Chief {.title}
 
 No Paper  
 November 18, 1912  
-Paris  
+Paris
+{.noid}  
 
 
 

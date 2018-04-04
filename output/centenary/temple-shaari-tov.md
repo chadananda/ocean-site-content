@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Temple Shaari Tov
+# Temple Shaari Tov {.title}
 
 Minneapolis Tribune  
 September 23, 1912  
-Minneapolis  
+Minneapolis
+{.noid}  
 
 
 

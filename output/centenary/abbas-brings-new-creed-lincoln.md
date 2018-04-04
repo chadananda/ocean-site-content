@@ -15,11 +15,12 @@ copyright: © 2011 National Spiritual Assembly of the Bahá’ís of the United 
 ---
 
 
-# Abbas Brings New Creed to Lincoln
+# Abbas Brings New Creed to Lincoln {.title}
 
 The Lincoln Nebraska Daily Star  
 September 23, 1912  
-Lincoln, NE  
+Lincoln, NE
+{.noid}  
 
 
 
