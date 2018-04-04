@@ -8,6 +8,8 @@ const pageCache = require('../page_cache.js')
 var pages = {} // keep a list of loaded pages so we don't repeat same URL (from cache)
 
 module.exports = function requestHandler(doc) {
+  if (!doc.url) return
+    
   pageCache.put(doc)  
   const spider = this 
   const turndownService = new TurndownService({headingStyle: 'atx'}) 

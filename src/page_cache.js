@@ -12,6 +12,10 @@ const MAX_AGE = 7 // days
 
 
 function urltoPath(url) {
+  if (!url) {
+    console.error('Warning, call to urltoPath() with empty string')
+    return ''
+  }
   var newpath = pageCacheFolder + url.replace(/http[s]?:\/\//, '')
     .replace(/\//g, ',').replace(/[ ]+/g, '-') + '.json'
   return newpath
@@ -55,25 +59,20 @@ module.exports = {
     return new Promise((resolve, reject) => { 
       // if file exists, load else false
       var cacheFilePath = urltoPath(url) 
+      if (!cacheFilePath) reject('No legit path')
       fileExists(cacheFilePath).then(exists => {
-        if (exists) {
-          // get url & last change time  
-          jsonfile.readFile(cacheFilePath, function(err, doc) {
-            //console.log(doc.pageCacheDate, todayInt(), MAX_AGE) 
-            if (!err && todayInt()-doc.pageCacheDate<=MAX_AGE) {
-              //console.log('Resolved page from cache...')
-              doc.resolve = function(uri) { return url_tool.resolve(this.url, uri) }
-              doc.$ = cheerio.load(doc.res.body)
-              resolve(doc) 
-              return
-            } else if (todayInt()-doc.pageCacheDate>MAX_AGE) {
-              fs.unlink(cacheFilePath)
-              resolve(false)
-              return
-            }
-          }) 
-        } 
-        else resolve(false)
+        if (!exists) { resolve(false); return } 
+        jsonfile.readFile(cacheFilePath, function(err, doc) {
+          if (err) { reject('Bad JSON Cache file'); return } 
+          if (todayInt()-doc.pageCacheDate<=MAX_AGE) { 
+            doc.resolve = function(uri) { return url_tool.resolve(this.url, uri) }
+            doc.$ = cheerio.load(doc.res.body)
+            resolve(doc); return
+          } else {
+            fs.unlink(cacheFilePath)
+            resolve(false); return
+          }
+        })  
       })
     })
   }
