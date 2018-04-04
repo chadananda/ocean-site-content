@@ -5,7 +5,9 @@ const output_page = require('../output_page.js')
  
 
 
-module.exports = function(doc) {
+module.exports = function requestHandler(doc) {
+  const parentSpiderObj = this 
+    
   const turndownService = new TurndownService() 
   var outputFolder = 'output/centenary/'
   var host = 'https://centenary.bahai.us' 
@@ -41,7 +43,7 @@ module.exports = function(doc) {
       // do stuff with element 
       var href = doc.$(elem).attr('href').split('#')[0]
       var url = doc.resolve(href)
-      //spider.queue(url, handleRequest);
+      parentSpiderObj.queue(url, requestHandler);
   })
 }
  
