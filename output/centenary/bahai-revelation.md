@@ -50,8 +50,7 @@ Bahá’ís have been the victims of much persecution. But the cause thrives bes
 > 
 > “If you have a word or a fragrance which a brother has not, offer it with the tongue of love and kindness. If it is accepted, the end is attained. If not, with regard to him deal not harshly, but pray.”
 
-THE SHEPARD IDEA
-----------------
+## THE SHEPARD IDEA
 
 ### Spreading Among the Whites.
 

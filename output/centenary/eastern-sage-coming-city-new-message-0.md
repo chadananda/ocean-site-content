@@ -24,8 +24,7 @@ Montreal, QC
 
 
 
-Bahá’í Movement Seeks to Bind All Religionists Into One Brotherhood.
---------------------------------------------------------------------
+## Bahá’í Movement Seeks to Bind All Religionists Into One Brotherhood.
 
 ### ‘ABDU’L-BAHA LEADER OF TWO MILLION ADHERENTS
 

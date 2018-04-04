@@ -24,8 +24,7 @@ New York
 
 
 
-To the Editor of The Tribune.
------------------------------
+## To the Editor of The Tribune.
 
 Sir: The papers at present have much in their columns about the Persian teacher, ‘Abdu’l-Bahá. He is here to sound the great note of peace based on human solidarity and human love. Those who have heard him speak, who have heard his earnest plea for perfect tolerance, perfect co-operation in religions and other affairs must carry away in their hearts a high resolve to break down all barriers such as those of creed, dogma, narrow patriotism, which keep out human brotherhood.
 

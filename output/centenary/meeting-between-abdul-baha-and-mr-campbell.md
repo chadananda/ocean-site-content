@@ -36,8 +36,7 @@ It has been my good fortune to meet ‘Abdu’l-Bahá several times during the p
 
 I happened to be in the room when Rev. R. J. Campbell was announced. There were also present several English ladies. Mr. Dreyfus-Barney (who kindly acted as interpreter), Tamaddon-ul-Molk (‘Abdu’l-Bahá’s secretary), an elderly Persian scribe who sat like a statue taking notes of the Master’s words, and another Persian gentleman — altogether a picturesque mingling of East and West.
 
-Meeting Between ‘Abdu’l-Bahá and Mr. Campbell.
-----------------------------------------------
+## Meeting Between ‘Abdu’l-Bahá and Mr. Campbell.
 
 Immediately Mr. Campbell entered the room ‘Abdu’l-Bahá rose from his chair and advanced to meet him with smiling face and arms extended. The elder man grasped both the hands of the younger, and, retaining them, warmly greeted him. His expression and manner showed that he regarded the occasion as no ordinary one. Standing face to face, linked hand in hand, in the centre of the room, these two spiritual leaders of world-wide fame — Eastern and Western, but essentially one in their outlook on life — formed an impressive picture that is stamped indelibly on the mind’s eye of all who were privileged to be present. The meeting was so remarkable that I ventured to take notes of the conversation (conducted through an interpreter), and here reproduce them. It should be mentioned that the note-taking was quite unpremeditated. Neither speaker was aware that his words were being recorded. The conversation was private, and permission to publish was given with reluctance.
 

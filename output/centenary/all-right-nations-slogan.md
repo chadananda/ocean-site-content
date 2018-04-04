@@ -24,8 +24,7 @@ New York, NY
 
 
 
-Persian Prophet Says All Americans Use That Phrase.
----------------------------------------------------
+## Persian Prophet Says All Americans Use That Phrase.
 
 ### \[SPECIAL TO THE RECORD-HERALD.\]
 

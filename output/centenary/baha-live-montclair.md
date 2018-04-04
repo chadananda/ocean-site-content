@@ -24,8 +24,7 @@ Montclair, NJ
 
 
 
-Famous Persian Religious Leader Takes a House There.
-----------------------------------------------------
+## Famous Persian Religious Leader Takes a House There.
 
 ### Special to The New York Times.
 

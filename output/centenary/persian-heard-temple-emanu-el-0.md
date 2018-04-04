@@ -24,8 +24,7 @@ October 13, 1912
 
 
 
-‘Abdu’l-Bahá Abbas Gives His Message of the Unity of Religions.
----------------------------------------------------------------
+## ‘Abdu’l-Bahá Abbas Gives His Message of the Unity of Religions.
 
 ‘Abdu’l-Bahá Abbas, prophet of universal religion, the eradication of prejudice, and dogma, and the establishment of universal peace and the fellowship of humanity, spoke at the regular service in Temple Emanu-El yesterday morning.
 

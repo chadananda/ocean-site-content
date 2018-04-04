@@ -44,8 +44,7 @@ After his release from prison ‘Abdu’l-Bahá Abbas visited London and Paris, 
 
 There are now Bahá’í assemblies in all the larger cities of the United States and centers in every nation of the world.
 
-‘Abdu’l-Bahá’s Message to Europe.
----------------------------------
+## ‘Abdu’l-Bahá’s Message to Europe.
 
 When ‘Abdu’l-Bahá Abbas left Europe for Egypt a month ago, he wrote the following farewell address to the people of England and France, whom he had visited:
 

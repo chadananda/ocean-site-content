@@ -24,8 +24,7 @@ San Francisco, CA
 
 
 
-‘ABDU’L-BAHA: The Prophet Tells of the Spiritual Growth of the Movement Which Calls Upon Humanity to Put Aside Differences and to Achieve Unity.
-------------------------------------------------------------------------------------------------------------------------------------------------
+## ‘ABDU’L-BAHA: The Prophet Tells of the Spiritual Growth of the Movement Which Calls Upon Humanity to Put Aside Differences and to Achieve Unity.
 
 ### by JOHN D. BARRY
 

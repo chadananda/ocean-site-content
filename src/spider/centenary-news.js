@@ -8,7 +8,7 @@ const output_page = require('../output_page.js')
 module.exports = function requestHandler(doc) {
   const parentSpiderObj = this 
     
-  const turndownService = new TurndownService() 
+  const turndownService = new TurndownService({headingStyle: 'atx'}) 
   var outputFolder = 'output/centenary/'
   var host = 'https://centenary.bahai.us' 
   var outputFile = outputFolder + doc.url.replace(/^https:\/\/centenary.bahai.us\/news\/(.*?)$/m, '$1') + '.md'

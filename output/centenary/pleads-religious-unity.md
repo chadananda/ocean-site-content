@@ -24,8 +24,7 @@ New York, NY
 
 
 
-Sectarianism Should Not Be a Bar to Peace, ‘Abdu’l-Bahá Says.
--------------------------------------------------------------
+## Sectarianism Should Not Be a Bar to Peace, ‘Abdu’l-Bahá Says.
 
 ‘Abdu’l-Bahá, the Persian advocate of a universal religion, addressed a large congregation at All Souls’ Unitarian Church, Fourth Avenue and Twentieth Street, yesterday morning. The Persian was introduced by the Rev. Leon A. Harvey, a Unitarian pastor of Brooklyn.
 

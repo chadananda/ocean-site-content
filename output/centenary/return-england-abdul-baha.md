@@ -24,8 +24,7 @@ December 8, 1912
 
 
 
-Persian Prophet Coming Back To London After Visit To U. S.
-----------------------------------------------------------
+## Persian Prophet Coming Back To London After Visit To U. S.
 
 Abbas Effendi, or ‘Abdu’l-Bahá (Servant of God), as he prefers to be called, is due to arrive in England on the Celtic on the 13th inst. By a strange coincidence he reaches London on the very day set for the peace negotiations.
 

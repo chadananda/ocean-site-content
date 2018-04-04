@@ -24,8 +24,7 @@ Chicago, IL
 
 
 
-By Mildred Miller
------------------
+## By Mildred Miller
 
 No greater meeting has ever been held in the later history of this country. From the brilliant opening at Sinai temple Sunday evening through to the closing Tuesday night in Handel hall, every session was marked with an intense earnestness of purpose, and the addresses were of an unusually high order and teaming with information and human interest.
 

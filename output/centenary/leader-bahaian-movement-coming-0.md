@@ -24,8 +24,7 @@ Chicago, IL
 
 
 
-‘Abdu’l-Bahá, Gifted Persian, to Attend International Congress Here.
---------------------------------------------------------------------
+## ‘Abdu’l-Bahá, Gifted Persian, to Attend International Congress Here.
 
 ‘Abdu’l-Bahá, the extraordinarily gifted Persian who heads the Bahá’ían movement for the inauguration of the millennium, will arrive in Chicago on April 27, when the international Bahá’ían congress open. Delegates from all quarters of the globe will attend the congress, which will last for five days.
 

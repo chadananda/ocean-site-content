@@ -24,8 +24,7 @@ Worcester, MA
 
 
 
-‘Abdu’l-Bahá Abbas at Clark College
------------------------------------
+## ‘Abdu’l-Bahá Abbas at Clark College
 
 ### TOUCHES BUT LIGHTLY ON RELIGION
 

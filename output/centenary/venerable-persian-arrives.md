@@ -24,8 +24,7 @@ San Francisco, CA
 
 
 
-‘ABDU’L-BAHA BRINGS MESSAGE
----------------------------
+## ‘ABDU’L-BAHA BRINGS MESSAGE
 
 ### Chief of Movement for Universal Peace and the Brotherhood of Man is San Francisco’s Guest.
 

@@ -24,8 +24,7 @@ Washington DC, DC
 
 
 
-Leader of Bahá’í Movement to Leave for Chicago to Attend Conference.
---------------------------------------------------------------------
+## Leader of Bahá’í Movement to Leave for Chicago to Attend Conference.
 
 ‘Abdu’l-Bahá, Abbas Effendi, oriental seer and world leader of the Bahá’í movement, will make his last public appearance in the National Capital, incident to his present tour of America, at a meeting to be held Friday evening at 8 o’clock in the D.A.R. Memorial Continental Hall. This meeting will be under the auspices of the newly organized Orient-Occident Unity, and Mirza Ahmad Sohrab, treasurer, and Joseph H. Hannen, secretary, of the society, have issued an invitation to the public to attend. Immediately after the meeting ‘Abdu’l-Bahá and his party will leave for Chicago, where the Bahá’í leader is to be present at the fourth annual conference of the Bahá’í movement.
 

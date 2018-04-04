@@ -24,7 +24,6 @@ Boston, MA
 
 
 
-Public Invited to Hear International Peace Advocate.
-----------------------------------------------------
+## Public Invited to Hear International Peace Advocate.
 
 ‘Abdu’l-Bahá, the Persian laborer for international peace and religious unity, will speak tonight at 8 o’clock in Huntington Hall, 30 Huntington avenue. The meeting will be held under the auspices of Bahá’í Assembly of Boston. No admission will be charged and the public is invited.

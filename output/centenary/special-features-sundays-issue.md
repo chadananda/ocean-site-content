@@ -24,15 +24,13 @@ May 3, 1912
 
 
 
-The New York Tribune
---------------------
+## The New York Tribune
 
 ### (The Fastest Growing Newspaper)
 
 ### Special Features in Sunday’s Issue
 
-‘Abdu’l-Bahá Talks to Kate Carew of Things Spiritual and Mundane
-----------------------------------------------------------------
+## ‘Abdu’l-Bahá Talks to Kate Carew of Things Spiritual and Mundane
 
 Oriental who would break down sectarian lines and unite mankind under a single simple religious creed finds in the power of the spirit an answer to all worldly problems. This leader of the Bahá’ítes, who has been called the “Breeze of God,” reveals to interviewer a day’s processes in his quiet campaign for the advancement of his spiritual philosophy.
 

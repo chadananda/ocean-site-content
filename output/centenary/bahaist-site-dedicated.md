@@ -24,8 +24,7 @@ Chicago, IL
 
 
 
-PROPHET OF UNIVERSAL PEACE CONSECRATES PLOT TO CAUSE
-----------------------------------------------------
+## PROPHET OF UNIVERSAL PEACE CONSECRATES PLOT TO CAUSE
 
 ### Brief Ceremony Marks Exercises on North Shore After Discourse on America Is Given at the Plaza Hotel.
 

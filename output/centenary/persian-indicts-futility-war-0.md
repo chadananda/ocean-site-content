@@ -24,8 +24,7 @@ Palo Alto, CA
 
 
 
-‘Abdu’l-Bahá Declares International Strife Unscientific and Contrary to Nature.
--------------------------------------------------------------------------------
+## ‘Abdu’l-Bahá Declares International Strife Unscientific and Contrary to Nature.
 
 An aged man, with a long white beard and a benign and saintly race, stood on the platform of the Assembly hall this morning and demonstrated the utter uselessness of war and its waste, with all the poetic beauty of oriental philosophy.
 

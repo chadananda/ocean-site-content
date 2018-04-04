@@ -24,8 +24,7 @@ London, ON
 
 
 
-Oriental Faith of the Reformed Mohammedanism Type Has Followers Here.
----------------------------------------------------------------------
+## Oriental Faith of the Reformed Mohammedanism Type Has Followers Here.
 
 The Bahá’í Revelation has come to London. A kind of reformed Mohammedanism, this Oriental faith, launched in the forties of the ninetheenth century by Mirza Ali Muhammed of Shiraz, in Persia, better known as Bah, which in English means “door or gate,” is said to have already won more than 8,000 followers in America.
 

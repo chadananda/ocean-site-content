@@ -24,8 +24,7 @@ Washington DC
 
 
 
-Abbas Effendi Soon to Tour America to Preach Bahá’í Revelation.
----------------------------------------------------------------
+## Abbas Effendi Soon to Tour America to Preach Bahá’í Revelation.
 
 ### HAS THOUSANDS OF FOLLOWERS HERE
 

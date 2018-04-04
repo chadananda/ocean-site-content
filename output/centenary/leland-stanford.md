@@ -24,8 +24,7 @@ Palo Alto, CA
 
 
 
-President Jordan Touring Middle West in Interests of World Peace.
------------------------------------------------------------------
+## President Jordan Touring Middle West in Interests of World Peace.
 
 ### Special to The New York Times.
 

@@ -24,8 +24,7 @@ New York, NY
 
 
 
-BY ETHEL STEFANA STEVENS
-------------------------
+## BY ETHEL STEFANA STEVENS
 
 Editor’s Note: — For seventy years a religion without church, priest, creed, or fixed form of worship has been spreading through the Orient, claiming converts and martyrs by thousands. Love and Unity are its sole principles; and on this broad program believers in various faiths can unite. This movement, called Bahá’ísm, has also extended to Europe, Great Britain, Hawaii, and the United States. In this country the Bahá’ís number thousands, with large assemblies in Boston, New York, Washington, Chicago, Los Angeles, Oakland, Seattle, and Kenosha, Wisconsin. The Mashrak-el-Askar (literally, the Dawning Place of Mention), a great temple where all races and creeds may worship, is about to be built in Chicago. Miss Steven’s thrilling story of Bahá’ísm in its years of persecution, and her sympathetic interpretation of the movement, gather an additional interest from the fact that the Bahá’í leader, ‘Abdu’l-Bahá Abbas, is now making a visit to the Western world. Her acquaintance with ‘Abdu’l-Bahá in his Oriental home makes her story authoritative — a first-hand, intimate study.
 

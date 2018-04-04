@@ -24,13 +24,11 @@ Baltimore
 
 
 
-WOMEN KISS HIS HAND
--------------------
+## WOMEN KISS HIS HAND
 
 Persian Advocate Of Human Brotherhood Is Venerated.
 
-FOLLOWERS SURROUND HIM
-----------------------
+## FOLLOWERS SURROUND HIM
 
 Lectures in Unitarian Chapel, Expounding Doctrines Which Have Made Him Famous.
 
@@ -40,27 +38,23 @@ That he is held in veneration by those who have accepted his doctrine of the uni
 
 With condescension, he greeted his followers as they were presented by the interpreter, Dr. Ameer U. Farewed, a Persian and a graduate in medicine of Johns Hopkins University. “Oh, I am so glad to see you,” was uttered in tones of reverence by the women as they bowed before him and kissed his wrinkled hand.
 
-Robed In Black.
----------------
+## Robed In Black.
 
 In appearance the Persian teacher is a striking-looking man of about 70 years. He is of the average height, with a strong, rugged face covered with a short white beard. His cheekbones are high, his eyes bright and flashing.
 
 At the lecture he wore a robe of black, with a triangular insert of light tan in front reaching from the hem to the neck. The long sleeves of the garment were turned back from the strong hands. Distinguishing him from his escort was a white turban which he wore, from beneath which gleamed locks of iron gray. Members of his escort wore black turbans.
 
-The Lecture Interpreted.
-------------------------
+## The Lecture Interpreted.
 
 The lecture was delivered in Persian and was translated by Dr. Farewed. While his words were, of course, unintelligible to the audience, his manner of deliverance was impressive. His voice, except at rare intervals, was pitched low. At times, however, it increased in volume and he would speak for several minutes before pausing to let the interpreter translate. He used frequent gestures, the favorite one being an inclusive swing of both arms to show the universality of the doctrine he propounded. He also frequently leaned over the reading desk and looked at his hearers.
 
-Oneness Of The Human Race.
---------------------------
+## Oneness Of The Human Race.
 
 “God is one, we are His children, submerged in the sea of his kindness,” was the theme. He said all divine religions had two parts, the essentials, which dealt with morality and ethical standards, and the non-essentials, which changed with time and place.
 
 In proof of this he compared the teaching of Moses and Christ, both of whom he styled “His Holiness.” He declared that the penal code announced by Moses was necessary for the Israelites traveling through the wilderness, but was repealed by Christ. Theological dogmas, which, he said, had crept into religions, he declared were useless and should be forsaken. These minor differences, he declared, were the cause of the world’s bitterness and strife and their elimination would bring about universal peace and love.
 
-Forty Years In Prison In Servia.
---------------------------------
+## Forty Years In Prison In Servia.
 
 ‘Abdu’l-Bahá Abbas was born in Persia in 1844 on the day, his followers declare, when several sects of Adventists in this country were looking for the second coming of Christ. At an early age he was arrested by the Turkish authorities for his religious beliefs and for 40 years was imprisoned in a fortress in old Servia, the territory which is now an issue in the Balkan war.
 

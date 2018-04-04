@@ -24,8 +24,7 @@ Buffalo, NY
 
 
 
-Hail, ‘Abdul-Bahá Abbas
------------------------
+## Hail, ‘Abdul-Bahá Abbas
 
 ### Universal Peace and Unity of the World His Aim, Without Asking Followers to Relinquish Their Respective Religions.
 

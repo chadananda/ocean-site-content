@@ -24,8 +24,7 @@ London
 
 
 
-Reception at the Westminster Palace Hotel.
-------------------------------------------
+## Reception at the Westminster Palace Hotel.
 
 In a highly modern setting a picturesque meeting of East and West took place last Friday evening. ‘Abdu’l-Bahá’s return from his American tour gave his followers in this country their first opportunity of welcoming the Master, and a reception was held in the Westminster Palace Hotel, presided over by Sir Thomas Barclay. The numbers present were an indication of the interest now taken in the Bahá’í movement. Dark Eastern faces, impassive Japanese, and representatives of the Continental nations appeared in sharp contrast with the English people who formed the bulk of the assembly. But there was no diversity visible as these groups fused and intermingled.
 

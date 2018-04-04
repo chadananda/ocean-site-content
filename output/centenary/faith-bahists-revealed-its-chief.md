@@ -24,8 +24,7 @@ Paris
 
 
 
-Persian Prophet Declares Tenets of the Coming “Religion of the World.”
-----------------------------------------------------------------------
+## Persian Prophet Declares Tenets of the Coming “Religion of the World.”
 
 ### By Paul Pierre Rignaux
 

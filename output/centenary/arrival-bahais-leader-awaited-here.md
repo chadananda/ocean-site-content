@@ -24,8 +24,7 @@ Washington
 
 
 
-ARRIVAL OF BAHAIS’ LEADER AWAITED BY FOLLOWERS HERE
----------------------------------------------------
+## ARRIVAL OF BAHAIS’ LEADER AWAITED BY FOLLOWERS HERE
 
 ### AWAITED BY BAHAIS HERE
 

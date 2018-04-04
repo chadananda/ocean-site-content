@@ -24,8 +24,7 @@ Biddeford, ME
 
 
 
-Impressions Made by the Eastern Master Upon His Hearers.
---------------------------------------------------------
+## Impressions Made by the Eastern Master Upon His Hearers.
 
 The week of August 19 was the really important week at Greenacre this season, for the great Persian leader, ‘Abdu’l-Bahá, who has been visiting all the important cities in this country this summer, was there all the week, speaking every day, and giving private interviews to many people in addition. The principles for which ‘Abdu’l-Bahá stands, “peace and unity,” have always been the principles of Greenacre; the white “peace” flag has always greeted all who approach the place. Here have come, in years past, great teachers of all faiths and from all parts of the world, but perhaps none of as wide-spread interest as this latest foreign guest, whom his followers, the Bahá’í, call the master. Gatherings of Bahá’í have been held at Greenacre regularly each week, for many seasons, and when it was known that their leader was to come to this country to attend a great peace convention it was understood that he would pass some time with his friends there.
 

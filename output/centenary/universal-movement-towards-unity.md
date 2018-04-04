@@ -24,8 +24,7 @@ December 6, 1911
 
 
 
-Practical Suggestions for its Attainment.
------------------------------------------
+## Practical Suggestions for its Attainment.
 
 ### By Representative Men and Women at Home and Abroad.
 

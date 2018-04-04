@@ -24,8 +24,7 @@ September 6, 1911
 
 
 
-The Bahá’í Message.
--------------------
+## The Bahá’í Message.
 
 ### By Harrold Johnson.
 

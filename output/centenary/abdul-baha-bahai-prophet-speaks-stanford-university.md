@@ -66,8 +66,7 @@ In connection with these discourses, the wonderful skill and felicitous expressi
 
 The day, according to the wisdom of Solomon, is divided into three parts, whereof a part is for labor, a part for refreshment, and a part for repose. As fitting to follow the labor of a busy day, the company and a few guests enjoyed the hospitality of Mrs. I. C. Merriman at the home of her daughter on Waverley street. An evening of profitable and delightful discussion of the Bahá’í movement was followed by the serving of a sumptuous dinner at which all the appointments of refinement and good taste pervaded. Mrs. Merriman has taken a deep interest in the work of true benevolence best typified in the teachings of this universal religion and it was a pleasure to gather around her hospitable board on this occasion. The company remained over night and the next morning returned to San Francisco.
 
-BAHAISM AND ITS PROPHET
------------------------
+## BAHAISM AND ITS PROPHET
 
 ### Abbas Effendi, the “Servant of God.”
 
@@ -101,8 +100,7 @@ Lastly, we reach the Valley of Poverty, wherein we recognize that all the earthl
 
 The principles which govern the Bahá’í movement are, doubtless, in their detail not new. They are, indeed, older than the hills; \[text missing\] their application to these noisy, tumultuous times they are new enough. The absolute equality and spiritual brotherhood of all! Will the world listen? Has it ever listened to its prophets? - London Chronicle.
 
-STANFORD UNIVERSITY
--------------------
+## STANFORD UNIVERSITY
 
 Stanford University was founded in 1884 by Senator and Mrs. Leland Stanford as a memorial to their only son, Leland Stanford Junior, who died in Italy in that year. To this institution property valued at more than thirty millions of dollars was bequeathed and this great endowment places it in the front rank of the educational institutions of the world. It offers free instruction in all departments of university work leading to the advanced degrees in science, literature, languages, law, medicine and engineering. The university is housed in a series of magnificent buildings built of buff sandstone with red tile roofs, an adaptation of the Spanish mission type of architecture. The great damage wrought by the earthquake of 1906 has already been largely repaired by new construction. The work of restoring the magnificent Memorial Church, built at a cost of nearly a million dollars, is now under way. This church is one of the glories of California. The library now contains about 200,000 volumes and is steadily growing at the rate of 1000 volumes a month.
 

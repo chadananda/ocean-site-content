@@ -24,16 +24,13 @@ Fond du Lac, WI
 
 
 
-Peace Is Life
--------------
+## Peace Is Life
 
-War Is Death
-------------
+## War Is Death
 
 By ‘ABDU’L-BAHA of Persia
 
-Prophet and Advocate of Peace
------------------------------
+## Prophet and Advocate of Peace
 
 ### There is no greater glory for man than the service of international peace.
 

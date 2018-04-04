@@ -24,8 +24,7 @@ Montreal, QC
 
 
 
-Europe Heading Straight for a Terrific Conflict, ‘Abdu’l-Bahá Declares.
------------------------------------------------------------------------
+## Europe Heading Straight for a Terrific Conflict, ‘Abdu’l-Bahá Declares.
 
 ### THE BAHAI LEADER ARRIVES IN MONTREAL
 

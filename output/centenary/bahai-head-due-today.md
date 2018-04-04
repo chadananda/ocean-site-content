@@ -24,8 +24,7 @@ Washington, DC
 
 
 
-‘Abdu’l-Bahá Abbas Will Address the Persian Society Here.
----------------------------------------------------------
+## ‘Abdu’l-Bahá Abbas Will Address the Persian Society Here.
 
 The Persian American Educational Society began its second annual conference in the District Public Library, with a large number of prominent men and women interested in the Far East in attendance. Addresses were delivered by William Hoar, president of the society and others. It was declared that trade between America and Persia is being greatly stimulated.
 

@@ -24,8 +24,7 @@ New York
 
 
 
-Parasian Philosopher Addresses 200 Disciples at a Studio.
----------------------------------------------------------
+## Parasian Philosopher Addresses 200 Disciples at a Studio.
 
 ‘Abdu’l-Bahá Abbas, the Persian philosopher and teacher who arrived here on Wednesday for a four months preaching tour, gave a short talk last night to 200 disciples at the studio of Miss Harriet S. Phillips, 39 West Sixty-seventh street. Fatigued from his travelling, the venerable priest did not speak long. He had spoken in the afternoon at the residence of Howard McNutt, 935 Eastern Parkway, Brooklyn.
 

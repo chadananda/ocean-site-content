@@ -24,8 +24,7 @@ Washington
 
 
 
-Oriental Due Here
------------------
+## Oriental Due Here
 
 ### ‘Abdu’l-Bahá Abbas Will Expound His Philosophy Here.
 

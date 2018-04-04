@@ -24,8 +24,7 @@ Montreal, QC
 
 
 
-‘Abdu’l-Bahá, Oriental Prophet, and Leader, Here Soon.
-------------------------------------------------------
+## ‘Abdu’l-Bahá, Oriental Prophet, and Leader, Here Soon.
 
 ### HEAD OF WORLD-WIDE “BAHAI” PEACE CULT
 

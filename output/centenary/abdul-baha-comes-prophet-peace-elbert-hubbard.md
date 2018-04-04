@@ -24,8 +24,7 @@ OR
 
 
 
-OUT of Persia comes ‘Abdu’l-Bahá, who calls himself “The Servant of God.”
--------------------------------------------------------------------------
+## OUT of Persia comes ‘Abdu’l-Bahá, who calls himself “The Servant of God.”
 
 This man has diverted one-third of the population of Persia from Mohammedanism. Throughout all Asia, Europe and United States there are constantly growing bodies of adherents to the faith of ‘Abdu’l-Bahá.
 

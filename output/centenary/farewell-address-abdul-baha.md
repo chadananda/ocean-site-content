@@ -24,8 +24,7 @@ Portland, OR
 
 
 
-LAST WORDS TO AMERICA
----------------------
+## LAST WORDS TO AMERICA
 
 ### Close of the Bahá’í Series in the Herald for Present — Loving Message
 

@@ -24,8 +24,7 @@ New York
 
 
 
-‘Abdu’l-Bahá Visits Mission and Distributes Quarters.
------------------------------------------------------
+## ‘Abdu’l-Bahá Visits Mission and Distributes Quarters.
 
 ### MONEY BAG SOON EMPTY
 

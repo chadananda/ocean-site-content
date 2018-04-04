@@ -24,8 +24,7 @@ New York
 
 
 
-Peace Apostle Who Predicts Bloodshed
-------------------------------------
+## Peace Apostle Who Predicts Bloodshed
 
 ### ‘Abdu’l-Bahá Urges Local Bahá’ís to Do All in Their Power to Avert Terrible Bloodshed Which He Says Is Pending in East.
 

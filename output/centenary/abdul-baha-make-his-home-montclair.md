@@ -24,7 +24,6 @@ Wellsboro, PA
 
 
 
-New England.
-------------
+## New England.
 
 A most distinguished addition to the population, and perhaps the civilization of the United States will be made in the person of Abbas Effendi or ‘Abdu’l-Bahá. if reports are true that the Persian prophet of religious and interracial brotherhood is to make his home in Montclair, N.J. The Bahá’ís, of whom he is the leader, are said to number 14,000,000 throughout the world. There are a good many of them anyway. ‘Abdu’l-Bahá would be acting considerately. If he should indeed elect to take his place in “the melting pot,” and the American people, imported and domestic, take not unkindly to new religious movements headed by picturesque leaders.

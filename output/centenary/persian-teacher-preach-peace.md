@@ -24,11 +24,9 @@ Montreal, QC
 
 
 
-‘Abdu’l-Bahá, Leader of Great Universalist Movement, Will Visit Montreal.
--------------------------------------------------------------------------
+## ‘Abdu’l-Bahá, Leader of Great Universalist Movement, Will Visit Montreal.
 
-UNITE EAST AND WEST
--------------------
+## UNITE EAST AND WEST
 
 ### Not Religious Cult, but Effort for Good Which Has Grown Despite Persian Persecution.
 

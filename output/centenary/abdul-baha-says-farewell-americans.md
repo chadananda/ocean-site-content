@@ -24,8 +24,7 @@ Washington, DC
 
 
 
-‘Abdu’l-Bahá Declares Our Liberty As Worth Thanksgiving.
---------------------------------------------------------
+## ‘Abdu’l-Bahá Declares Our Liberty As Worth Thanksgiving.
 
 Let me comment on the heartfelt welcome which has been extended to me in my recent travels.
 
@@ -33,8 +32,7 @@ Praise be to God, the standard of liberty is held aloft in this land. You enjoy 
 
 As to the warm welcome which has been extended, I wish to reciprocate the same fully and completely.
 
-The love of God is unlimited. And whoever is the servant of the threshold of God must likewise be free from limitations.
-------------------------------------------------------------------------------------------------------------------------
+## The love of God is unlimited. And whoever is the servant of the threshold of God must likewise be free from limitations.
 
 Surely, men who are leaders of thought should follow the example of those who have welcomed me. Liberalism is what is needed. They must be kind to all nations. They must not be limited, because God is unlimited. The love of God is unlimited. And whoever is the servant of the threshold of God must likewise be free from limitations. The world of existence is an emanation of the merciful attribute of God. God has shone forth upon phenomena through is effulgence of mercy, and He is clement and kind to all of His creation.
 
@@ -50,8 +48,7 @@ The third kind of fraternity is that which characterizes the racial unity, the o
 
 The fourth kind of brotherhood is that of specie or kind. The love of humankind among men, for all recognize the fundamental bond, human in character, which obtains among men. Although this is unlimited; but it is still subject to change or corruption. Hence even from this the looked-for result does not obtain.
 
-the cause of real brotherhood… the cause of real kindness is the breaths of the Holy Spirit. Without that it is impossible
---------------------------------------------------------------------------------------------------------------------------
+## the cause of real brotherhood… the cause of real kindness is the breaths of the Holy Spirit. Without that it is impossible
 
 And what is the looked-for result? Loving kindness among mankind and a firm, unshakable brotherhood. A brotherhood of that type which includes all the significances.
 

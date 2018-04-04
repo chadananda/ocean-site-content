@@ -24,11 +24,9 @@ Poverty Bay
 
 
 
-NEW RELIGION FROM PERSIA
-------------------------
+## NEW RELIGION FROM PERSIA
 
-“PROPHET’S” VISIT TO LONDON
----------------------------
+## “PROPHET’S” VISIT TO LONDON
 
 ### LONDON, September 3.
 

@@ -24,8 +24,7 @@ June 15, 1912
 
 
 
-PERSONAL VIEWS OF PROMINENT PEOPLE
-----------------------------------
+## PERSONAL VIEWS OF PROMINENT PEOPLE
 
 THERE is no greater glory for man than the service of international peace.
 

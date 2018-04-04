@@ -24,8 +24,7 @@ San Francisco, CA
 
 
 
-Famous Persian Religionist Tells Church Throng That Unity of Nations Is Dawning.
---------------------------------------------------------------------------------
+## Famous Persian Religionist Tells Church Throng That Unity of Nations Is Dawning.
 
 ‘Abdu’l-Bahá, head of the Bahá’í religious movement, spoke at the First Unitarian Church, Franklin and Gear streets yesterday. Dressed in a long brown robe and wearing a snow white turban, the venerable leader of the faith which now numbers more than three million followers looked like a patriarch of old as he stood in pulpit and addressed the multitude in the church, on peace and love for all mankind.
 

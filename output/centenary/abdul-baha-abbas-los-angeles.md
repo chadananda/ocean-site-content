@@ -24,8 +24,7 @@ Los Angeles, CA
 
 
 
-Son of Bahá’u’lláh, the Prophet, Pays Visit to City
----------------------------------------------------
+## Son of Bahá’u’lláh, the Prophet, Pays Visit to City
 
 ‘Abdul-Bahá Abbas, son of Bahá’u’lláh, the prophet, who brought the Bahá’í movement out of Persia, is in Los Angeles enroute for a tour around the world to bring to the people the message of “oneness of God, the oneness of religion, the oneness of humanity, the eradication of prejudice, and universal peace.”
 

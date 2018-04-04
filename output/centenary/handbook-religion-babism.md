@@ -24,8 +24,7 @@ June 1, 1912
 
 
 
-All the Leading Faiths Explained in a Book Just Issued.
--------------------------------------------------------
+## All the Leading Faiths Explained in a Book Just Issued.
 
 All the leading religious faiths are sympathetically explained in popular language in the “Great Religions of the World.” These include Bábism, Brahmanism, Buddhism, Christianity, Confucianism, Judaism, Mohammedanism, Positivism, Sikhism and Zoroastrianism.
 
