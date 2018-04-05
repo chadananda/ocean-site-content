@@ -31,3 +31,5 @@ Data will be output as MD files in subdirectories of  output/
 * https://bahai-library.com/Letters -- Personal letters from historical figures
 * https://bahai-library.com/Theses -- Theses papers by Baha'i academics 
 * https://bahai-library.com/Talks -- Transcriptions of Talks
+
+* http://www.bahai-library.net/spanish/ -- Spanish library of books
