@@ -1,22 +1,19 @@
 // spider centenary news articles
-
-const TurndownService = require('turndown')
-const outputPage = require('../output_page.js')
-const pageCache = require('../page_cache.js')
-// const SHA256 = require("crypto-js/sha256")
-
-var pages = {} // keep a list of loaded pages so we don't repeat same URL (from cache)
+var c = require('../common');
 
 module.exports = function requestHandler(doc) {
+  // Don't do anything if there is no url
   if (!doc.url) return
     
-  pageCache.put(doc)  
-  const spider = this 
-  const turndownService = new TurndownService({headingStyle: 'atx'}) 
+  // Use the page cache if possible
+  c.pageCache.put(doc)
+
+  // Set whatever variables may be useful
   var outputFolder = 'output/centenary/'
   var host = 'https://centenary.bahai.us' 
   var outputFile = outputFolder + doc.url.replace(/^https:\/\/centenary.bahai.us\/news\/(.*?)$/m, '$1') + '.md'
 
+  // Set meta variable
   var meta = {}
   meta.url = doc.url 
   meta.title = doc.$('h1.title').text()
@@ -33,31 +30,18 @@ module.exports = function requestHandler(doc) {
   meta.collectionImage = 'https://centenary.bahai.us/sites/default/files/imagecache/theme-image/main_image/abdulbaha-overview-small_0.jpg'
   meta.copyright = '© 2011 National Spiritual Assembly of the Bahá’ís of the United States' 
   
-  var htmltext = doc.$('.node.build-mode-full .node-body').html() 
+  // Set up html text
+  var htmltext = doc.$('.node.build-mode-full .node-body').html()
   var markdown = '# ' + meta.title +' {.title}\n\n'
     + meta.source +'  \n'
     + meta.date +'  \n'
-    + meta.location +'\n{.noid}  \n\n\n\n'  
-    + turndownService.turndown(htmltext)
+    + meta.location +'\n{.noid}  \n\n\n\n'
+    + c.turndown.turndown(htmltext)
    
-  outputPage(outputFolder, outputFile, meta, markdown)
+  // Output the page
+  c.outputPage(outputFolder, outputFile, meta, markdown)
    
-  // uses cheerio, check its docs for more info 
-  doc.$('a[href*="/news/"]').each(function(i, elem) {
-    // do stuff with element 
-    var href = doc.$(elem).attr('href').split('#')[0]
-    var url = doc.resolve(href) 
-    if (!pages.hasOwnProperty(url)) {
-      pages[url] = 1 // save a reference to this page so we don't try to load it again
-      pageCache.get(url).then(cacheDoc => {
-        if (cacheDoc) {
-          console.log('Resolved URL from local cache: ', url)
-          requestHandler(cacheDoc)
-        } else spider.queue(url, requestHandler);
-      })  
-    } // else console.log('Skipped already loaded page', url)
-  })
+  // Process all links in the page (using cheerio to parse html)
+  c.processLinks(doc, doc.$('a[href*="/news/"]'), requestHandler)
 }
- 
-
  

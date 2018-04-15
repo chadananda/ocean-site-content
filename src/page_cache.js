@@ -6,6 +6,7 @@ const jsonfile = require('jsonfile')
 const mkdirp = require('mkdirp')
 const cheerio = require('cheerio')
 const url_tool = require('url')
+const fs = require('fs')
 
 const pageCacheFolder = 'page_cache/'
 const MAX_AGE = 7 // days
@@ -40,7 +41,7 @@ function todayInt() {
 
 
 module.exports = {
-  
+
   put: function(doc) {  
     var cacheFilePath = urltoPath(doc.url)
     mkdirp(pageCacheFolder, function (err) {
