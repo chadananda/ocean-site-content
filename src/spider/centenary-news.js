@@ -1,5 +1,5 @@
 // spider centenary news articles
-var c = require('../common');
+const c = require('../common');
 
 module.exports = function requestHandler(doc) {
   // Don't do anything if there is no url
