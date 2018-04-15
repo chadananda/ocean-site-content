@@ -7,6 +7,7 @@ module.exports = {
   getDocMeta(doc) {
     // Returns the standard document metadata block for bahai-library.com documents
     return doc.$('td.content>div').first()
+    // TODO: replace relative links with absolute
   },
   getDocContent(doc) {
     // Returns the standard content block for bahai-library.com documents
@@ -24,6 +25,7 @@ module.exports = {
       .children('div:first-child')
       .remove()
       .end()
+      // TODO: replace relative links with absolute
   },
   getTitle(el) {
     // Use on the document metadata block.
