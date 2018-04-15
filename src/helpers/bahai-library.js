@@ -6,7 +6,7 @@ const $ = require('cheerio')
 module.exports = {
   getDocMeta(doc) {
     // Returns the standard document metadata block for bahai-library.com documents
-    return doc.$('td.content>div').first().clone()
+    return doc.$('td.content>div').first()
   },
   getDocContent(doc) {
     // Returns the standard content block for bahai-library.com documents
@@ -15,14 +15,15 @@ module.exports = {
       .children('table')
       .remove()
       .end()
-      .children('div')
-      .first()
-      .remove()
-      .end()
       .find('object')
       .remove()
       .end()
-      .clone()
+      .children('br:first-child')
+      .remove()
+      .end()
+      .children('div:first-child')
+      .remove()
+      .end()
   },
   getTitle(el) {
     // Use on the document metadata block.
@@ -48,12 +49,10 @@ module.exports = {
     // Use on the document metadata block.
     // Returns the source in which the document was originally published, based on text in the element.
     if (el.text().match(/published in/i)) {
-      return el
+      let source = el
         .html()
         .replace(/[\s\S]*published in *(.+?)(?:\n|<br\/*>)[\s\S]*/, "$1")
-        .replace(/<[^>]*?>/g,'')
-        .replace(/\s+/g,' ')
-        || ''
+      return $.load(source).text().replace(/\s+/g, ' ')
     }
     return ''
   },

@@ -48,9 +48,7 @@ module.exports = function requestHandler(doc) {
     let htmlContent = bl.getHtmlContent(docContent)
     
     // Set up the markdown content
-    let markdown = c.turndown.turndown(docMeta.html())
-      + "\n\n\n"
-      + c.turndown.turndown(htmlContent)
+    let markdown = c.turndown.turndown(docMeta) + "\n\n\n" + c.turndown.turndown(htmlContent)
     
     // Write the page to disk
     c.outputPage(outputFolder, outputFile, meta, markdown)
