@@ -8,6 +8,9 @@ module.exports = {
   pageCache: pageCache,
   outputPage: outputPage,
   turndown: new TurndownService({headingStyle: 'atx'}),
+  md: function(arg, ...args) {
+    return this.turndown.turndown(arg)
+  },
   spider: new Spider({
     // How many requests can be run in parallel 
     concurrent: 5,
