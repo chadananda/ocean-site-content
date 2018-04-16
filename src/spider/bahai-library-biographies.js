@@ -43,12 +43,9 @@ module.exports = function requestHandler(doc) {
       // collectionImage: '', // an image representative of the collection
       // copyright: '', // the copyright information from the spidered site
     }
-    
-    // Get the main content of the page
-    let htmlContent = bl.getHtmlContent(docContent)
-    
+
     // Set up the markdown content
-    let markdown = c.turndown.turndown(docMeta.html()) + "\n\n\n" + c.turndown.turndown(htmlContent)
+    let markdown = bl.getMarkdown(docMeta) + "\n\n\n" + bl.getMainContentMarkdown(docContent)
     
     // Write the page to disk
     c.outputPage(outputFolder, outputFile, meta, markdown)
@@ -56,6 +53,3 @@ module.exports = function requestHandler(doc) {
   }
 
 }
- 
-
- 

@@ -2,12 +2,35 @@
 const pageCache = require('../page_cache');
 const c = require('../common')
 const $ = require('cheerio')
+const TurndownService = require('turndown')
+const md = new TurndownService({headingStyle: 'atx'})
+  .addRule('absoluteLinks', {
+    filter: function (node, options) {
+      return (
+        node.nodeName === 'A' &&
+        node.getAttribute('href')
+      )
+    },
+    replacement: function(content, node, options) {
+      var href = node.getAttribute('href').replace(/^\//, 'https://bahai-library.com/')
+      var title = node.title ? ' "' + node.title + '"' : ''
+      return '[' + content + '](' + href + title + ')'
+    }
+  })
+  .addRule('multiLineStrong', {
+    filter: ['strong', 'b'],
+    replacement: function(content, node, options) {
+      if (!content.trim()) return ''
+      let splitContent = content.split("\n")
+      splitContent = splitContent.map(i => (i.trim() ? "**" + i.trim() + "**" : i))
+      return splitContent.join("\n")
+    }
+  })
 
 module.exports = {
   getDocMeta(doc) {
     // Returns the standard document metadata block for bahai-library.com documents
     return doc.$('td.content>div').first()
-    // TODO: replace relative links with absolute
   },
   getDocContent(doc) {
     // Returns the standard content block for bahai-library.com documents
@@ -25,7 +48,6 @@ module.exports = {
       .children('div:first-child')
       .remove()
       .end()
-      // TODO: replace relative links with absolute
   },
   getTitle(el) {
     // Use on the document metadata block.
@@ -90,7 +112,10 @@ module.exports = {
 
     // }
   },
-  getHtmlContent(el) {
+  getMarkdown(el) {
+    return md.turndown($(el).html())
+  },
+  getMainContentMarkdown(el) {
     // Use on the document content block.
     // Returns elements for the actual document content.
 
@@ -108,19 +133,15 @@ module.exports = {
         .remove()
         .end()
 
-        if (textEl.text().trim().length > 100) return el.map(function() {
-          return $(this).html()
-        }).toArray().join("\n")
+        if (textEl.text().trim().length > 100) return md.turndown($(el).html())
     
       }
       else {
         // TODO: extract text from pdf documents
-        return el.find(div.readbelow).html()
+        return md.turndown(el.find('div.readbelow').html())
       }
     }
-    return el.map(function(){
-      return $(this).html()
-    }).toArray().join("\n")
+    return md.turndown($(el).html())
 
   },
 }
