@@ -65,12 +65,19 @@ module.exports = {
         if (!exists) { resolve(false); return } 
         jsonfile.readFile(cacheFilePath, function(err, doc) {
           if (err) { reject('Bad JSON Cache file'); return } 
-          if (todayInt()-doc.pageCacheDate<=MAX_AGE) { 
+          if (todayInt()-doc.pageCacheDate<=MAX_AGE) {
             doc.resolve = function(uri) { return url_tool.resolve(this.url, uri) }
             doc.$ = cheerio.load(doc.res.body)
             resolve(doc); return
           } else {
-            fs.unlink(cacheFilePath)
+            try {
+              fs.unlinkSync(cacheFilePath)
+            }
+            catch (e) {
+              if (e.code !== "ENOENT") {
+                // something for other exceptions?
+              }
+            }
             resolve(false); return
           }
         })  
