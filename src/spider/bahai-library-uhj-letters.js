@@ -36,9 +36,9 @@ module.exports = function requestHandler(doc) {
       image: bl.getImage(docContent), // url to a representative image, if available
       source: bl.getSource(docMeta), // the original publication
       date: bl.getYear(docMeta), // date when the content was originally created
-      // doctype: '', // ?
-      status: 'search-only', // ?
-      encumbered: false, // ?
+      doctype: 'website', // should always be 'website'
+      status: 'search-only', // should always be 'search-only'
+      encumbered: false, // whether app user is prevented from scrolling (should always be false for website doctype)
       collection: 'UHJ Letters (bahai-library.com)', // ?
       // collectionImage: '', // an image representative of the collection
       // copyright: '', // the copyright information from the spidered site
