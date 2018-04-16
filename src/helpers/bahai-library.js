@@ -93,22 +93,34 @@ module.exports = {
   getHtmlContent(el) {
     // Use on the document content block.
     // Returns elements for the actual document content.
+
+    // Check if the document has a linked pdf
+    let pdf = el.find('div.readbelow a[href$=".pdf"]')
+    if (pdf.length) {
+      let headers = el.find('h1,h2,h3').filter(function(){
+        return $(this).text().match(/(?:formatted|proofread)/i)
+      })
+      if (headers.length) {
+        // Document probably has proofread / formatted text on page
+        let textEl = el
+        .clone()
+        .find('div.readbelow,h3:contains(pdf),h3:contains(PDF),h3:contains(formatted),h3:contains(audio),h3:contains(Audio)')
+        .remove()
+        .end()
+
+        if (textEl.text().trim().length > 100) return el.map(function() {
+          return $(this).html()
+        }).toArray().join("\n")
     
-    let textEl = el
-      .clone()
-      .find('div.readbelow,h3:contains(pdf),h3:contains(PDF),h3:contains(formatted),h3:contains(audio),h3:contains(Audio)')
-      .remove()
-      .end()
- 
-    if (textEl.text().trim().length > 100) return textEl.map(function() {
+      }
+      else {
+        // TODO: extract text from pdf documents
+        return el.find(div.readbelow).html()
+      }
+    }
+    return el.map(function(){
       return $(this).html()
     }).toArray().join("\n")
 
-    // For documents with embedded pdf and no text
-    let pdf = el.find('div.readbelow a[href$=".pdf"]')
-    if (pdf.length) {
-      // TODO: extract text from pdf documents
-      return $(pdf).html()
-    }
   },
 }
