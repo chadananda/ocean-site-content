@@ -14,7 +14,7 @@ const md = new TurndownService({headingStyle: 'atx'})
     replacement: function(content, node, options) {
       var href = node.getAttribute('href').replace(/^\//, 'https://bahai-library.com/')
       var title = node.title ? ' "' + node.title + '"' : ''
-      return '[' + content + '](' + href + title + ')'
+      return '[' + content + '](' + href.replace(' ','%20') + title + ')'
     }
   })
   .addRule('multiLineStrong', {
