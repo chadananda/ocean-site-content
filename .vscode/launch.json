@@ -7,6 +7,19 @@
     {
       "type": "node",
       "request": "launch",
+      "name": "UHJ Letters",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run-script",
+        "debug",
+        "--",
+        "uhj-letters"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
       "name": "Biographies",
       "runtimeExecutable": "npm",
       "runtimeArgs": [

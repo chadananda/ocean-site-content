@@ -2,16 +2,19 @@
 const c = require('./common')
 const args = require('minimist')(process.argv.slice(2))
 
-const scrapers = {
-  centenary: {
-    url: "https://centenary.bahai.us/news/persian-peace-apostle-predicts-war-europe",
-    handler: require('./spider/centenary-news')
-  },
-  biographies: {
-    url: "https://bahai-library.com/Biographies",
-    handler: require('./spider/bahai-library-biographies')
-  },
-}
+const scrapers = {}
+scrapers["centenary"] = {
+  url: "https://centenary.bahai.us/news/persian-peace-apostle-predicts-war-europe",
+  handler: require('./spider/centenary-news')
+};
+scrapers["biographies"] = {
+  url: "https://bahai-library.com/Biographies",
+  handler: require('./spider/bahai-library-biographies')
+};
+scrapers["uhj-letters"] = {
+  url: "https://bahai-library.com/UHJ-letters",
+  handler: require('./spider/bahai-library-uhj-letters')
+};
 
 // Process handlers
 if (args._.length > 0) {
