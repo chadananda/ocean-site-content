@@ -10,9 +10,9 @@ module.exports = function requestHandler(doc) {
   c.pageCache.put(doc)
 
   // Set basic variables
-  var outputFolder = 'output/biographies/'
-  var host = 'https://bahai-library.com'
-  var outputFile = outputFolder + doc.url.replace(/^https?:\/\/bahai-library.com\/(.*?)$/m, '$1') + '.md'
+  let outputFolder = 'output/biographies/'
+  let host = 'https://bahai-library.com'
+  let outputFile = outputFolder + doc.url.replace(/^https?:\/\/bahai-library.com\/(.*?)$/m, '$1') + '.md'
 
   if (doc.url.match(/^https:\/\/bahai-library\.com\/Biographies.*/)) {
     // For index pages
@@ -28,7 +28,7 @@ module.exports = function requestHandler(doc) {
 
     // Set up the meta information
     // Meta may include the following:
-    var meta = {
+    let meta = {
       url: doc.url, // the url of the document
       title: bl.getTitle(docMeta) || doc.$('title').text(), // the title of the document, e.g. doc.$('title')
       audio: bl.getAudio(docContent), // url to the audio file, e.g. doc.$('audio').attr('src')

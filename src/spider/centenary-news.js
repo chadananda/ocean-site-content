@@ -9,12 +9,12 @@ module.exports = function requestHandler(doc) {
   c.pageCache.put(doc)
 
   // Set whatever variables may be useful
-  var outputFolder = 'output/centenary/'
-  var host = 'https://centenary.bahai.us' 
-  var outputFile = outputFolder + doc.url.replace(/^https:\/\/centenary.bahai.us\/news\/(.*?)$/m, '$1') + '.md'
+  let outputFolder = 'output/centenary/'
+  let host = 'https://centenary.bahai.us' 
+  let outputFile = outputFolder + doc.url.replace(/^https:\/\/centenary.bahai.us\/news\/(.*?)$/m, '$1') + '.md'
 
   // Set meta variable
-  var meta = {}
+  let meta = {}
   meta.url = doc.url 
   meta.title = doc.$('h1.title').text()
   meta.audio = host + doc.$('.node.build-mode-full .field-field-audio audio').attr('src')
@@ -31,8 +31,8 @@ module.exports = function requestHandler(doc) {
   meta.copyright = '© 2011 National Spiritual Assembly of the Bahá’ís of the United States' 
   
   // Set up html text
-  var htmltext = doc.$('.node.build-mode-full .node-body').html()
-  var markdown = '# ' + meta.title +' {.title}\n\n'
+  let htmltext = doc.$('.node.build-mode-full .node-body').html()
+  let markdown = '# ' + meta.title +' {.title}\n\n'
     + meta.source +'  \n'
     + meta.date +'  \n'
     + meta.location +'\n{.noid}  \n\n\n\n'
