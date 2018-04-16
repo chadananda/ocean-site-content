@@ -6,15 +6,19 @@ const scrapers = {}
 scrapers["centenary"] = {
   url: "https://centenary.bahai.us/news/persian-peace-apostle-predicts-war-europe",
   handler: require('./spider/centenary-news')
-};
+}
 scrapers["biographies"] = {
   url: "https://bahai-library.com/Biographies",
   handler: require('./spider/bahai-library-biographies')
-};
+}
 scrapers["uhj-letters"] = {
   url: "https://bahai-library.com/UHJ-letters",
   handler: require('./spider/bahai-library-uhj-letters')
-};
+}
+scrapers["uhj-documents"] = {
+  url: "https://bahai-library.com/UHJ-documents",
+  handler: require('./spider/bahai-library-uhj-documents')
+}
 
 // Process handlers
 if (args._.length > 0) {
