@@ -17,18 +17,19 @@ module.exports = function requestHandler(doc) {
   // Meta may include the following:
   var meta = {
     // url: doc.url,        // the url of the document
+    // language: 'en',      // set this if the document is a different language
     // title: '',           // the title of the document, e.g. doc.$('title')
     // audio: '',           // url to the audio file, e.g. doc.$('audio').attr('src')
     // image: '',           // url to a representative image, if available
     // source: '',          // the original publication
     // date: '',            // date when the content was originally created
     // location: '',        // the location of the content, for news items and the like
-    // doctype: '',         // ?
-    // status: '',          // ?
-    // encumbered: '',      // ?
-    // collection: '',      // ?
-    // collectionImage: '', // an image representative of the collection
-    // copyright: '',       // the copyright information from the spidered site
+    doctype: 'website',     // should always be 'website' for crawled documents
+    status: 'search-only',  // should always be 'search-only' for crawled documents
+    encumbered: false,      // whether app user is prevented from scrolling (should always be false for website doctype)
+    // collection: '',      // the name of the collection
+    // collectionImage: '', // an image representative of the entire collection
+    // copyright: '',       // the copyright information from the crawled page
   }
   
   // Get the main content of the page
