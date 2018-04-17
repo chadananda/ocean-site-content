@@ -7,6 +7,7 @@ module.exports = {
   pages: {},
   pageCache: pageCache,
   outputPage: outputPage,
+  singlePage: false,
   turndown: new TurndownService({headingStyle: 'atx'}),
   md: function(arg, ...args) {
     return this.turndown.turndown(arg)
@@ -40,14 +41,17 @@ module.exports = {
     encoding: 'utf8'
   }),
   processLinks: function (doc, elements, handler) {
-    elements.each((i, elem) => {
-      var href = doc.$(elem).attr('href').split('#')[0]
-      var url = doc.resolve(href)
-      this.processUrl(url, handler)
-    })
+    if (!this.singlePage) {
+      elements.each((i, elem) => {
+        var href = doc.$(elem).attr('href').split('#')[0]
+        var url = doc.resolve(href)
+        this.processUrl(url, handler)
+      })
+    }
   },
-  processUrl: function (url, handler) {
-    if (!this.pages.hasOwnProperty(url)) {
+  processUrl: function (url, handler, singlePage = false) {
+    if (!this.singlePage && !this.pages.hasOwnProperty(url)) {
+      if (singlePage) this.singlePage = true
       this.pageCache.get(url).then(cacheDoc => {
         if (cacheDoc) {
           console.log('Resolved URL from local cache: ', url)

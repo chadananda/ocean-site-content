@@ -7,10 +7,36 @@
     {
       "type": "node",
       "request": "launch",
+      "name": "Scrape current file",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "${file}"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "UHJ Documents",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "uhj-documents"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
       "name": "UHJ Letters",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
-        "run-script",
+        "run",
         "debug",
         "--",
         "uhj-letters"

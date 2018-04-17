@@ -27,6 +27,7 @@
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "node-spider": "^1.4.1",
+    "shelljs": "^0.8.1",
     "turndown": "^4.0.1"
   }
 }
