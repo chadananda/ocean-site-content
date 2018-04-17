@@ -157,6 +157,16 @@ module.exports = {
         return '[' + content + '](' + href.replace(' ','%20') + title + ')'
       }
     })
+    .addRule('absoluteImages', {
+      filter: 'img',
+      replacement: function (content, node) {
+        var alt = node.alt || ''
+        var src = node.getAttribute('src').replace(/^\//, 'https://bahai-library.com/') || ''
+        var title = node.title || ''
+        var titlePart = title ? ' "' + title + '"' : ''
+        return src ? '![' + alt + ']' + '(' + src + titlePart + ')' : ''
+      }
+    })
     .addRule('multiLineStrong', {
       filter: ['strong', 'b'],
       replacement: function(content, node, options) {
