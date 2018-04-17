@@ -2,12 +2,6 @@
 const c = require('../common');
 
 module.exports = function requestHandler(doc) {
-  // Don't do anything if there is no url
-  if (!doc.url) return
-    
-  // Use the page cache if possible
-  c.pageCache.put(doc)
-
   // Set whatever variables may be useful
   let outputFolder = 'output/centenary/'
   let host = 'https://centenary.bahai.us' 
@@ -44,4 +38,3 @@ module.exports = function requestHandler(doc) {
   // Process all links in the page (using cheerio to parse html)
   c.processLinks(doc, doc.$('a[href*="/news/"]'), requestHandler)
 }
- 

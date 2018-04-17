@@ -57,7 +57,11 @@ module.exports = {
           console.log('Resolved URL from local cache: ', url)
           this.pages[url] = true
           handler(cacheDoc)
-        } else this.spider.queue(url, handler);
+        } else this.spider.queue(url, function(doc) {
+          if (!doc.url) return
+          this.pageCache.put(doc)
+          handler.call(this, doc)
+        }.bind(this));
       }).catch(error => {
         console.log(error)
       })

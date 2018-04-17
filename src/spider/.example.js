@@ -2,11 +2,6 @@
 var c = require('../common')
 
 module.exports = function requestHandler(doc) {
-  // Don't do anything if there is no url
-  if (!doc.url) return
-    
-  // Use the page cache if possible
-  c.pageCache.put(doc)
 
   // Set basic variables
   var outputFolder = 'output/[folder]/'

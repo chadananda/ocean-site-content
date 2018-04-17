@@ -3,12 +3,7 @@ let c = require('../common')
 const bl = require('../helpers/bahai-library')
 
 module.exports = function requestHandler(doc) {
-  // Don't do anything if there is no url
-  if (!doc.url) return
-    
-  // Use the page cache if possible
-  c.pageCache.put(doc)
-
+  
   // Set basic variables
   let outputFolder = 'output/biographies/'
   let host = 'https://bahai-library.com'
