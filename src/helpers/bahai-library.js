@@ -12,6 +12,9 @@ const md = new TurndownService({headingStyle: 'atx'})
       )
     },
     replacement: function(content, node, options) {
+      if (node.getAttribute('href').match(/^#/)) {
+        return content
+      }
       var href = node.getAttribute('href').replace(/^\//, 'https://bahai-library.com/')
       var title = node.title ? ' "' + node.title + '"' : ''
       return '[' + content + '](' + href.replace(' ','%20') + title + ')'
@@ -24,6 +27,71 @@ const md = new TurndownService({headingStyle: 'atx'})
       let splitContent = content.split("\n")
       splitContent = splitContent.map(i => (i.trim() ? "**" + i.trim() + "**" : i))
       return splitContent.join("\n")
+    }
+  })
+  .addRule('iAsBlock', {
+    filter: ['em', 'i'],
+    replacement: function(content, node, options) {
+      return content
+        .split('\n')
+        .map(t => {
+          if (!t.trim() || t.trim().match(/^_/) || t.trim().match(/_$/)) return t
+          return t.replace(/^(\s*)(.+?)(\s*)$/, "$1_$2_$3")
+        })
+        .join('\n')
+    }
+  })
+  .addRule('ulForBlockquote', {
+    filter: 'ul',
+    replacement: function (content, node) {
+      var parent = node.parentNode
+      if (parent.nodeName === 'LI' && parent.lastElementChild === node) {
+        return '\n' + content
+      } else {
+        splitContent = content.split('\n').map(c => (c.trim().match(/^(\* |\+ |- |[0-9]+\. )/) ? c : '> ' + c))
+        return '\n\n' + splitContent.join('\n') + '\n\n';
+      }
+    }
+  })
+  .addRule('olForParagraphNumbers', {
+    filter: 'ol',
+    replacement: function (content, node, options) {
+      var parent = node.parentNode
+      if (parent.nodeName === 'LI' && parent.lastElementChild === node) {
+        return '\n' + content
+      } else {
+        let liContent = content.match(/^\s*\d+\.  /g)
+        if (!liContent || (liContent.length !== content.split('\n'.length + 1))) {
+          // Content in a list that is not supposed to be there: this is probably used for numbered paragraphs or chapters
+          return '\n\n'
+            + content
+              .replace(/^\s(\d+\.)  /g, "_$1_  ")
+              .replace(/^\s+/g, '')
+            + '\n\n'
+        }
+        return '\n\n' + content + '\n\n'
+      }
+    }
+  })
+  .addRule('liForNumberedParagraphs', {
+    filter: 'li',
+
+    replacement: function (content, node, options) {
+      content = content
+        .replace(/^\n+/, '') // remove leading newlines
+        .replace(/\n+$/, '\n') // replace trailing newlines with just a single one
+        .replace(/\n/gm, '\n    ') // indent
+      var prefix = options.bulletListMarker + '   '
+      var parent = node.parentNode
+      if (parent.nodeName === 'OL') {
+        var start = parent.getAttribute('start')
+        var children = Array.from(parent.children).filter(e => e.tagName === 'LI')
+        var index = Array.prototype.indexOf.call(children, node)
+        prefix = (start ? Number(start) + index : index + 1) + '.  '
+      }
+      return (
+        prefix + content + (node.nextSibling && !/\n$/.test(content) ? '\n' : '')
+      )
     }
   })
 
@@ -113,7 +181,11 @@ module.exports = {
     // }
   },
   getMarkdown(el) {
-    return md.turndown($(el).html())
+    let val = md.turndown($(el).html())
+      .replace(/([^`\\])`(?!`)/g, "$1'")
+      .replace(/^`(?!`)/g, "'")
+      .replace(/---|--/g, '—')
+    return val
   },
   getMainContentMarkdown(el) {
     // Use on the document content block.
@@ -133,15 +205,15 @@ module.exports = {
         .remove()
         .end()
 
-        if (textEl.text().trim().length > 100) return md.turndown($(el).html())
+        if (textEl.text().trim().length > 100) return this.getMarkdown(el)
     
       }
       else {
         // TODO: extract text from pdf documents
-        return md.turndown(el.find('div.readbelow').html())
+        return this.getMarkdown(el.find('div.readbelow'))
       }
     }
-    return md.turndown($(el).html())
+    return this.getMarkdown(el)
 
   },
 }
