@@ -1,3 +1,10 @@
 node_modules
 page_cache
 scratchpad*.js
+
+# Exclude the output directory so that when working on a new spider the new files do not clutter the IDE
+!output
+output/*
+
+# Include specific folders for collections that are checked in
+!output/centenary
