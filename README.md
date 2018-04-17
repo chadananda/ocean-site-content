@@ -17,11 +17,15 @@ At times it may be desirable to run the spider only on certain collections. To d
 * ```npm run spider -- centenary```
 * ```npm run spider -- centenary biographies```
 
+There should be a VS Code launch profile for debugging any implemented collections.
+
 ### To scrape a single file:
 
 You can scrape a single file, as long as that file is within the output folder. To do so, simply pass the full path to the file as the argument to ```npm run spider -- ```. Again, note the spaces around the double dash.
 
 * ```npm run spider -- /path/to/file.json```
+
+There is also a VS Code launch profile ("Scrape current file") that will scrape whatever file is open in the editor.
 
 ### To debug:
 
