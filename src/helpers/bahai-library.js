@@ -104,9 +104,9 @@ module.exports = {
 
   getMarkdown(el) {
     let val = this.turndown.turndown($(el).html())
-      .replace(/([^`\\])`(?!`)/g, "$1'")
-      .replace(/^`(?!`)/g, "'")
-      .replace(/---|--/g, '—')
+      .replace(/([^`\\])`(?!`)/g, "$1'")    // Replace ` with ' when not \ escaped
+      .replace(/^`(?!`)/g, "'")             // Replace ` with ' at beginning of line
+      .replace(/---|--/g, '—')              // Replace --- and -- with em dash —
     return val
   },
 
@@ -128,12 +128,13 @@ module.exports = {
         .remove()
         .end()
 
-        if (textEl.text().trim().length > 100) return this.getMarkdown(el)
-    
-      }
-      else {
-        // TODO: extract text from pdf documents
-        return this.getMarkdown(el.find('div.readbelow'))
+        if (textEl.text().trim().length > 100) {
+          return this.getMarkdown(el)
+        }
+        else {
+          // TODO: extract text from pdf documents
+          return this.getMarkdown(el.find('div.readbelow'))
+        }
       }
     }
     return this.getMarkdown(el)
