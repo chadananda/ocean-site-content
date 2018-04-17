@@ -160,9 +160,10 @@ module.exports = {
       filter: ['strong', 'b'],
       replacement: function(content, node, options) {
         if (!content.trim()) return ''
-        let splitContent = content.split("\n")
-        splitContent = splitContent.map(i => (i.trim() ? "**" + i.trim() + "**" : i))
-        return splitContent.join("\n")
+        return content
+          .split("\n")
+          .map(i => (i.trim() ? "**" + i.trim() + "**" : i))
+          .join("\n")
       }
     })
     .addRule('iAsBlock', {
@@ -243,6 +244,12 @@ module.exports = {
         } else {
           return '\n\n' + repeat('#', hLevel) + ' ' + content + '\n\n'
         }
+      }
+    })
+    .addRule('preformattedText', {
+      filter: ['pre'],
+      replacement: function(content) {
+        return content.split('\n').map(i => i.replace(/^\s*/, '')).join('  \n')
       }
     })
 }
