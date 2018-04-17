@@ -3,103 +3,18 @@ const pageCache = require('../page_cache');
 const c = require('../common')
 const $ = require('cheerio')
 const TurndownService = require('turndown')
-const md = new TurndownService({headingStyle: 'atx'})
-  .addRule('absoluteLinks', {
-    filter: function (node, options) {
-      return (
-        node.nodeName === 'A' &&
-        node.getAttribute('href')
-      )
-    },
-    replacement: function(content, node, options) {
-      if (node.getAttribute('href').match(/^#/)) {
-        return content
-      }
-      var href = node.getAttribute('href').replace(/^\//, 'https://bahai-library.com/')
-      var title = node.title ? ' "' + node.title + '"' : ''
-      return '[' + content + '](' + href.replace(' ','%20') + title + ')'
-    }
-  })
-  .addRule('multiLineStrong', {
-    filter: ['strong', 'b'],
-    replacement: function(content, node, options) {
-      if (!content.trim()) return ''
-      let splitContent = content.split("\n")
-      splitContent = splitContent.map(i => (i.trim() ? "**" + i.trim() + "**" : i))
-      return splitContent.join("\n")
-    }
-  })
-  .addRule('iAsBlock', {
-    filter: ['em', 'i'],
-    replacement: function(content, node, options) {
-      return content
-        .split('\n')
-        .map(t => {
-          if (!t.trim() || t.trim().match(/^_/) || t.trim().match(/_$/)) return t
-          return t.replace(/^(\s*)(.+?)(\s*)$/, "$1_$2_$3")
-        })
-        .join('\n')
-    }
-  })
-  .addRule('ulForBlockquote', {
-    filter: 'ul',
-    replacement: function (content, node) {
-      var parent = node.parentNode
-      if (parent.nodeName === 'LI' && parent.lastElementChild === node) {
-        return '\n' + content
-      } else {
-        splitContent = content.split('\n').map(c => (c.trim().match(/^(\* |\+ |- |[0-9]+\. )/) ? c : '> ' + c))
-        return '\n\n' + splitContent.join('\n') + '\n\n';
-      }
-    }
-  })
-  .addRule('olForParagraphNumbers', {
-    filter: 'ol',
-    replacement: function (content, node, options) {
-      var parent = node.parentNode
-      if (parent.nodeName === 'LI' && parent.lastElementChild === node) {
-        return '\n' + content
-      } else {
-        let liContent = content.match(/^\s*\d+\.  /g)
-        if (!liContent || (liContent.length !== content.split('\n'.length + 1))) {
-          // Content in a list that is not supposed to be there: this is probably used for numbered paragraphs or chapters
-          return '\n\n'
-            + content
-              .replace(/^\s(\d+\.)  /g, "_$1_  ")
-              .replace(/^\s+/g, '')
-            + '\n\n'
-        }
-        return '\n\n' + content + '\n\n'
-      }
-    }
-  })
-  .addRule('liForNumberedParagraphs', {
-    filter: 'li',
 
-    replacement: function (content, node, options) {
-      content = content
-        .replace(/^\n+/, '') // remove leading newlines
-        .replace(/\n+$/, '\n') // replace trailing newlines with just a single one
-        .replace(/\n/gm, '\n    ') // indent
-      var prefix = options.bulletListMarker + '   '
-      var parent = node.parentNode
-      if (parent.nodeName === 'OL') {
-        var start = parent.getAttribute('start')
-        var children = Array.from(parent.children).filter(e => e.tagName === 'LI')
-        var index = Array.prototype.indexOf.call(children, node)
-        prefix = (start ? Number(start) + index : index + 1) + '.  '
-      }
-      return (
-        prefix + content + (node.nextSibling && !/\n$/.test(content) ? '\n' : '')
-      )
-    }
-  })
+function repeat(char, x) {
+  return Array(x + 1).join(char)
+}
 
 module.exports = {
+
   getDocMeta(doc) {
     // Returns the standard document metadata block for bahai-library.com documents
     return doc.$('td.content>div').first()
   },
+
   getDocContent(doc) {
     // Returns the standard content block for bahai-library.com documents
     return doc.$('td.content')
@@ -117,6 +32,7 @@ module.exports = {
       .remove()
       .end()
   },
+
   getTitle(el) {
     // Use on the document metadata block.
     // Returns the title as found in the element, which may have more information than $('title').
@@ -126,6 +42,7 @@ module.exports = {
       .text()
       .replace(/\n/g, ' ') || ''
   },
+
   getAuthor(el) {
     // Use on the document metadata block.
     // Returns a list of authors as found in the element, separated by commas.
@@ -137,6 +54,7 @@ module.exports = {
       .join(', ')
       || ''
   },
+
   getSource(el) {
     // Use on the document metadata block.
     // Returns the source in which the document was originally published, based on text in the element.
@@ -148,6 +66,7 @@ module.exports = {
     }
     return ''
   },
+
   getYear(el) {
     // Use on the document metadata block.
     // Dumbly returns the last string of exactly four digits in the element.
@@ -163,6 +82,7 @@ module.exports = {
       || ['']
     return dates.toArray().pop()
   },
+
   getImage(el) {
     // Use on the document content block.
     // Returns the src attribute, as a url, of the first image in the content.
@@ -172,6 +92,7 @@ module.exports = {
     if (typeof(src) === "string" && src[0] === '/') src = 'https://bahai-library.com' + src
     return src || ''
   },
+
   getAudio(el) {
     // Use on the document content block.
     // Tries a bunch of stuff to get the url(s) of one or more audio files for the document.
@@ -180,13 +101,15 @@ module.exports = {
 
     // }
   },
+
   getMarkdown(el) {
-    let val = md.turndown($(el).html())
+    let val = this.turndown.turndown($(el).html())
       .replace(/([^`\\])`(?!`)/g, "$1'")
       .replace(/^`(?!`)/g, "'")
       .replace(/---|--/g, '—')
     return val
   },
+
   getMainContentMarkdown(el) {
     // Use on the document content block.
     // Returns elements for the actual document content.
@@ -214,6 +137,112 @@ module.exports = {
       }
     }
     return this.getMarkdown(el)
-
   },
+
+  turndown: new TurndownService({headingStyle: 'atx'})
+    .addRule('absoluteLinks', {
+      filter: function (node, options) {
+        return (
+          node.nodeName === 'A' &&
+          node.getAttribute('href')
+        )
+      },
+      replacement: function(content, node, options) {
+        if (node.getAttribute('href').match(/^#/)) {
+          return content
+        }
+        var href = node.getAttribute('href').replace(/^\//, 'https://bahai-library.com/')
+        var title = node.title ? ' "' + node.title + '"' : ''
+        return '[' + content + '](' + href.replace(' ','%20') + title + ')'
+      }
+    })
+    .addRule('multiLineStrong', {
+      filter: ['strong', 'b'],
+      replacement: function(content, node, options) {
+        if (!content.trim()) return ''
+        let splitContent = content.split("\n")
+        splitContent = splitContent.map(i => (i.trim() ? "**" + i.trim() + "**" : i))
+        return splitContent.join("\n")
+      }
+    })
+    .addRule('iAsBlock', {
+      filter: ['em', 'i'],
+      replacement: function(content, node, options) {
+        return content
+          .split('\n')
+          .map(t => {
+            if (!t.trim() || t.trim().match(/^_/) || t.trim().match(/_$/)) return t
+            return t.replace(/^(\s*)(.+?)(\s*)$/, "$1_$2_$3")
+          })
+          .join('\n')
+      }
+    })
+    .addRule('ulForBlockquote', {
+      filter: 'ul',
+      replacement: function (content, node) {
+        var parent = node.parentNode
+        if (parent.nodeName === 'LI' && parent.lastElementChild === node) {
+          return '\n' + content
+        } else {
+          splitContent = content.split('\n').map(c => (c.trim().match(/^(\* |\+ |- |[0-9]+\. )/) ? c : '> ' + c))
+          return '\n\n' + splitContent.join('\n') + '\n\n';
+        }
+      }
+    })
+    .addRule('olForParagraphNumbers', {
+      filter: 'ol',
+      replacement: function (content, node, options) {
+        var parent = node.parentNode
+        if (parent.nodeName === 'LI' && parent.lastElementChild === node) {
+          return '\n' + content
+        } else {
+          let liContent = content.match(/^\s*\d+\.  /g)
+          if (!liContent || (liContent.length !== content.split('\n'.length + 1))) {
+            // Content in a list that is not supposed to be there: this is probably used for numbered paragraphs or chapters
+            return '\n\n'
+              + content
+                .replace(/^\s(\d+\.)  /g, "_$1_  ")
+                .replace(/^\s+/g, '')
+              + '\n\n'
+          }
+          return '\n\n' + content + '\n\n'
+        }
+      }
+    })
+    .addRule('liForNumberedParagraphs', {
+      filter: 'li',
+      replacement: function (content, node, options) {
+        content = content
+          .replace(/^\n+/, '') // remove leading newlines
+          .replace(/\n+$/, '\n') // replace trailing newlines with just a single one
+          .replace(/\n/gm, '\n    ') // indent
+        var prefix = options.bulletListMarker + '   '
+        var parent = node.parentNode
+        if (parent.nodeName === 'OL') {
+          var start = parent.getAttribute('start')
+          var children = Array.from(parent.children).filter(e => e.tagName === 'LI')
+          var index = Array.prototype.indexOf.call(children, node)
+          prefix = (start ? Number(start) + index : index + 1) + '.  '
+        }
+        return (
+          prefix + content + (node.nextSibling && !/\n$/.test(content) ? '\n' : '')
+        )
+      }
+    })
+    .addRule('headersWithMultipleLines', {
+      filter: ['h1', 'h2', 'h3', 'h4', 'h5', 'h6'],
+      replacement: function (content, node, options) {
+        var hLevel = Number(node.nodeName.charAt(1))
+        // concatenate all lines within a single header
+        content = content.replace(/\s*\n\s*/gm, ' ')
+        if (options.headingStyle === 'setext' && hLevel < 3) {
+          var underline = repeat((hLevel === 1 ? '=' : '-'), content.length)
+          return (
+            '\n\n' + content + '\n' + underline + '\n\n'
+          )
+        } else {
+          return '\n\n' + repeat('#', hLevel) + ' ' + content + '\n\n'
+        }
+      }
+    })
 }
