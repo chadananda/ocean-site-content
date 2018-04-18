@@ -5,7 +5,7 @@ const sh = require('shelljs')
 
 const scrapers = {}
 scrapers["centenary"] = {
-  url: "https://centenary.bahai.us/news/persian-peace-apostle-predicts-war-europe",
+  url: "https://centenary.bahai.us/news",
   handler: require('./spider/centenary-news')
 }
 scrapers["biographies"] = {
