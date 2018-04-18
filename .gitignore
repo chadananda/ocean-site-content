@@ -6,5 +6,9 @@ scratchpad*.js
 !output
 output/*
 
+# Exclude all dotted files except the .index.txt file in each collection
+output/*/.*
+!output/*/.index.txt
+
 # Include specific folders for collections that are checked in
 !output/centenary
