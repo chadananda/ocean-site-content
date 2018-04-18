@@ -96,10 +96,22 @@ module.exports = {
   getAudio(el) {
     // Use on the document content block.
     // Tries a bunch of stuff to get the url(s) of one or more audio files for the document.
-    // if (el.find('a[href="/wttp/programs.html"]').length) {
-    //   // TODO: get audio file links
+    if ((links = el.find('a[href$="mp3"]')) && links.length) {
+      return this._getAudio(links)
+    }
+    else if ((links = el.find('a[href$="mp4"]')) && links.length) {
+      return this._getAudio(links)
+    }
+    else if ((links = el.find('a[href="/wttp/programs.html"]')) && links.length) {
+      // TODO: get audio file links
+    }
+    return ''
+  },
 
-    // }
+  _getAudio(links) {
+    return links.map((i,e) =>
+      $(e).attr('href').replace(/^\//, 'https://bahai-library.com/')
+    )
   },
 
   getMarkdown(el) {
