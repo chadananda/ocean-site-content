@@ -44,6 +44,9 @@ module.exports = function requestHandler(doc) {
     
     // Write the page to disk
     c.outputPage(outputFolder, outputFile, meta, markdown)
+    if (bl.getTextLength(docContent) < 100) {
+      c.outputPage(outputFolder, '.' + outputFile, meta, markdown)
+    }
 
   }
 
