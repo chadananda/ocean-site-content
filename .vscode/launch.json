@@ -4,14 +4,15 @@
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
+
     {
       "type": "node",
       "request": "launch",
       "name": "Scrape current file",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
-        "run",
-        "debug",
+        "run-script",
+        "debug-brk",
         "--",
         "${file}"
       ],
@@ -20,33 +21,18 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "UHJ Documents",
+      "name": "Crawl all collections",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
-        "run",
-        "debug",
-        "--",
-        "uhj-documents"
+        "run-script",
+        "debug"
       ],
       "port": 9229
     },
     {
       "type": "node",
       "request": "launch",
-      "name": "UHJ Letters",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": [
-        "run",
-        "debug",
-        "--",
-        "uhj-letters"
-      ],
-      "port": 9229
-    },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Biographies",
+      "name": "- Biographies",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run",
@@ -59,7 +45,7 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Centenary",
+      "name": "- Centenary",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run",
@@ -68,6 +54,32 @@
         "centenary"
       ],
       "port": 9229
-    }
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- UHJ Documents",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "uhj-documents"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- UHJ Letters",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "uhj-letters"
+      ],
+      "port": 9229
+    },
   ]
 }
