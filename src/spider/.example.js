@@ -6,7 +6,7 @@ module.exports = function requestHandler(doc) {
   // Set basic variables
   var outputFolder = 'output/[folder]/'
   var host = 'https://example.com'
-  var outputFile = outputFolder + doc.url.replace(/^https?:\/\/example\.com\/(.*?)$/m, '$1') + '.md'
+  var outputFile = doc.url.replace(/^https?:\/\/example\.com\/(.*?)$/m, '$1') + '.md'
 
   // Set up the meta information
   // Meta may include the following:
