@@ -7,7 +7,7 @@ module.exports = function requestHandler(doc) {
   // Set basic variables
   let outputFolder = 'output/biographies/'
   let host = 'https://bahai-library.com'
-  let outputFile = outputFolder + doc.url.replace(/^https?:\/\/bahai-library.com\/(.*?)$/m, '$1') + '.md'
+  let outputFile = doc.url.replace(/^https?:\/\/bahai-library.com\/(.*?)$/m, '$1') + '.md'
 
   if (doc.url.match(/^https:\/\/bahai-library\.com\/Biographies.*/)) {
     // For index pages

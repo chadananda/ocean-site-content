@@ -5,7 +5,7 @@ module.exports = function requestHandler(doc) {
   // Set whatever variables may be useful
   let outputFolder = 'output/centenary/'
   let host = 'https://centenary.bahai.us' 
-  let outputFile = outputFolder + doc.url.replace(/^https:\/\/centenary.bahai.us\/news\/(.*?)$/m, '$1') + '.md'
+  let outputFile = doc.url.replace(/^https:\/\/centenary.bahai.us\/news\/(.*?)$/m, '$1') + '.md'
 
   // Set meta variable
   let meta = {}

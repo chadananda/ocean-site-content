@@ -15,7 +15,8 @@ module.exports = function(outputFolder, outputFile, meta, markdown) {
   mkdirp(outputFolder, function (err) {
     if (err) console.error(err)
     else {
-      fs.writeFileSync(outputFile, header+'\n\n\n'+markdown, 'UTF-8')
+      outputFile = outputFile.replace(outputFolder,'')
+      fs.writeFileSync(outputFolder + outputFile, header+'\n\n\n'+markdown, 'UTF-8')
       console.log('Saved file:  ' + outputFolder + outputFile)
     }
   })
