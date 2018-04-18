@@ -114,6 +114,13 @@ module.exports = {
     )
   },
 
+  getTextLength(el) {
+    // Use on the document content block
+    // Tries to determine if there is a linked document (pdf, epub, etc.) that needs to be converted
+    let text = $(el).clone().find('blockquote').remove().end().find('div,p,span,font').find('*').remove().end().text().replace(/[\n\t]/g,'')
+    return text.length
+  },
+
   getMarkdown(el) {
     let val = this.turndown.turndown($(el).html())
       .replace(/([^`\\])`(?!`)/g, "$1'")    // Replace ` with ' when not \ escaped
