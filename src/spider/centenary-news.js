@@ -11,8 +11,8 @@ module.exports = function requestHandler(doc) {
   let meta = {}
   meta.url = doc.url 
   meta.title = doc.$('h1.title').text()
-  meta.audio = host + doc.$('.node.build-mode-full .field-field-audio audio').attr('src')
-  meta.image = host + doc.$('.node.build-mode-full .field-field-clip-img img').attr('src')
+  meta.audio = host + doc.$('.node.build-mode-full .field-field-audio audio').attr('src') || ""
+  meta.image = host + (doc.$('.node.build-mode-full .field-field-clip-img img').attr('src') || "")
     .replace('secondary-images', 'main-image')
   meta.source = doc.$('.node.build-mode-full .field-field-pubname').text().trim()
   meta.date = doc.$('.node.build-mode-full .field-field-historical-date').text().trim()
