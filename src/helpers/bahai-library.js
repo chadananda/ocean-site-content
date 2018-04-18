@@ -171,9 +171,9 @@ module.exports = {
         if (node.getAttribute('href').match(/^#/)) {
           return content
         }
-        var href = node.getAttribute('href').replace(/^\//, 'https://bahai-library.com/')
+        var href = node.getAttribute('href').replace(/^\//, 'https://bahai-library.com/').replace(/ /g,'%20')
         var title = node.title ? ' "' + node.title + '"' : ''
-        return '[' + content + '](' + href.replace(' ','%20') + title + ')'
+        return '[' + content + '](' + href + title + ')'
       }
     })
     .addRule('absoluteImages', {
