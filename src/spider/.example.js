@@ -1,12 +1,18 @@
 // spider resources
 var c = require('../common')
 
-module.exports = function requestHandler(doc) {
+module.exports = {
+  name: "example",                  // Internal name of the collection; must be unique
+  url: "https://example.com",       // URL to begin crawling
+  mask: "https://example.com/",     // Mask to remove from urls on file save
+  folder: "output/example/",        // (optional) Folder in which to save files. Defaults to output/[name]/
+  index: true,                      // Whether to keep an index of urls crawled or attempted, to highlight errors
+}
+
+module.exports.handler = function requestHandler(doc) {
 
   // Set basic variables
-  var outputFolder = 'output/[folder]/'
-  var host = 'https://example.com'
-  var outputFile = doc.url.replace(/^https?:\/\/example\.com\/(.*?)$/m, '$1') + '.md'
+  var outputFile = doc.url.replace(this.mask, '') + '.md'
 
   // Set up the meta information
   // Meta may include the following:
@@ -38,12 +44,9 @@ module.exports = function requestHandler(doc) {
     + htmltext
   
   // Write the page to disk
-  c.output_page(outputFolder, outputFile, meta, markdown)
+  c.output_page(this.name, markdown, meta)
   
   // Queue the next links
-  c.processLinks(doc, doc.$('a[href^="/example"]'),requestHandler);
+  c.processLinks(doc, doc.$('a[href^="/example"]'), requestHandler);
   
-}
- 
-
- 
+}.bind(module.exports) // <-- without this line, "this.[whatever]" will not work

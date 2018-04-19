@@ -2,13 +2,17 @@
 let c = require('../common')
 const bl = require('../helpers/bahai-library')
 
-module.exports = function requestHandler(doc) {
-  
-  // Set basic variables
-  let outputFolder = 'output/unpublished-articles/'
-  let host = 'https://bahai-library.com'
-  let outputFile = doc.url.replace(/^https?:\/\/bahai-library.com\/(.*?)$/m, '$1') + '.md'
+module.exports = {
+  name: "bl-articles-unpublished",
+  url: "https://bahai-library.com/Articles-unpublished",
+  mask: "https://bahai-library.com/",
+  index: true,
+}
 
+module.exports.handler = function requestHandler(doc) {
+
+  let outputFile = doc.url.replace(this.mask, '') + '.md'
+  
   if (doc.url.match(/^https:\/\/bahai-library\.com\/Articles-unpublished.*/)) {
     // For index pages
     c.processLinks(doc, doc.$('td.content ol li>a:first-child'), requestHandler)
@@ -39,15 +43,10 @@ module.exports = function requestHandler(doc) {
       // copyright: '', // the copyright information from the spidered site
     }
 
-    // Set up the markdown content
-    let markdown = bl.getMarkdown(docMeta) + "\n\n\n" + bl.getMainContentMarkdown(docContent)
-    
     // Write the page to disk
-    c.outputPage(outputFolder, outputFile, meta, markdown)
+    c.outputPage(this.name, markdown, meta)
     if (bl.getTextLength(docContent) < 100) {
-      c.outputPage(outputFolder, '.' + outputFile, meta, markdown)
+      c.outputPage(this.name, markdown, meta, '.' + outputFile)
     }
-
   }
-
-}
+}.bind(module.exports)

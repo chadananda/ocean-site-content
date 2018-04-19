@@ -1,8 +1,13 @@
 // spider centenary news articles
 const c = require('../common');
 
-module.exports = function requestHandler(doc) {
+module.exports = {
+  name: "centenary",
+  url: "https://centenary.bahai.us/news",
+  mask: "https://centenary.bahai.us/news/",
+}
 
+module.exports.handler = function requestHandler(doc) {
   if (doc.url.match(/^https:\/\/centenary\.bahai\.us\/news\d*$/)) {
     // For index pages
     console.log("processing " + doc.url)
@@ -12,9 +17,7 @@ module.exports = function requestHandler(doc) {
   else if (doc.url.match(/^https:\/\/centenary\.bahai\.us\/news\/.+/)) {
 
     // Set whatever variables may be useful
-    let outputFolder = 'output/centenary/'
-    let host = 'https://centenary.bahai.us' 
-    let outputFile = doc.url.replace(/^https:\/\/centenary\.bahai\.us\/news\/(.*?)$/m, '$1') + '.md'
+    let host = 'https://centenary.bahai.us'
 
     // Set meta variable
     let meta = {}
@@ -31,7 +34,7 @@ module.exports = function requestHandler(doc) {
     meta.encumbered = false
     meta.collection = 'Centenary News'
     meta.collectionImage = 'https://centenary.bahai.us/sites/default/files/imagecache/theme-image/main_image/abdulbaha-overview-small_0.jpg'
-    meta.copyright = '© 2011 National Spiritual Assembly of the Bahá’ís of the United States' 
+    meta.copyright = '© 2011 National Spiritual Assembly of the Bahá’ís of the United States'
     
     // Set up html text
     let htmltext = doc.$('.node.build-mode-full .node-body').html()
@@ -42,6 +45,6 @@ module.exports = function requestHandler(doc) {
       + c.turndown.turndown(htmltext)
     
     // Output the page
-    c.outputPage(outputFolder, outputFile, meta, markdown)
+    c.outputPage(this.name, markdown, meta)
   }
-}
+}.bind(module.exports)

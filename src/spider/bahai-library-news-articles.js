@@ -2,12 +2,16 @@
 let c = require('../common')
 const bl = require('../helpers/bahai-library')
 
-module.exports = function requestHandler(doc) {
+module.exports = {
+  name: "bl-news-articles",
+  url: "https://bahai-library.com/Newspapers",
+  mask: "https://bahai-library.com/",
+  index: true,
+}
+
+module.exports.handler  = function requestHandler(doc) {
   
-  // Set basic variables
-  let outputFolder = 'output/news-articles/'
-  let host = 'https://bahai-library.com'
-  let outputFile = doc.url.replace(/^https?:\/\/bahai-library.com\/(.*?)$/m, '$1') + '.md'
+  let outputFile = doc.url.replace(this.mask, '') + '.md'
 
   if (doc.url.match(/^https:\/\/bahai-library\.com\/Newspapers.*/)) {
     // For index pages
@@ -43,11 +47,9 @@ module.exports = function requestHandler(doc) {
     let markdown = bl.getMarkdown(docMeta) + "\n\n\n" + bl.getMainContentMarkdown(docContent)
     
     // Write the page to disk
-    c.outputPage(outputFolder, outputFile, meta, markdown)
+    c.outputPage(this.name, markdown, meta)
     if (bl.getTextLength(docContent) < 100) {
-      c.outputPage(outputFolder, '.' + outputFile, meta, markdown)
+      c.outputPage(this.name, markdown, meta, '.' + outputFile)
     }
-
   }
-
-}
+}.bind(module.exports)

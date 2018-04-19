@@ -4,7 +4,6 @@
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
-
     {
       "type": "node",
       "request": "launch",
@@ -12,7 +11,7 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run-script",
-        "debug-brk",
+        "debug",
         "--",
         "${file}"
       ],
@@ -32,13 +31,169 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "- Biographies",
+      "name": "- BL Articles, Published",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run",
         "debug",
         "--",
-        "biographies"
+        "bl-articles-published"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Articles, Unpublished",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-articles-unpublished"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Biographies",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-biographies"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Encyclopedia",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-biographies"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Letters",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-letters"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL News Articles",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-news-articles"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Pilgrim Notes",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-pilgrim-notes"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Shoghi Effendi",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-shoghi-effendi"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Talks",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-talks"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Theses",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-theses"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL Unauthorized Translations",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-translations"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL UHJ Documents",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-uhj-documents"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "- BL UHJ Letters",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "debug",
+        "--",
+        "bl-uhj-letters"
       ],
       "port": 9229
     },
@@ -52,32 +207,6 @@
         "debug",
         "--",
         "centenary"
-      ],
-      "port": 9229
-    },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "- UHJ Documents",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": [
-        "run",
-        "debug",
-        "--",
-        "uhj-documents"
-      ],
-      "port": 9229
-    },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "- UHJ Letters",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": [
-        "run",
-        "debug",
-        "--",
-        "uhj-letters"
       ],
       "port": 9229
     },

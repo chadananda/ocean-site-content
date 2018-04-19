@@ -1,12 +1,13 @@
 const Spider = require('node-spider')
 const TurndownService = require('turndown')
 const pageCache = require('./page_cache.js')
-const outputPage = require('./output_page.js')
+const fs = require('fs')
+const mkdirp = require('mkdirp')
 
 module.exports = {
   pages: {},
+  collections: {},
   pageCache: pageCache,
-  outputPage: outputPage,
   singlePage: false,
   turndown: new TurndownService({headingStyle: 'atx'}),
   md: function(arg, ...args) {
@@ -66,5 +67,27 @@ module.exports = {
         console.log(error)
       })
     }
+  },
+  outputPage: function(collection, markdown, meta = false, filename = false) {
+    let outputFolder = (this.collections[collection].hasOwnProperty('folder') ? this.collections[collection].folder : 'output/' + collection + '/')
+    let outputFile = (filename ? filename.replace(outputFolder, '') : meta.url.replace(this.collections[collection].mask, '') + '.md')
+    var header = (meta ? // May use "false" as meta to output a simple file
+      [].concat(['---'], Object.keys(meta).map((key) => {
+      if (typeof(meta[key]) === 'array' || typeof(meta[key]) === 'object') {
+        return (meta[key].length > 1 ? [key + ':', ...meta[key].toArray()].join('\n  - ') : `${key}: ${meta[key][0]}`)
+      }
+      else {
+        return `${key}: ${meta[key]}`
+      }
+    }), ['---\n\n\n']).join('\n') 
+    : '')
+    // output with forced directory
+    mkdirp(outputFolder, function (err) {
+      if (err) console.error(err)
+      else {
+        fs.writeFileSync(outputFolder + outputFile, header + markdown, 'UTF-8')
+        console.log('Saved file:  ' + outputFolder + outputFile)
+      }
+    })
   }
 }
