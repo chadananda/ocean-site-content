@@ -6,7 +6,7 @@ const sh = require('shelljs')
 const normalizedPath = require("path").join(__dirname, "spider");
 require("fs").readdirSync(normalizedPath).forEach(function(file) {
   let m = require("./spider/" + file)
-  if (!m.name === 'example') c.collections[m.name] = m
+  if (m.name !== 'example') c.collections[m.name] = m
 })
 
 // Process handlers
