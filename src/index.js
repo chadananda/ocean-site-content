@@ -26,18 +26,18 @@ if (args._.length > 0) {
           let header = sh.head({'-n': 20}, arg)
         if (url = header.match(/^url:\s*(.+)$/im)[1]) {
             c.processUrl(url, c.collections[collection].handler, true)
-        } else console.log('Could not get url info from file header: \n' + header)
+        } else console.error('Could not get url info from file header: \n' + header)
       }
         else {
           throw new Error('No collection found for ' + arg)
         }
       }
       catch(err) {
-        console.log(err)
+        console.error(err)
       }
     }
     else {
-      console.log('Could not process "' + arg + '": invalid argument')
+      console.error('Could not process "' + arg + '": invalid argument')
     }
   }
 }
