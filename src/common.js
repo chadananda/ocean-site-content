@@ -64,7 +64,7 @@ module.exports = {
           handler.call(this, doc)
         }.bind(this));
       }).catch(error => {
-        console.log(error)
+        console.error(error)
       })
     }
   },
@@ -73,8 +73,8 @@ module.exports = {
     let outputFile = (filename ? filename.replace(outputFolder, '') : meta.url.replace(this.collections[collection].mask, '') + '.md')
     var header = (meta ? // May use "false" as meta to output a simple file
       [].concat(['---'], Object.keys(meta).map((key) => {
-      if (typeof(meta[key]) === 'array' || typeof(meta[key]) === 'object') {
-        return (meta[key].length > 1 ? [key + ':', ...meta[key].toArray()].join('\n  - ') : `${key}: ${meta[key][0]}`)
+      if ((!!meta[key]) && (meta[key].constructor === Array)) {
+        return (meta[key].length > 1 ? Array(key + ':', ...meta[key]).join('\n  - ') : `${key}: ${meta[key][0]}`)
       }
       else {
         return `${key}: ${meta[key]}`
