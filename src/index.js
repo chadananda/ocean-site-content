@@ -44,6 +44,8 @@ if (args._.length > 0) {
 else {
   Object.keys(c.collections).forEach(function(k){
     var collection = c.collections[k]
-    c.processUrl(c.collections[k].url, collection.handler)
+    if (!collection.archive) {
+      c.processUrl(collection.url, collection.handler)
+    }
   })
 }
