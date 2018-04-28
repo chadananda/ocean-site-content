@@ -8,6 +8,7 @@ module.exports = {
   mask: "https://example.com/",     // Mask to remove from urls on file save
   folder: "output/example/",        // (optional) Folder in which to save files. Defaults to output/[name]/
   index: true,                      // Whether to keep an index of urls crawled or attempted, to highlight errors
+  archive: false,                   // Whether to skip this collection when running all spiders
 }
 
 module.exports.handler = function requestHandler(doc) {
