@@ -1,7 +1,8 @@
 // Helper module for bahai-library.com
-const pageCache = require('../page_cache');
+const pageCache = require('../page_cache')
 const c = require('../common')
 const $ = require('cheerio')
+const BLMarkdown = require ('./bl_markdown')
 const TurndownService = require('turndown')
 
 function repeat(char, x) {
@@ -9,6 +10,46 @@ function repeat(char, x) {
 }
 
 module.exports = {
+
+  parseDocument(doc) {
+    let docMeta = this.getDocMeta(doc)
+    let docContent = this.getDocContent(doc)
+    let blMarkdown = new BLMarkdown(docContent, this.getMarkdown.bind(this))
+    if (blMarkdown.needsConvert) {
+      blMarkdown.convert(blMarkdown.docFormat)
+    }
+    let f = {
+      docMeta: docMeta,
+      docMetaMarkdown: this.getMarkdown(docMeta),
+      docContent: docContent,
+      docContentMarkdown: blMarkdown,
+      meta: {
+        url: doc.url, // the url of the document
+        title: this.getTitle(docMeta) || doc.$('title').text(), // the title of the document, e.g. doc.$('title')
+        audio: this.getAudio(docContent), // url to the audio file, e.g. doc.$('audio').attr('src')
+        author: this.getAuthor(docMeta), // name of the author,
+        image: this.getImage(docContent), // url to a representative image, if available
+        source: this.getSource(docMeta), // the original publication
+        date: this.getYear(docMeta), // date when the content was originally created
+        doctype: 'website', // should always be 'website'
+        status: 'search-only', // should always be 'search-only'
+        encumbered: false, // whether app user is prevented from scrolling (should always be false for website doctype)
+      }
+    }
+    if (blMarkdown.needsConvert) {
+      f.meta.converted_from = blMarkdown.links
+    }
+    return f
+  },
+
+  outputPage(info, f) {
+    let outputFile = f.meta.url.replace((info.mask || 'https://bahai-library.com/'), '') + '.md'
+    let markdown = f.docMetaMarkdown + "\n\n\n" + f.docContentMarkdown
+    c.outputPage(info.name, markdown, f.meta)
+    if ((f.docContentMarkdown.needsConvert && !f.docContentMarkdown.convertSuccessful) || f.docContentMarkdown.length < 250) {
+      c.outputPage(info.name, markdown, meta, '.' + outputFile)
+    }
+  },
 
   getDocMeta(doc) {
     // Returns the standard document metadata block for bahai-library.com documents
@@ -132,31 +173,11 @@ module.exports = {
   getMainContentMarkdown(el) {
     // Use on the document content block.
     // Returns elements for the actual document content.
-
-    // Check if the document has a linked pdf
-    let pdf = el.find('div.readbelow a[href$=".pdf"]')
-    if (pdf.length) {
-      let headers = el.find('h1,h2,h3').filter(function(){
-        return $(this).text().match(/(?:formatted|proofread)/i)
-      })
-      if (headers.length) {
-        // Document probably has proofread / formatted text on page
-        let textEl = el
-        .clone()
-        .find('div.readbelow,h3:contains(pdf),h3:contains(PDF),h3:contains(formatted),h3:contains(audio),h3:contains(Audio)')
-        .remove()
-        .end()
-
-        if (textEl.text().trim().length > 100) {
-          return this.getMarkdown(el)
-        }
-        else {
-          // TODO: extract text from pdf documents
-          return this.getMarkdown(el.find('div.readbelow'))
-        }
-      }
+    let blMarkdown = new BLMarkdown(el, this.getMarkdown.bind(this))
+    if (blMarkdown.needsConvert) {
+      blMarkdown.convert(blMarkdown.docFormat)
     }
-    return this.getMarkdown(el)
+    return blMarkdown
   },
 
   turndown: new TurndownService({headingStyle: 'atx'})
