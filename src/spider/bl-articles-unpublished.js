@@ -4,15 +4,15 @@ const bl = require('../helpers/bahai-library')
 
 module.exports = {
   name: "bl-articles-unpublished",
+  title: "Unpublished Articles (bahai-library.com)",
   url: "https://bahai-library.com/Articles-unpublished",
   mask: "https://bahai-library.com/",
   index: true,
 }
 
 module.exports.handler = function requestHandler(doc) {
+  let info = module.exports
 
-  let outputFile = doc.url.replace(this.mask, '') + '.md'
-  
   if (doc.url.match(/^https:\/\/bahai-library\.com\/Articles-unpublished.*/)) {
     // For index pages
     c.processLinks(doc, doc.$('td.content ol li>a:first-child'), requestHandler)
@@ -22,31 +22,11 @@ module.exports.handler = function requestHandler(doc) {
     c.processLinks(doc, doc.$('td.content table.chapterhead a[href$="&chapter=all"]'), requestHandler)
   }
   else {
-    let docMeta = bl.getDocMeta(doc)
-    let docContent = bl.getDocContent(doc)
+    let f = bl.parseDocument(doc)
+    f.meta.collection = info.title
+    // f.meta.collectionImage: '', // an image representative of the collection
+    // f.meta.copyright: '', // the copyright information from the spidered site
 
-    // Set up the meta information
-    // Meta may include the following:
-    let meta = {
-      url: doc.url, // the url of the document
-      title: bl.getTitle(docMeta) || doc.$('title').text(), // the title of the document, e.g. doc.$('title')
-      audio: bl.getAudio(docContent), // url to the audio file, e.g. doc.$('audio').attr('src')
-      author: bl.getAuthor(docMeta), // name of the author,
-      image: bl.getImage(docContent), // url to a representative image, if available
-      source: bl.getSource(docMeta), // the original publication
-      date: bl.getYear(docMeta), // date when the content was originally created
-      doctype: 'website', // should always be 'website'
-      status: 'search-only', // should always be 'search-only'
-      encumbered: false, // whether app user is prevented from scrolling (should always be false for website doctype)
-      collection: 'Unpublished Articles (bahai-library.com)', // ?
-      // collectionImage: '', // an image representative of the collection
-      // copyright: '', // the copyright information from the spidered site
-    }
-
-    // Write the page to disk
-    c.outputPage(this.name, markdown, meta)
-    if (bl.getTextLength(docContent) < 100) {
-      c.outputPage(this.name, markdown, meta, '.' + outputFile)
-    }
+    bl.outputPage(info, f)
   }
-}.bind(module.exports)
+}
