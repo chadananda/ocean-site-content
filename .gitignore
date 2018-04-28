@@ -2,6 +2,7 @@
 node_modules
 page_cache
 scratchpad*.js
+/*.log
 
 # Exclude the output directory so that when working on a new spider the new files do not clutter the IDE
 !output
