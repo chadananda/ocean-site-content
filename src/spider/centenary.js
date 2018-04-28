@@ -3,14 +3,16 @@ const c = require('../common');
 
 module.exports = {
   name: "centenary",
+  title: "Centenary News",
   url: "https://centenary.bahai.us/news",
   mask: "https://centenary.bahai.us/news/",
 }
 
 module.exports.handler = function requestHandler(doc) {
+  let info = module.exports
   if (doc.url.match(/^https:\/\/centenary\.bahai\.us\/news\d*$/)) {
     // For index pages
-    console.log("processing " + doc.url)
+    console.log("Processing " + doc.url)
     c.processLinks(doc, doc.$('.view-Pictures .views-field-title a'), requestHandler)
     c.processLinks(doc, doc.$('.view-Pictures ul.pager li.pager-next a'), requestHandler)
   }
@@ -45,6 +47,6 @@ module.exports.handler = function requestHandler(doc) {
       + c.turndown.turndown(htmltext)
     
     // Output the page
-    c.outputPage(this.name, markdown, meta)
+    c.outputPage(info.name, markdown, meta)
   }
-}.bind(module.exports)
+}
