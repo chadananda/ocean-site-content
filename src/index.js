@@ -48,4 +48,5 @@ else {
       c.processUrl(collection.url, collection.handler)
     }
   })
+  // TODO: update filecount
 }

@@ -1,4 +1,5 @@
 #!/bin/bash
+# TODO: refactor as node script
 echo "| Folder                         | Scraped | Indexed |" > ./filecount.md
 echo "| ------------------------------ | ------- | ------- |" >> ./filecount.md
 for d in output/*/ ; do

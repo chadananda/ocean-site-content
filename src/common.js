@@ -53,6 +53,7 @@ module.exports = {
   processUrl: function (url, handler, singlePage = false) {
     if (!this.singlePage && !this.pages.hasOwnProperty(url)) {
       if (singlePage) this.singlePage = true
+      // TODO: allow for skipped urls
       // TODO: ensure that each URL is only processed once per run
       this.pageCache.get(url).then(cacheDoc => {
         if (cacheDoc) {

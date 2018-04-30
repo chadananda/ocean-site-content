@@ -37,6 +37,10 @@ DocConverter.prototype.convert = function(ext) {
             moreText = execSync('docker run --rm -i kalledk/pdftotext < <(curl -s "' + url + '")', {
               shell: '/bin/bash',
             }).toString()
+            // TODO: clean up converted text from pdf format
+            // TODO: break apart paragraphs by detecting indents
+            // TODO: convert paragraphs with spaces in front to blockquotes
+            // TODO: remove header and footer lines
             break;
           case 'txt':
           case 'TXT':
