@@ -6,6 +6,7 @@ module.exports = {
   title: "Centenary News",
   url: "https://centenary.bahai.us/news",
   mask: "https://centenary.bahai.us/news/",
+  index: false,
   archive: true,
 }
 
