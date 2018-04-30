@@ -33,6 +33,7 @@ DocConverter.prototype.convert = function(ext) {
         switch (ext) {
           case 'pdf':
           case 'PDF':
+            // TODO: use request and request-cache instead of curl
             moreText = execSync('docker run --rm -i kalledk/pdftotext < <(curl -s "' + url + '")', {
               shell: '/bin/bash',
             }).toString()
