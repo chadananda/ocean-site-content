@@ -15,8 +15,8 @@ module.exports.handler = function requestHandler(doc) {
   if (doc.url.match(/^https:\/\/centenary\.bahai\.us\/news\d*$/)) {
     // For index pages
     console.log("Processing " + doc.url)
-    c.processLinks(doc, doc.$('.view-Pictures .views-field-title a'), requestHandler)
-    c.processLinks(doc, doc.$('.view-Pictures ul.pager li.pager-next a'), requestHandler)
+    c.processLinks(doc, doc.$('.view-Pictures .views-field-title a'), info.name)
+    c.processLinks(doc, doc.$('.view-Pictures ul.pager li.pager-next a'), info.name)
   }
   else if (doc.url.match(/^https:\/\/centenary\.bahai\.us\/news\/.+/)) {
 

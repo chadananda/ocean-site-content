@@ -16,16 +16,16 @@ if (args._.length > 0) {
     regex = new RegExp('^' + baseFolder + 'output\/');
     if (c.collections.hasOwnProperty(arg)) {
       console.log('Processing collection: "' + arg + '"')
-      c.processUrl(c.collections[arg].url, c.collections[arg].handler)
+      c.processUrl(c.collections[arg].url, arg)
     }
     else if (arg.match(regex) && !arg.match(/\.\./) && sh.test('-f', arg)) {
       // find the right collection
       try {
-        if (collection = Object.keys(c.collections).filter(k => (c.collections[k].hasOwnProperty('folder') ? arg.match(c.collections[k].folder) : arg.match('output/' + k + '/')) )[0]) {
+        if (collectionName = Object.keys(c.collections).filter(k => (c.collections[k].hasOwnProperty('folder') ? arg.match(c.collections[k].folder) : arg.match('output/' + k + '/')) )[0]) {
           console.log('Scraping ' + arg.replace(baseFolder, ''))
           let header = sh.head({'-n': 20}, arg)
         if (url = header.match(/^url:\s*(.+)$/im)[1]) {
-            c.processUrl(url, c.collections[collection].handler, true)
+            c.processUrl(url, collectionName, true)
         } else console.error('Could not get url info from file header: \n' + header)
       }
         else {
@@ -45,7 +45,7 @@ else {
   Object.keys(c.collections).forEach(function(k){
     var collection = c.collections[k]
     if (!collection.archive) {
-      c.processUrl(collection.url, collection.handler)
+      c.processUrl(collection.url, collection.name)
     }
   })
   // TODO: update filecount

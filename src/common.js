@@ -41,16 +41,16 @@ module.exports = {
     headers: { 'user-agent': 'node-spider' },
     encoding: 'utf8'
   }),
-  processLinks: function (doc, elements, handler) {
+  processLinks: function (doc, elements, collectionName) {
     if (!this.singlePage) {
       elements.each((i, elem) => {
         var href = doc.$(elem).attr('href').split('#')[0]
         var url = doc.resolve(href)
-        this.processUrl(url, handler)
+        this.processUrl(url, collectionName)
       })
     }
   },
-  processUrl: function (url, handler, singlePage = false) {
+  processUrl: function (url, collectionName, singlePage = false) {
     if (!this.singlePage && !this.pages.hasOwnProperty(url)) {
       if (singlePage) this.singlePage = true
       // TODO: allow for skipped urls
@@ -59,11 +59,11 @@ module.exports = {
         if (cacheDoc) {
           console.log('Resolved URL from local cache: ', url)
           this.pages[url] = true
-          handler(cacheDoc)
+          this.collections[collectionName].handler(cacheDoc)
         } else this.spider.queue(url, function(doc) {
           if (!doc.url) return
           this.pageCache.put(doc)
-          handler.call(this, doc)
+          this.collections[collectionName].handler.call(this, doc)
         }.bind(this));
       }).catch(error => {
         console.error(error)

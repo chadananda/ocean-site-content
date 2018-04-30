@@ -47,6 +47,6 @@ module.exports.handler = function requestHandler(doc) {
   c.output_page(info.name, markdown, meta)
   
   // Queue the next links
-  c.processLinks(doc, doc.$('a[href^="/example"]'), requestHandler);
+  c.processLinks(doc, doc.$('a[href^="/example"]'), info.name);
   
 }

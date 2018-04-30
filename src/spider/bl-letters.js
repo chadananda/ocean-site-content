@@ -15,11 +15,11 @@ module.exports.handler = function requestHandler(doc) {
   
   if (doc.url.match(/^https:\/\/bahai-library\.com\/Letters.*/)) {
     // For index pages
-    c.processLinks(doc, doc.$('td.content ol li>a:first-child'), requestHandler)
-    c.processLinks(doc, doc.$('a[href^="/Letters/"]'), requestHandler)
+    c.processLinks(doc, doc.$('td.content ol li>a:first-child'), info.name)
+    c.processLinks(doc, doc.$('a[href^="/Letters/"]'), info.name)
   }
   else if (doc.$('td.content table.chapterhead a[href$="&chapter=all"]').length) {
-    c.processLinks(doc, doc.$('td.content table.chapterhead a[href$="&chapter=all"]'), requestHandler)
+    c.processLinks(doc, doc.$('td.content table.chapterhead a[href$="&chapter=all"]'), info.name)
   }
   else {
     let f = bl.parseDocument(doc)
