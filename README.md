@@ -35,23 +35,27 @@ There is also a VS Code launch profile ("Scrape current file") that will scrape 
 ### Site collections supported so far:
 
 * _centenary_: https://centenary.bahai.us/news -- 250+ news articles about Abdu'l-Baha's travels in America
-* _biographies_: https://bahai-library.com/Biographies -- Biographies of prominent Baha'is
-* _uhj-documents_: https://bahai-library.com/UHJ-documents -- UHJ Books
-* _uhj-letters_: https://bahai-library.com/UHJ-letters -- UHJ Letters
+* _bl-biographies_: https://bahai-library.com/Biographies -- Biographies of prominent Baha'is
+* _bl-uhj-documents_: https://bahai-library.com/UHJ-documents -- UHJ Books
+* _bl-uhj-letters_: https://bahai-library.com/UHJ-letters -- UHJ Letters
+* _bl-shoghi-effendi_: https://bahai-library.com/Guardian -- Unpublished Letters of Shoghi Effendi
+* _bl-pilgrim-notes_: https://bahai-library.com/Pilgrims -- Pilgrim Notes
+* _bl-translations_: https://bahai-library.com/Translations -- Provisional Translations
+* _bl-articles-published_: https://bahai-library.com/Articles -- Published Articles
+* _bl-articles-unpublished_: https://bahai-library.com/Articles-unpublished -- Unpublished articles
+* _bl-encyclopedia_: https://bahai-library.com/Encyclopedia -- Encylopedia articles
+* _bl-news-articles_: https://bahai-library.com/Newspapers -- Newspaper articles
+* _bl-letters_: https://bahai-library.com/Letters -- Personal letters from historical figures
+* _bl-theses_: https://bahai-library.com/Theses -- Theses papers by Baha'i academics
+* _bl-talks_: https://bahai-library.com/Talks -- Transcriptions of Talks
 
 ### Todo:
 
 * https://reference.bahai.org/fa/ -- Farsi books collection
 * https://reference.bahai.org/ar/ -- Arabic books collection
-* https://bahai-library.com/Guardian -- Unpublished Letters of Shoghi Effendi
-* https://bahai-library.com/Pilgrims -- Pilgrim Notes
-* https://bahai-library.com/Translations -- Provisional Translations
-* https://bahai-library.com/Articles -- Published Articles
-* https://bahai-library.com/Articles-unpublished -- Unpublished articles
-* https://bahai-library.com/Encyclopedia -- Encylopedia articles
-* https://bahai-library.com/Newspapers -- Newspaper articles
-* https://bahai-library.com/Letters -- Personal letters from historical figures
-* https://bahai-library.com/Theses -- Theses papers by Baha'i academics
-* https://bahai-library.com/Talks -- Transcriptions of Talks
 
 * http://www.bahai-library.net/spanish/ -- Spanish library of books
+
+### File Status
+
+For a per-collection count of documents scraped, please check [filecount.md](filecount.md).

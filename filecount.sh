@@ -1,5 +1,12 @@
 #!/bin/bash
-echo "Collection	Short	Scraped	Crawled" > ./output/filecount.tsv
+echo "| Folder                         | Scraped | Indexed |" > ./filecount.md
+echo "| ------------------------------ | ------- | ------- |" >> ./filecount.md
 for d in output/*/ ; do
-	echo "${d:7}	$(find $d -type f -name '.*.md' | wc -l | xargs)	$(ls -l $d | wc -l | xargs)	$([[ -f $d/.index.txt ]] && cat $d/.index.txt | wc -l | xargs)" >> ./output/filecount.tsv;
+	folder=$(printf %-30s "$(echo "$d" | sed -E 's:^output/(.+)/$:\1:')")
+	short=$(printf %5s "$(find $d -type f -name '.*.md' | wc -l | xargs)")
+	scraped=$(printf %7s "$(ls -l $d | wc -l | xargs)")
+	indexed=$(printf %7s "$([[ -f $d/.index.txt ]] && cat $d/.index.txt | wc -l | xargs)")
+	echo "| $folder | $scraped | $indexed |" >> ./filecount.md
 done
+echo >> ./filecount.md
+echo -n $(date) >> ./filecount.md
