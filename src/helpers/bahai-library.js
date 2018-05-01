@@ -34,21 +34,24 @@ BLCollection.prototype.handler = function(doc) {
     this.deIndexUrl(doc.url)
   }
   else {
-    let blDoc = this.parseDocument(doc)
-    blDoc.meta.collection = this.title
-    // blDoc.meta.collectionImage: '', // an image representative of the collection
-    // blDoc.meta.copyright: '', // the copyright information from the spidered site
-
-    this.outputPage(blDoc)
+    this.parseDocument(doc)
+    .then(blDoc => {
+      blDoc.meta.collection = this.title
+      blDoc.meta.collectionImage = this.collectionImage || '',
+      this.outputPage(blDoc)
+    })
+    .catch(err => {
+      console.error(err)
+    })
   }
 }
 
-BLCollection.prototype.parseDocument = function(doc) {
+BLCollection.prototype.parseDocument = async function(doc) {
   let docMeta = this.getDocMeta(doc)
   let docContent = this.getDocContent(doc)
   let blMarkdown = new BLMarkdown(docContent, this.getMarkdown.bind(this))
   if (blMarkdown.needsConvert) {
-    blMarkdown.convert(blMarkdown.docFormat)
+    const success = await blMarkdown.convert(blMarkdown.docFormat)
   }
   let blDoc = {
     docMeta: docMeta,
@@ -79,7 +82,7 @@ BLCollection.prototype.outputPage = function(blDoc) {
   let markdown = blDoc.docMetaMarkdown + "\n\n\n" + blDoc.docContentMarkdown
   c.outputPage(this.name, markdown, blDoc.meta)
   if ((blDoc.docContentMarkdown.needsConvert && !blDoc.docContentMarkdown.convertSuccessful) || blDoc.docContentMarkdown.length < 250) {
-    c.outputPage(this.name, markdown, meta, '.' + outputFile)
+    c.outputPage(this.name, markdown, blDoc.meta, '.' + outputFile)
   }
 }
 
