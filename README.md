@@ -58,4 +58,8 @@ There is also a VS Code launch profile ("Scrape current file") that will scrape 
 
 ### File Status
 
-For a per-collection count of documents scraped, please check [filecount.md](filecount.md).
+The system attempts to index files as they are crawled, and compare the crawled files to those that are actually saved. This helps to determine if there are errors in converting and saving documents.
+
+For a per-collection count of documents scraped, please check [filecount.md](filecount.md). Any differences between the files actually scraped (i.e. converted to markdown and saved) and those indexed (i.e. links that should have been scraped) will be shown in the "Diff" column. To get a detailed list of the differences by filename, run the command `npm run tools -- diffCollection`. You can also add a particular folder, e.g. `npm run tools -- diffCollection bl-talks`.
+
+Note that this system of indexing works only as the spider modules are written; any errors in individual modules could result in some urls not being indexed at all, and those urls would not show up in these statistics.
