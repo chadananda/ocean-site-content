@@ -15,6 +15,7 @@ module.exports = new BLCollection({
     }
     else if (doc.$('td.content table.chapterhead a[href$="&chapter=all"]').length) {
       c.processLinks(doc, doc.$('td.content table.chapterhead a[href$="&chapter=all"]'), this.name)
+      this.deIndexUrl(doc.url)
     }
     else {
       let docObject = this.parseDocument(doc)
