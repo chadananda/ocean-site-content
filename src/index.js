@@ -11,7 +11,7 @@ process.on('exit', function() {
     catch(e) {
     }
   })
-  execFileSync('./filecount.sh')
+  require('./tools').fileCount()
 })
 
 const normalizedPath = require("path").join(__dirname, "spider");

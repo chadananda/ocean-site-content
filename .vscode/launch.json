@@ -7,6 +7,19 @@
     {
       "type": "node",
       "request": "launch",
+      "name": "File Count",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run-script",
+        "tools-debug",
+        "--",
+        "fileCount"
+      ],
+      "port": 9229
+    },
+    {
+      "type": "node",
+      "request": "launch",
       "name": "Scrape current file",
       "runtimeExecutable": "npm",
       "runtimeArgs": [
