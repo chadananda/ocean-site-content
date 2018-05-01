@@ -51,28 +51,37 @@ module.exports = {
     }
   },
   processUrl: function (url, collectionName, singlePage = false) {
-    if (!this.singlePage && !this.pages.hasOwnProperty(url)) {
+    if (this.pages.hasOwnProperty(url)) {
+      console.log('Ignored duplicate URL: ', url)
+    }
+    else if (!this.singlePage) {
+      let collection = this.collections[collectionName]
       if (singlePage) this.singlePage = true
       // TODO: allow for skipped urls
-      // TODO: ensure that each URL is only processed once per run
       this.pageCache.get(url).then(cacheDoc => {
+        this.pages[url] = collectionName
         if (cacheDoc) {
           console.log('Resolved URL from local cache: ', url)
-          this.pages[url] = true
-          this.collections[collectionName].handler(cacheDoc)
-        } else this.spider.queue(url, function(doc) {
-          if (!doc.url) return
-          this.pageCache.put(doc)
-          this.collections[collectionName].handler.call(this, doc)
-        }.bind(this));
+          collection.indexUrl(url, 'resolved from cache')
+          collection.handler(cacheDoc)
+        } 
+        else {
+          console.log('Queued URL: ', url)
+          collection.indexUrl(url, 'queued in spider')
+          this.spider.queue(url, function(doc) {
+            if (!doc.url) return
+            this.pageCache.put(doc)
+            collection.handler(doc)
+          }.bind(this));
+        }
       }).catch(error => {
         console.error(error)
       })
     }
   },
-  outputPage: function(collection, markdown, meta = false, filename = false) {
-    let outputFolder = (this.collections[collection].hasOwnProperty('folder') ? this.collections[collection].folder : 'output/' + collection + '/')
-    let outputFile = (filename ? filename.replace(outputFolder, '') : meta.url.replace(this.collections[collection].mask, '') + '.md')
+  outputPage: function(collectionName, markdown, meta = false, filename = false) {
+    let collection = this.collections[collectionName]
+    let outputFile = (filename ? filename.replace(collection.folder, '') : meta.url.replace(collection.mask, '') + '.md')
     var header = (meta ? // May use "false" as meta to output a simple file
       [].concat(['---'], Object.keys(meta).map((key) => {
       if ((!!meta[key]) && (meta[key].constructor === Array)) {
@@ -84,12 +93,27 @@ module.exports = {
     }), ['---\n\n\n']).join('\n') 
     : '')
     // output with forced directory
-    mkdirp(outputFolder, function (err) {
+    mkdirp(collection.folder, (err) => {
       if (err) console.error(err)
       else {
-        fs.writeFileSync(outputFolder + outputFile, header + markdown, 'UTF-8')
-        console.log('Saved file:  ' + outputFolder + outputFile)
+        try {
+          fs.writeFileSync(collection.folder + outputFile, header + markdown, 'UTF-8')
+          collection.indexUrl(meta.url, 'saved')
+          console.log('Saved file: ' + collection.folder + outputFile)
+        }
+        catch(err) {
+          console.error(err)
+        }
       }
     })
+  },
+  writeIndex(collectionName) {
+    let collection = this.collections[collectionName]
+    if (collection.hasOwnProperty('indexCache') && collection.indexCache.length) {
+      let index = Object.keys(collection.indexCache).map(key => {
+        return collection.indexCache[key] === 'saved' ? key : key + ' ' + collection.indexCache[key]
+      }).join('\n')
+      collection.writeIndex()
+    }
   }
 }

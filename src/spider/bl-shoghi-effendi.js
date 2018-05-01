@@ -1,32 +1,29 @@
 // spider shoghi-effendi from bahai-library.com
 let c = require('../common')
-const bl = require('../helpers/bahai-library')
+const BLCollection = require('../helpers/bahai-library')
 
-module.exports = {
+module.exports = new BLCollection ({
   name: "bl-shoghi-effendi",
   title: "Shoghi Effendi (bahai-library.com)",
   url: "https://bahai-library.com/Guardian",
-  mask: "https://bahai-library.com/",
-  index: true,
-}
-
-module.exports.handler = function requestHandler(doc) {
-  let info = module.exports
-
-  if (doc.url.match(/^https:\/\/bahai-library\.com\/Guardian.*/)) {
-    // For index pages
-    c.processLinks(doc, doc.$('td.content ol li>a:first-child'), info.name)
-    c.processLinks(doc, doc.$('a[href^="/Guardian/"]'), info.name)
+  handler: function(doc) {
+    if (doc.url.match(/^https:\/\/bahai-library\.com\/Guardian.*/)) {
+      // For index pages
+      c.processLinks(doc, doc.$('td.content ol li>a:first-child'), this.name)
+      c.processLinks(doc, doc.$('a[href^="/Guardian/"]'), this.name)
+      this.deIndexUrl(doc.url)
+    }
+    else if (doc.$('td.content table.chapterhead a[href$="&chapter=all"]').length) {
+      c.processLinks(doc, doc.$('td.content table.chapterhead a[href$="&chapter=all"]'), this.name)
+    }
+    else {
+      let blDoc = this.parseDocument(doc)
+      blDoc.meta.collection = this.title
+      // blDoc.meta.collectionImage: '', // an image representative of the collection
+      // blDoc.meta.copyright: '', // the copyright information from the spidered site
+  
+      this.outputPage(blDoc)
+    }
   }
-  else if (doc.$('td.content table.chapterhead a[href$="&chapter=all"]').length) {
-    c.processLinks(doc, doc.$('td.content table.chapterhead a[href$="&chapter=all"]'), info.name)
-  }
-  else {
-    let f = bl.parseDocument(doc)
-    f.meta.collection = info.title
-    // f.meta.collectionImage: '', // an image representative of the collection
-    // f.meta.copyright: '', // the copyright information from the spidered site
+})
 
-    bl.outputPage(info, f)
-  }
-}

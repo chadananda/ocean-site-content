@@ -2,23 +2,29 @@
 const pageCache = require('../page_cache')
 const c = require('../common')
 const $ = require('cheerio')
-const BLMarkdown = require ('./bl_markdown')
+const Collection = require('../collection')
+const BLMarkdown = require('./bl_markdown')
 const TurndownService = require('turndown')
 
 function repeat(char, x) {
   return Array(x + 1).join(char)
 }
 
-module.exports = {
+class BLCollection extends Collection {
+  constructor(conf) {
+    conf.mask = conf.mask || "https://bahai-library.com/"
+    super(conf)
+  }
+}
 
-  parseDocument(doc) {
+BLCollection.prototype.parseDocument = function(doc) {
     let docMeta = this.getDocMeta(doc)
     let docContent = this.getDocContent(doc)
     let blMarkdown = new BLMarkdown(docContent, this.getMarkdown.bind(this))
     if (blMarkdown.needsConvert) {
       blMarkdown.convert(blMarkdown.docFormat)
     }
-    let f = {
+  let blDoc = {
       docMeta: docMeta,
       docMetaMarkdown: this.getMarkdown(docMeta),
       docContent: docContent,
@@ -37,26 +43,26 @@ module.exports = {
       }
     }
     if (blMarkdown.needsConvert) {
-      f.meta.converted_from = blMarkdown.links
+      blDoc.meta.converted_from = blMarkdown.links
     }
-    return f
-  },
+  return blDoc
+}
 
-  outputPage(info, f) {
-    let outputFile = f.meta.url.replace((info.mask || 'https://bahai-library.com/'), '') + '.md'
-    let markdown = f.docMetaMarkdown + "\n\n\n" + f.docContentMarkdown
-    c.outputPage(info.name, markdown, f.meta)
-    if ((f.docContentMarkdown.needsConvert && !f.docContentMarkdown.convertSuccessful) || f.docContentMarkdown.length < 250) {
-      c.outputPage(info.name, markdown, meta, '.' + outputFile)
-    }
-  },
+BLCollection.prototype.outputPage = function(blDoc) {
+  let outputFile = blDoc.meta.url.replace((this.mask || 'https://bahai-library.com/'), '') + '.md'
+  let markdown = blDoc.docMetaMarkdown + "\n\n\n" + blDoc.docContentMarkdown
+  c.outputPage(this.name, markdown, blDoc.meta)
+  if ((blDoc.docContentMarkdown.needsConvert && !blDoc.docContentMarkdown.convertSuccessful) || blDoc.docContentMarkdown.length < 250) {
+    c.outputPage(this.name, markdown, meta, '.' + outputFile)
+  }
+}
 
-  getDocMeta(doc) {
+BLCollection.prototype.getDocMeta = function(doc) {
     // Returns the standard document metadata block for bahai-library.com documents
     return doc.$('td.content>div').first()
-  },
+}
 
-  getDocContent(doc) {
+BLCollection.prototype.getDocContent = function(doc) {
     // Returns the standard content block for bahai-library.com documents
     return doc.$('td.content')
       .clone()
@@ -72,9 +78,9 @@ module.exports = {
       .children('div:first-child')
       .remove()
       .end()
-  },
+}
 
-  getTitle(el) {
+BLCollection.prototype.getTitle = function(el) {
     // Use on the document metadata block.
     // Returns the title as found in the element, which may have more information than $('title').
     return el
@@ -82,9 +88,9 @@ module.exports = {
       .first()
       .text()
       .replace(/\n/g, ' ') || ''
-  },
+}
 
-  getAuthor(el) {
+BLCollection.prototype.getAuthor = function(el) {
     // Use on the document metadata block.
     // Returns a list of authors as found in the element, separated by commas.
     // The list may include editors, translators, and compilers.
@@ -94,9 +100,9 @@ module.exports = {
       .get()
       .join(', ')
       || ''
-  },
+}
 
-  getSource(el) {
+BLCollection.prototype.getSource = function(el) {
     // Use on the document metadata block.
     // Returns the source in which the document was originally published, based on text in the element.
     if (el.text().match(/published in/i)) {
@@ -106,9 +112,9 @@ module.exports = {
       return $.load(source).text().replace(/\s+/g, ' ')
     }
     return ''
-  },
+}
 
-  getYear(el) {
+BLCollection.prototype.getYear = function(el) {
     // Use on the document metadata block.
     // Dumbly returns the last string of exactly four digits in the element.
     let dates = el
@@ -122,9 +128,9 @@ module.exports = {
       })
       || ['']
     return dates.toArray().pop()
-  },
+}
 
-  getImage(el) {
+BLCollection.prototype.getImage = function(el) {
     // Use on the document content block.
     // Returns the src attribute, as a url, of the first image in the content.
     let src = el.find('img')
@@ -132,45 +138,45 @@ module.exports = {
       .attr('src')
     if (typeof(src) === "string" && src[0] === '/') src = 'https://bahai-library.com' + src
     return src || ''
-  },
+}
 
-  getAudio(el) {
+BLCollection.prototype.getAudio = function(el) {
     // Use on the document content block.
     // Tries a bunch of stuff to get the url(s) of one or more audio files for the document.
     if ((links = el.find('a[href$="mp3"]')) && links.length) {
-      return this._getAudio(links)
+      return this._absoluteLinks(links)
     }
     else if ((links = el.find('a[href$="mp4"]')) && links.length) {
-      return this._getAudio(links)
+      return this._absoluteLinks(links)
     }
     else if ((links = el.find('a[href="/wttp/programs.html"]')) && links.length) {
       // TODO: get audio file links
     }
     return ''
-  },
+}
 
-  _getAudio(links) {
-    return links.map((i,e) =>
-      $(e).attr('href').replace(/^\//, 'https://bahai-library.com/')
-    )
-  },
+BLCollection.prototype._absoluteLinks = function(links) {
+  return links.map((i,e) =>
+    $(e).attr('href').replace(/^\//, 'https://bahai-library.com/')
+  )
+}
 
-  getTextLength(el) {
+BLCollection.prototype.getTextLength = function(el) {
     // Use on the document content block
     // Tries to determine if there is a linked document (pdf, epub, etc.) that needs to be converted
     let text = $(el).clone().find('blockquote').remove().end().find('div,p,span,font').find('*').remove().end().text().replace(/[\n\t]/g,'')
     return text.length
-  },
+}
 
-  getMarkdown(el) {
+BLCollection.prototype.getMarkdown = function(el) {
     let val = this.turndown.turndown($(el).html())
       .replace(/([^`\\])`(?!`)/g, "$1'")    // Replace ` with ' when not \ escaped
       .replace(/^`(?!`)/g, "'")             // Replace ` with ' at beginning of line
       .replace(/---|--/g, '—')              // Replace --- and -- with em dash —
     return val
-  },
+}
 
-  getMainContentMarkdown(el) {
+BLCollection.prototype.getMainContentMarkdown = function(el) {
     // Use on the document content block.
     // Returns elements for the actual document content.
     let blMarkdown = new BLMarkdown(el, this.getMarkdown.bind(this))
@@ -178,9 +184,9 @@ module.exports = {
       blMarkdown.convert(blMarkdown.docFormat)
     }
     return blMarkdown
-  },
+}
 
-  turndown: new TurndownService({headingStyle: 'atx'})
+BLCollection.prototype.turndown = new TurndownService({headingStyle: 'atx'})
     .addRule('absoluteLinks', {
       filter: function (node, options) {
         return (
@@ -303,4 +309,5 @@ module.exports = {
         return content.split('\n').map(i => i.replace(/^\s*/, '')).join('  \n')
       }
     })
-}
+
+module.exports = BLCollection
