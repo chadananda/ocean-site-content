@@ -1,17 +1,20 @@
 // spider various sites into markdown files for use in Ocean supplimental
 const c = require('./common')
 const args = require('minimist')(process.argv.slice(2))
+const sh = require('shelljs')
 const { execFileSync } = require('child_process')
 
 process.on('exit', function() {
-  Object.keys(c.collections).map(k => {
-    try {
-      c.collections[k].writeIndex()
-    }
-    catch(e) {
-    }
-  })
-  require('./tools').fileCount()
+  if (!c.singlePage) {
+    Object.keys(c.collections).map(k => {
+      try {
+        c.collections[k].writeIndex()
+      }
+      catch(e) {
+      }
+    })
+    require('./tools').fileCount()
+  }
 })
 
 const normalizedPath = require("path").join(__dirname, "spider");
