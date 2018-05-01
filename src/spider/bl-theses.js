@@ -20,7 +20,7 @@ module.exports = new BLCollection ({
       this.deIndexUrl(doc.url)
     }
     else {
-      let f = this.parseDocument(doc)
+      let blDoc = this.parseDocument(doc)
       blDoc.meta.collection = this.title
       // blDoc.meta.collectionImage: '', // an image representative of the collection
       // blDoc.meta.copyright: '', // the copyright information from the spidered site
