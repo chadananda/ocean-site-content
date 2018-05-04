@@ -5,6 +5,7 @@ const $ = require('cheerio')
 const Collection = require('../collection')
 const BLMarkdown = require('./bl_markdown')
 const TurndownService = require('turndown')
+const tables = require('turndown-plugin-gfm').tables
 
 function repeat(char, x) {
   return Array(x + 1).join(char)
@@ -216,6 +217,7 @@ BLCollection.prototype.getMainContentMarkdown = function(el) {
 }
 
 BLCollection.prototype.turndown = new TurndownService({headingStyle: 'atx'})
+  .use(tables)
   .addRule('absoluteLinks', {
     filter: function (node, options) {
       return (
