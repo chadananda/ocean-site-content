@@ -74,9 +74,6 @@ BLCollection.prototype.parseDocument = async function(doc) {
   }
   if (blMarkdown.needsConvert) {
     blDoc.meta.converted_from = blMarkdown.links
-    if (!blMarkdown.conversionSuccess) {
-      blDoc.docContentMarkdown.text += this.getMarkdown(blMarkdown.el)
-    }
   }
   return blDoc
 }

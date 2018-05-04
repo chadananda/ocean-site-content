@@ -43,7 +43,7 @@ class BLMarkdown extends DocConverter {
     // Set up default properties
     this.fromFormat = 'html'
     this.docFormat = ''
-    this.text = ''
+    this.text = getMarkdown(el) + '\n\n\n'
     this.needsConvert = false
 
     // Set up properties for links, types, etc.
