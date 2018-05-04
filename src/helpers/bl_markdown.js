@@ -50,7 +50,7 @@ class BLMarkdown extends DocConverter {
     this.links = []
 
     // Get actual linked files
-    this.links = el.find('div.readbelow a[href$=".pdf"], div.readbelow a[href$=".PDF"], div.readbelow a[href$=".doc"], div.readbelow a[href$=".docx"], div.readbelow a[href$=".txt"], div.readbelow a[href$=".epub"], div.readbelow a[href$=".mobi"]').get()
+    this.links = el.find('div.readbelow a[href$=".pdf"], div.readbelow a[href$=".PDF"], center a[href$=".pdf"], center a[href$=".PDF"]').get()
       .map(e => (e.attribs.href.replace(/^\//, 'https://bahai-library.com/')))
 
     // Get the document format
