@@ -1,13 +1,10 @@
-const { execSync } = require('child_process')
-const util = require('util')
-const exec = util.promisify(require('child_process').exec)
+const extractor = require('pdftotext-stdin')
+const request = require('request')
+const cachedRequest = require('cached-request')(request)
+cachedRequest.setCacheDirectory('page_cache/documents')
 
-// Set up required docker containers
-try {
-  execSync('docker pull kalledk/pdftotext')
-}
-catch(e) {
-  console.error(e)
+function escRegex(t) {
+  return t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 }
 
 class DocConverter {
@@ -36,12 +33,98 @@ DocConverter.prototype.convert = async function(ext) {
         switch (ext) {
           case 'pdf':
           case 'PDF':
-            // TODO: use request and request-cache instead of curl
-            let pdf = await exec('docker run --rm -i kalledk/pdftotext < <(curl -s "' + url.replace('"', '\\"') + '")', {
-              shell: '/bin/bash',
-            })
-            if (pdf.stderr) throw new Error(pdf.stderr)
-            moreText = pdf.stdout
+
+            // Get the pdf, from cache if possible
+            let pdfToConvert = await cachedRequest({url: url, ttl: (60*60*24*30)})
+
+            // Process the pdf text
+            let textArray = []
+            let dupLinesCheck = {}
+            let prevLine = ''
+            let indPrev = null
+            moreText = await extractor.extractTextFromPdfStream(pdfToConvert)
+            let pdfPages = moreText.match(/\f/gm).length
+            moreText = moreText.replace('\t', '    ')
+              .split('\n')
+              .reduce((text,line,i,arr) => {
+
+                // Initialize dupLinesCheck on first pass
+                if (i === 1) {
+                  text = text + '\n'
+                  Object.assign(dupLinesCheck, {[text.replace(/[\d\s]/g, '')]: text})
+                }
+
+                // Check for last pass
+                let isLastLine = (i === arr.length-1)
+
+                // Find previous, current, and next indent
+                let indPrev = arr[i-1].match(/^(\s*)/)[1].length
+                let indCurr = line.match(/^(\s*)/)[1].length
+                let indNext = (isLastLine ? 1000 : arr[i+1].match(/^(\s*)/)[1].length)
+
+                // For blank lines, just return a blank line.
+                if (line === '') {
+                  return text + '\n'
+                }
+
+                let lineTextOnly = line.replace(/[\d\s]/g, '')
+                if (lineTextOnly === '') {
+                }
+                else if (lineTextOnly === 'p' || lineTextOnly === 'page') {
+                  return text
+                }
+                else {
+                  if (dupLinesCheck.hasOwnProperty(lineTextOnly)) {
+                    if (dupLinesCheck[lineTextOnly].count < 4) {
+                      dupLinesCheck[lineTextOnly].count += 1
+                      dupLinesCheck[lineTextOnly].text.push(line)
+                      // For the first three times, process the text as usual
+                    }
+                    else if (line.match(/\$*\d[\s\S]*?[\%\$\.][\s\S]*?\d/)) {
+                      // This may be a math line; do nothing, but log
+                      dupLinesCheck[lineTextOnly].count += 1
+                    }
+                    else if (dupLinesCheck[lineTextOnly].count === 4) {
+                      dupLinesCheck[lineTextOnly].count += 1
+                      return text
+                        .replace(new RegExp('\\n+' + escRegex(dupLinesCheck[lineTextOnly].text[0]) + '\\n+'), '\n')
+                        .replace(new RegExp('\\n+' + escRegex(dupLinesCheck[lineTextOnly].text[1]) + '\\n+'), '\n')
+                        .replace(new RegExp('\\n+' + escRegex(dupLinesCheck[lineTextOnly].text[2]) + '\\n+'), '\n')
+                        .replace(new RegExp('\\n+' + escRegex(dupLinesCheck[lineTextOnly].text[3]) + '\\n+'), '\n')
+                    }
+                    else {
+                      dupLinesCheck[lineTextOnly].count += 1
+                      return text
+                    }
+                  }
+                  else {
+                    Object.assign(dupLinesCheck, {[lineTextOnly]: {count: 1, text: [line]}})
+                  }
+                }
+
+                // Put footnote numbers on the same line as the footnote
+                if (line.match(/^\d+[\.\):]*\s*$/)) {
+                  indPrev = indNext
+                  return text + line.match(/^(\d+[\.\):]*)\s*$/)[1].padEnd(4)
+                }
+                
+                // Remove lines that are exclusively numeric
+                else if (line.match(/^[\d\s]+$/)) {
+                  return text + '\n'
+                }
+
+                // Find lines that are indented and should start a new paragraph
+                else if (!isLastLine && (indCurr > indPrev) && (indCurr > indNext)) {
+                  text += '\n'
+                }
+
+                return text + line + '\n'
+
+              }).replace(/\n\n+/gm, '\n\n').replace(/\f/gm, '')
+
+            if (moreText.length < 5) {
+              
+            }
             // TODO: clean up converted text from pdf format
             // TODO: break apart paragraphs by detecting indents
             // TODO: convert paragraphs with spaces in front to blockquotes
@@ -70,9 +153,12 @@ DocConverter.prototype.convert = async function(ext) {
           this.conversionSuccess = true
           convertedText += moreText + '\n\[converted from ' + url + ' on ' + new Date().toISOString().split('T')[0] + '\]\n\n\n'
         }
+        else {
+          convertedText += '\n\[text could not be retrieved\]\n\n'
+        }
       }
       catch(err) {
-        console.error(err.message)
+        console.error(err)
         this.conversionError = true
         convertedText += '\n\[Error converting from ' + url + ' on ' + new Date().toISOString().split('T')[0] + '\]\n\n\n'
       }

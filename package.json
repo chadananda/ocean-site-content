@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/chadananda/ocean-site-content#readme",
   "dependencies": {
+    "cached-request": "^1.1.2",
     "cheerio": "^1.0.0-rc.2",
     "crypto-js": "^3.1.9-1",
     "diff": "^3.5.0",
@@ -31,7 +32,10 @@
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "node-spider": "^1.4.1",
+    "pdftotext-stdin": "^0.2.0",
+    "request": "^2.85.0",
     "shelljs": "^0.8.1",
-    "turndown": "^4.0.1"
+    "turndown": "^4.0.1",
+    "turndown-plugin-gfm": "^1.0.1"
   }
 }
