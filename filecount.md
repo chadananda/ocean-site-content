@@ -1,6 +1,6 @@
 | Folder                         | Scraped | Indexed |      Diff |
 | ------------------------------ | ------- | ------- | --------- |
-| bl-articles-published          |     911 |         |           |
+| bl-articles-published          |     912 |         |           |
 | bl-articles-unpublished        |     223 |         |           |
 | bl-biographies                 |     458 |         |           |
 | bl-encyclopedia                |     312 |         |           |
@@ -15,4 +15,4 @@
 | bl-uhj-letters                 |     290 |         |           |
 | centenary                      |     420 |     420 |     -0/+0 |
 
-Thu May  3 19:40:30 PDT 2018
+Fri May  4 00:54:31 PDT 2018
