@@ -2,6 +2,12 @@
 
 Tool for extracting search text from various websites for inclusion in Ocean supplemental search
 
+### Dependencies
+
+* poppler-utils, for pdf extraction
+  * Mac (with homebrew): `brew install poppler`
+  * Linux: `poppler-utils` in package manager, e.g. `apt-get install poppler-utils`
+
 ### To run:
 
 * Clone this repository
