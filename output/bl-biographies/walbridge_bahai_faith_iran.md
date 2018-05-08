@@ -1,0 +1,185 @@
+---
+url: https://bahai-library.com/walbridge_bahai_faith_iran
+title: The Bahá'í Faith in Iran
+audio: 
+author: John Walbridge
+image: 
+source: Essays and Notes on Babi and Bahá'í History
+date: 2002
+doctype: website
+status: search-only
+encumbered: false
+collection: Biographies (bahai-library.com)
+collectionImage: 
+---
+
+
+## The Bahá'í Faith in Iran
+
+### by [John Walbridge](https://bahai-library.com/author/John+Walbridge)
+
+published in [Essays and Notes on Babi and Bahá'í History](http://bahai-library.com/walbridge_babi_bahai_history)  
+2002
+
+
+**Three Clerics and a Prince of Isfahan: background to Bahá'u'lláh's _Epistle to the Son of the Wolf_**
+
+Among the defining events in the development of the Bahá'í community of Iran in the time of Bahaullah was the judicial murder of two wealthy and prominent Bahá'í merchants in Isfahan early in 1879, the result of an extortion plot that got out of hand. Members of the respected Nahri family, the two brothers were entitled by Bahaullah "the King and Beloved of Martyrs." The incident itself is well known. The following sections discuss the Tablet that Bahaullah wrote in immediate reaction to the murders and four prominent opponents of the Bahá'í Faith in Isfahan: three clerics and a prince-governor.
+
+Note: On the event see Balyuzi, _Eminent_ 33–44. Ishraq-Khavari, _Nurayn,_ is an account of the incident with biographies of the brothers. For contemporary foreign accounts see Momen, _Babi_ 274-77.
+
+**Lawh-i Burhan**
+
+The Tablet of the Proof was revealed in 1879 as a rebuke to the two clerics—the "Wolf" and the "She-Serpent"—responsible for the martyrdoms of the King and Beloved of Martyrs in Isfahan. The Imam-Jum\`a of the city, Mir Muhammad-Husayn Khatunabadi, had owed the brothers a large sum of money. It was generally thought that their arrest as Bahá'ís was a pretext to void this debt and allow the governor, the Imam-Jum\`a, and Shaykh Muhammad-Baqir Isfahani, another leading cleric, to seize and divide the brothers' extensive properties. Though the governor had received orders to send the two brothers to Tehran where they would most likely have been released, the two clerics were able to force him to permit their executions.
+
+The killing of the two brothers—members of a prominent merchant family in Isfahan and among the leading Bahá'ís in Iran—shocked and angered the Bahá'ís and their many friends, both Iranian and European. Bahaullah immediately wrote the letter known as the Lawh-i Burhan sharply rebuking the two clergymen. It reached Tehran only thirty-eight days after the killings. Mirza Abu al-Fadl Gulpaygani, on Bahaullah's instructions, sent a copy of the letter to each of the clergymen. There is no record of their reactions.
+
+The principal theme of the Lawh-i Burhan is contrast between the pretensions of the two clergymen to be exponents of the Law and faith of Islam and the injustice and cruelty of their killing two descendants of the Prophet himself. Most of the tablet is addressed to Shaykh Muhammad-Baqir, the more influential of the two. Bahaullah denounces the injustice of sentencing the two brothers to death. Bahaullah says that there is no hatred in his own heart for the Shaykh, who has been deceived by his own folly. Had he realized what he had done, he would have cast himself into the fire.
+
+Bahaullah compares the Shaykh to the Jewish priests who condemned Christ to death and to the leaders of the cult of idols in Mecca who opposed Muhammad. They could offer no proof to justify their actions, nor could the Shaykh for his. (This is the source of the title of the tablet.) In fact, the Shaykh followed his passions, not his Lord, and abandoned the Law of God—the knowledge of which is the source of the authority of the Muslim clergy—and followed the law of his lower self. True learning is to recognize the station of Bahaullah. If the Shaykh were to subdue his passions, he would understand the call of Bahaullah and his sins would be forgiven. Bahaullah and his followers, as their actions testified, had no fear of the Shaykh's cruelty.
+
+Bahaullah says that leadership had made the Shaykh proud. But there is no honor in being followed by the worthless and ignorant: it was such people who supported the priests who put Christ to death. Bahaullah refers here to three of his own works: tablets to the Sultan and Napoleon III and the Kitab-i Iqan.
+
+Bahaullah digresses to address the Muslim clergy in general, warning them that neither their wealth nor the religious sciences in which they prided themselves would profit them. The Shah, Bahaullah implied, feared to interfere with wolves such as the Shaykh. But the Shaykh is like the last sunlight on the mountaintop, soon to fade away like those who had opposed God in the past. Truly, Muhammad and Fatima the Chaste wept at his deeds. The Muslim clergy had opposed everyone who had tried to improve the condition of Islam. Bahaullah points as a warning to the disastrous war of 1877 in which Turkey had lost much of her territory in the Balkans.
+
+Now Bahaullah turns from the "Wolf" to the "She-Serpent"—Mir Muhammad-Husayn, the Imam-Jum'a. His denunciation of this man is even sharper than that of the Shaykh. There is no hint that this man deceived himself about the injustice of his actions. Soon, Bahaullah promises, "the breaths of chastisement will seize thee. . . " He will not, Bahaullah prophesies, consume the wealth that he had pillaged.
+
+When Edward Browne visited Isfahan a few years after the martyrdoms, he heard of "the terrible letter" threatening the two clergymen with divine chastisement. Most likely it immediately began circulating in manuscript among the Bahá'ís. It would have been convincing, for its prophecies of disgrace and death for the two clergymen were soon fulfilled. It was published in at least two early collections of the writings of Bahaullah, _Aqdas-i Buzurg_ (1314/1896) 200–208 and _Majmu'a_ (Cairo, 1920) 53–66. Bahaullah Himself quotes lengthy passages in _Epistle to the Son of the Wolf_—itself addressed to Aqa Najafi, the son of Shaykh Muhammad-Baqir: pp. 79–86, 97–103. The entire text is included in the Arabic and English editions of _Tablets of Bahá'u'lláh_, Sect. 14. Almost the entire text of the tablet was translated by Shoghi Effendi in Bahaullah's _Epistle to the Son of the Wolf._.
+
+Bahaullah, _Epistle,_ refers to the tablet as "Lawh-i Burhan." It is also known as "Lawh-i Raqsha'" ("Tablet of the She-Serpent").
+
+Note: For text and translation see Bahaullah, _Tablets,_, sect. 14. Taherzadeh 4:91–102. Ishraq-Khavari, _Ganj_ 145–46. Balyuzi, _Bahá'u'lláh_ 382\. Mazandarani, _Asrar_ 2:40–41. Ishraq-Khavari, _Da'irat_ 13:2021, 2057. Ishraq-Khavari, _Nurayn_ 245–53.
+
+**Mir Muhammad-Husayn Khatunabadi,** "**the She-Serpent**"
+
+The cleric known in Bahá'í tradition as "the She-Serpent" (Raqsha') was the Imam-Jum\`a of Isfahan and one of those responsible for the execution in 1879 of the Nahri brothers, the "King" and "Beloved of Martyrs." The Khatunabadis were the descendants of Mir Muhammad-Salih, a distinguished scholar of the early eighteenth century, and had held the position of Imam-Jum\`ah of Isfahan for about a century. Mir Muhammad-Husayn was the brother of Mir Sayyid Muhammad Sultan al-'Ulama', the Bab's host in Isfahan in 1846. On his brother's death in 1874, he inherited the family office, thus making him one of the two or three highest ranked clergy in the city. (The Imam-Jum'ah was the leader of Friday prayers at the most important mosque in the city. The holders of this office were, at least nominally, appointed by the government, although often the office was effectively hereditary.) He does not seem to have lent any particular distinction to his office.
+
+Mir Muhammad-Husayn's earliest contact with the Babis was when his brother sent him out of the city to meet the Bab, who was coming from Shiraz. Since the Bab stayed for some time in his brother's house, Mir Muhammad-Husayn must have met him a number of times.
+
+Mir Muhammad-Husayn's importance in Bahá'í history arises from the curious fact that his bankers were Bahá'ís: the three Nahri brothers, a family of wealthy merchants who had become Babis at the time of the Bab's visits and who were now among the most important and well-known Bahá'ís of Iran. They would routinely pay the Imam-Jum\`a's debts as they came in. The account eventually reached the very large sum of 18,000 tomans. In early 1879 the brothers presented this bill for payment. Mir Muhammad-Husayn stalled, asking for an audit. Shaykh Muhammad-Baqir, the most powerful cleric in Isfahan and a bitter opponent of the Bahá'ís—proposed that the three Nahri brothers, well-known as Bahá'ís—be arrested as heretics. Their property would then be forfeit and could be divided among the two clerics and the governor, whose cooperation would be necessary. The three brothers were arrested, two of them while guests in the Imam-Jum\`a's house. The youngest recanted and was released. The two older brothers refused and were eventually executed at the insistence of the clergy. Mir Muhammad-Husayn and Shaykh Muhammad-Baqir personally delivered the death warrants to the prison.
+
+After the executions of the two brothers, the Imam-Jum\`a sent his servants to seize their property and loot their houses, many of their possessions being extremely valuable. A few days later a dispute broke out between him and Zill al-Sultan, the governor. Several weeks later Mir Muhammad-Husayn tried to force the issue by marching on the governorate with his supporters to demand a larger share of the plunder. When disorders continued, troops were sent from Tehran, the Imam-Jum\`a was exiled to Mashhad, and his property was plundered. He was allowed to return from his exile in Mashhad a year or so later. He died in Isfahan two years after his victims on 21 June 1881 of a repulsive tumor on his neck. He was buried in an unmarked grave by a few porters, no one else daring to risk the anger of the governor by attending his funeral. When the merchants closed the bazaar to mourn his death, the governor's attendants forced them to reopen their shops.
+
+Bahá'í tradition reports that when someone expressed doubts about the wisdom of killing the Nahri brothers, he had said, "Their blood be on my neck." Thus his gruesome death was interpreted as a punishment of his crime and the fulfillment of Bahaullah's prophecy of his downfall.
+
+Note: Momen, _Babi_ 271–74. Balyuzi, _Eminent_ 33–44. Bahaullah, _Tablets,_ "Lawh-i Burhan" para. 14, pp. 213–16. Taherzadeh 4:73–102. 'Abd al-Baha, _Makatib_ 200–1, 232–33. Nabil, 201. Browne, "Babis of Persia," p. 490–91.
+
+**Shaykh Muhammad-Baqir Isfahani,** "**the Wolf"**
+
+"The Wolf" was a leading mujtahid of Isfahan responsible for a number of persecutions of Bahá'ís. He born in 1234/1818–19 and was the son of a prominent cleric in Isfahan. His mother was the daughter of Ja\`far Kashif al-Ghita', one of the most important exponents of the Usuli legal school. Muhammad-Baqir went to Najaf, where he studied jurisprudence with the two greatest Shi\`i legal scholars of the time, Muhammad-Hasan an-Najafi and Murtada al-Ansari. Having completed his studies, he returned to Isfahan to assume the position of leader of prayers in the Royal Mosque. About the same time, the old Imam-Jum'a and several other important clerics in Isfahan died, abruptly making him the highest-ranking cleric in the city. He acquired many students and great religious authority in Isfahan and surrounding regions. He wrote several books, none especially important. Most of Shaykh Muhammad-Baqir's efforts went into building up his religious, political, and economic power. His political position was such that he was sometimes able to challenge the governor directly, doing such things as inflicting the death penalty against the wishes of the authorities. He also acquired great wealth, at least partly by hoarding grain in times of famine.
+
+In 1876 he was forced by the authorities to leave Isfahan and retire to Mashhad. He then went to Tehran, was reconciled to Zill al-Sultan, the governor, and returned to Isfahan on 16 April 1876. In 1883 he fell from grace once more, being forced to leave the city after the humiliation of having his wife seduced by the governor. He died in Safar 1301/December 1883, shortly after arriving at Najaf.
+
+Shaykh Muhammad-Baqir had a number of children, several of them later prominent clerics in Isfahan. The most important was Muhammad-Taqi, better known as Aqa Najafi or to the Bahá'ís "the Son of the Wolf."
+
+Shaykh Muhammad-Baqir was a relentless foe of heresy and waged a twenty-year battle against Shaykhis, Babis, and especially Bahá'ís. In 1864, he had several hundred Babis of Najafabad arrested and wanted to put them all to death. More moderate clerics prevented this, but four were eventually killed—two of whom were under the protection of the Shah—and many others beaten and robbed.
+
+In 1874, shortly before the arrival of Zill al-Sultan, the new governor, he instigated a major pogrom against the Bahá'ís of Isfahan. About twenty were arrested, while hundreds of others took refuge in the office of the British telegraph company and the houses of the Europeans in the city. Shaykh Muhammad-Baqir proclaimed from his pulpit that Muslims were free to kill Bahá'ís and to do as they wished with their property and women. The garrison intervened to restore order, and eventually the Shah stopped the persecutions.
+
+In 1878 a Bahá'í from the village of Talkhuncha, Mulla Kazim, was arrested there and delivered into the hands of Shaykh Muhammad-Baqir. When he refused to recant his faith, he was publicly beheaded in the Maydan-i Shah. His body was abused by the mob. Two other Bahá'ís were also arrested. One was severely beaten and his ears were cut off. A number of Bahá'í houses were also attacked.
+
+In March 1879 Shaykh Muhammad-Baqir; Mir Muhammad-Husayn, the new Imam-Jum\`a; and Zill al-Sultan plotted to kill three Bahá'í Nahri brothers. Zill al-Sultan tried to withdraw from the conspiracy when he was ordered to send two of the brothers to Tehran, but some fifty clergymen, accompanied by their supporters, closed the bazaar and marched to the governorate. Zill al-Sultan agreed to endorse a death sentence issued by the clergy. Shaykh Muhammad-Baqir and the Imam-Jum\`a personally supervised the execution.
+
+After this last incident Bahaullah gave Shaykh Muhammad-Baqir the title "Wolf" (Dhi'b) for his cruelty, denouncing him in the Lawh-i Burhan ("Tablet of the Proof"). In another tablet (Bahaullah, _Athar_ 2:197–98, evidently written at the time of one of the Shaykh's exiles, he prophesies his final complete downfall.
+
+After the Shaykh's death, his son Muhammad-Taqi—better known as Aqa Najafi or the "Son of the Wolf"—assumed his place as prayer leader in the Royal Mosque and carried on the crusade against the Bahá'ís.
+
+Note: Amin, _A'yan_ 9:186. Momen, _Babi_ 243, 513, 268–74. Balyuzi, _Eminent_ 33–40, 134, 259. Bahaullah, _Tablets,_ 203–26. 'Abd al-Baha, _Makatib_ 201, 232. Bahaullah, _Athar_ 2:197–98. Brown, "Babis of Persia" 491.
+
+**Aqa Najafi,** "**the Son of the Wolf"**
+
+Shaykh Muhammad-Taqi Najafi—usually called Aqa Najafi, and entitled by Bahaullah "Son of the Wolf"—was a bitter opponent of the Bahá'ís. He was born on 17 Rabi' II 1262/14 April 1846, the son of Shaykh Muhammad-Baqir Isfahani, who was the leader of prayers at the Royal Mosque in Isfahan. He was related by blood and marriage to many prominent \`ulama. He studied under his father in Isfahan and then went to Najaf where he studied the usual subjects under Mirzay-i Shirazi, the highest-ranking Shi\`i cleric of the time, and others. Returning to Isfahan, he was associated with his father and assumed his father's position in the Royal Mosque on his death in 1883. His title "Aqa Najafi" stressed his claim to be regarded as one of the Najaf circle of religious scholars.
+
+Building on the wealth and power accumulated by his father, Najafi became the most powerful cleric in Isfahan and one of the wealthiest men of the city. For over thirty years he waged a bitter struggle for control of Isfahan with Zill al-Sultan, the Qajar prince-governor. In the process he accumulated vast wealth, which he distributed generously to students and other clerics. The rise of his power in Isfahan was aided by the fall of Zill al-Sultan from royal favor in 1888.
+
+Despite his hatred for the representatives of the Qajar dynasty and his early support for the nationalist revolt against the tobacco concession in 1891–92, his support for the constitutional revolution was ambiguous and inconsistent. He was criticized and mistrusted by many of the constitutionalist leaders, some of whom he had denounced as heretics and Babis (which, indeed, some were).
+
+Like his father before him, Aqa Najafi was a bitter and ruthless opponent of the Bahá'ís. Najafi was one of the clergy who had signed the death warrant of the two Nahri brothers and took an active role in forcing the governor to carry out the sentence. After his father's death, Najafi assumed the leading role in the persecution of Bahá'ís in central Iran. He was largely responsible for the persecutions in Sida in 1889, in Najafabad in 1889, 1899, and 1905, and in Isfahan and Yazd in 1903. In addition to his activities in Isfahan and its vicinity, he wrote to \`ulama in other cities urging them to persecute the Bahá'ís. He also harassed the Muslims who attended the Christian missionary schools and the Jews. Such was Najafi's hatred of the Bahá'ís that he is said to have prohibited the recitation of the famous Ramadan dawn prayer, traditionally thought to contain the greatest name of God, because it contained the name "Baha." Though the leading \`ulama in Najaf did not usually openly endorse Najafi's pogroms, they did not repudiate him and helped prevent the government from acting against him.
+
+Despite Najafi's thirty-year crusade against the Bahá'ís, he is best known among Bahá'ís for the Epistle to the Son of the Wolf. Bahaullah's last major work, this book is addressed to Aqa Najafi and contains Bahaullah's own summary of the history and teachings of his religion. The "Shaykh" addressed throughout the book is Najafi.
+
+Aqa Najafi had fifteen children by three permanent and two temporary wives. Several of his children were of moderate prominence in clerical circles in Isfahan, as their descendants are still. Najafi is variously said to have written forty or a hundred books. He published a number of them, but it is said that some of these were actually written by others.
+
+His wealth is also a source of controversy. Though a clerical source speaks of his generosity, there seems little doubt that much of his wealth was ill-gotten. He cooperated with the governor to corner the market in wheat during a famine. On one occasion he had an official tortured and killed who had complained that Najafi had hoarded hundreds of tons of wheat while people starved. He threatened revenue officers to avoid paying taxes. The wealthy of Isfahan suspected that the Bahá'ís he attacked were chosen for the wealth that might be seized from them, and they feared him, even if they were not themselves Bahá'ís.
+
+Aqa Najafi's character is a matter of disagreement. The clerical biographers generally praise him. "He was among the great scholars and clerics of Isfahan. . . He was almost without peer through the centuries in his political skill and ability to deal with the government." (_Makarim.)_ He has also been called a murderer, opportunist, hoarder, and plagiarist. He was hated in his day by the government, foreign diplomats, and missionaries, and feared above all others by the Bahá'ís. His fellow clergy admired him, then and now, as a zealous defender of their faith.
+
+He died 11 Sha'ban 1332/5 July 1914 in Isfahan and was buried near the Maydan-i Shah in Isfahan.
+
+Note: _EIr, s.v._ "Aqa Najafi." *** _Makarim_ 1662–67. Amin, _A'yan, 9_:196\. Momen, _Babi_ 280–88, 363, 376–85, 395–96, 426–36, 514. Balyuzi, _Eminent_ 38, 132–33, 151-53, 259. Momen, _Shi'i_ 133, 140–41. Algar, _Religion_ 16, 102, 128, 173, 180–81, 209, 212, 220, 231–32. Bahaullah, _Ishraqat_ 40\. Ishraq-Khavari, _Da'irat_ 1:46, 110.
+
+**Sultan-Mas'ud Mirza Zill al-Sultan**
+
+Born on 5 Jan. 1850, Sultan-Mas\`ud Mirza Zill al-Sultan was the eldest surviving son of Nasir al-Din Shah and long-time governor of Isfahan. He was passed over for the throne because his mother, \`Iffat al-Saltana, was a temporary wife and not of noble blood, so the next son, Muzaffar al-Din Mirza, was designated heir-apparent. His original title was Yamin al-Dawla, but in 1869 he received the title Zill al-Sultan, "shadow of the king."
+
+He became governor of Mazandaran at age 11 and of Fars at 13. In 1874 he became governor of Isfahan. He ruled sternly, suppressed disorders, and paid taxes promptly to the central government. With these commendations, additional provinces were added to his government until by 1882 he governed about 40% of Iran, including such important areas as Yazd, Fars with its capital of Shiraz, and Kirmanshah. In addition, he built up an efficient provincial army containing 21,000 men, 6,000 horse, and ten batteries of artillery—a force that by Iranian standards was large, well-armed, and well-trained. He ruled regally in Isfahan, flattering English diplomats who supposed him to be enlightened and pro-British.
+
+This situation abruptly ended in 1888. Nasir al-Din Shah, suspecting that Zill al-Sultan planned to contest the throne with his gentler brother on his father's death, detained him while he was visiting Tehran and announced that Zill al-Sultan had "resigned" all his offices except the governorship of Isfahan. His deputy-governors in the cities and provinces formerly under his rule were dismissed and the fine army disbanded. Zill al-Sultan eventually returned to Isfahan, an embittered and much weakened man.
+
+After the assassination of Nasir al-Din Shah, having lost his own power and without the support he had once hoped for from the English, he yielded to his younger brother's accession to the throne. He remained governor of Isfahan for twenty years after his disgrace. These years were dominated by a long struggle for control of Isfahan with the powerful and unscrupulous Aqa Najafi. He was finally dismissed from his governorship after the Constitutional Revolution and exiled to Europe. He was allowed to return during World War I and died not long after his return in Isfahan on 2 July 1918.
+
+Zill al-Sultan's relations with the Bahá'ís were complex and ambiguous. On his first arrival as governor in Isfahan, he was greeted with a persecution of Bahá'ís instigated by Shaykh Muhammd-Baqir. He sought to the prevent the news from reaching Tehran. In 1879 he consented to the arrest of the Nahri brothers, the "King' and "Beloved of Martyrs." It seems likely that his interest in the matter was the innocent extortion scarcely distinguishable from tax collection and that he did not particularly want them killed. Nonetheless, confronted on the one hand with the obstinate refusal of the two brothers to recant and on the other by a mob led by sixty clerics, he consented to their deaths. In this he disobeyed orders from the Shah to send them to Tehran. After their deaths, he took such a large share of their plundered wealth that the Imam-Jum'a, cheated in the transaction, raised another riot in protest.
+
+In the various persecutions that took place in Isfahan and its vicinity through the rest of his governorship, Zill al-Sultan generally played a passive role, pleading his inability to confront the clergy, especially the formidable Aqa Najafi. When possible he discouraged the pogroms but rarely took active measures to stop them. Zill al-Sultan was not himself actively hostile to the Bahá'ís and in any case hated the clergy. It is said that Zill al-Sultan did instigate the persecution of the Bahá'ís of Yazd in 1891 to divert attention from himself after he had been indirectly implicated in a plot against the Shah.
+
+On at least one occasion Zill al-Sultan attempted to enlist the Bahá'ís in his schemes to gain the throne for himself. He sent a messenger to Bahaullah, Haji Muhammad-\`Ali Sayyah Mahallati. Bahaullah rejected this overture politely but firmly and later remarked to his companions that had he sent Zill al-Sultan's letter to Nasir al-Din Shah, it would surely have resulted in the prince's death. In the fall of 1911 Zill al-Sultan approached \`Abd al-Baha in Paris, hoping for his help in securing his return to Iran and reacquiring certain properties of his that had come into the hands of Bahá'ís. \`Abd al-Baha said that Zill al-Sultan would return to Iran and that the property in question would be given to him without payment. Discovering that one of \`Abd al-Baha's attendants was a son of one of the brothers he had put to death thirty years before, he muttered excuses. 'Abd al-Baha said that he knew the part Zill al-Sultan had played and what his motive had been.
+
+Zill al-Sultan married Hamdam al-Muluk, the daughter of Nasir al-Din Shah's sister and Mirza Taqi Khan, the former prime minister. His son Jalal al-Dawla was governor of Yazd and played a large part in the persecutions of the Bahá'ís there.
+
+Zill al-Sultan tried to portray himself to foreigners as a progressive and pro-British reformer. The astute Curzon, however, saw him as driven by the single ambition to supplant his brother as heir apparent and believed that he had also made overtures to the Russians. In fact, although he was a vigorous and in many ways capable ruler, there was much less to him than his English admirers saw. His rule was marred by cruelties: persecutions of Bahá'ís, the treacherous killing of a Bakhtiyari leader, and persecutions of Jews and others, mostly instigated by the clergy but tolerated by the prince. Foreigners were appalled by the damage he inflicted to some of the great monuments of Isfahan, though in this he cannot be said to have been better or worse than his contemporaries.
+
+His relations with the Bahá'ís were consistently duplicitous. He was willing to present himself as sympathetic to the Bahá'ís and even to solicit their aid, but he abandoned them when it suited his political purposes.
+
+Note: Curzon 1:416–21 and passim. Browne, _Year_ 114–15. Momen, _Babi_ 268–90, 301–5, 376–85 passim, 524. Balyuzi, _Eminent_ 33–44, 79–80. Balyuzi, _Bahá'u'lláh_ 409–10, 431–34. Balyuzi, _'Abdu'l-Bahá_ 161–62. Blomfield, _Chosen_ 186–87. ***_Makarim_ 1814–15.
+
+**Khomeini**
+
+Ayatollah Ruhollah Khomeini—properly Imam Ayatu'llah Ruhu'llah al-Musavi al-Kumayni, the leader of the Iranian revolution of 1979, was bitterly hostile to the Bahá'ís and sanctioned the persecutions that took place under the Islamic revolutionary government of Iran.
+
+**Life**
+
+Khomeini was born in about 1900 in the impoverished oasis town of Khumayn, south of Tehran. His grandfather, a member of a Persian family living in Kashmir, had studied in Karbala and settled in Khumayn at the invitation of a local chief around 1840. While Khomeini was still an infant, his father was killed in a dispute with a local landlord, leaving Khomeini to be raised by a somewhat more prosperous uncle. His uncle and aunt wished him to become a traditional physician _(hakim),_ but he showed talent for Islamic learning. World War I having made travel to the Shi\`i centers in Iraq impractical, he chose to study in the nearby town of Arak, eventually becoming a favored student of Shaykh \`Abd al-Karim Ha'iri Yazdi (1859–1937).
+
+Khomeini was fortunate in his choice of teacher, for Ha'iri Yazdi moved to Qum in 1922 and led the revival of that town as a center of Shi'i learning, becoming its chief religious authority. By the end of the 1930s Khomeini had begun teaching the slightly unorthodox disciplines of mysticism and philosophy. In 1930 he married the daughter of a prominent cleric of Tehran, Batul Saqafi, whom he adored and by whom he had five children. By 1937–38 he was prosperous enough to perform the pilgrimage to Mecca and spend several months in the shrine cities of Iraq.
+
+During these years Khomeini had been so angered by the secular and anti-clerical policies of Rida Shah Pahlavi that in 1944 he published a vitriolic anti-government pamphlet called _Kashf al-Asrar,_ a work that foreshadowed his later ideas on Islamic government. He was also influenced by the antisemitic propaganda of the Nazis, which left him with an abiding belief in a Jewish conspiracy against Islam.
+
+When Ayatu'llah Burujirdi (1875–1962) came to Qum at the beginning of 1945, Khomeini became his close advisor, carrying out religious and political missions on Bururjirdi's behalf that helped secure the latter's position as chief religious authority of the Shi'i world. Burujirdi firmly discouraged Khomeini's involvement in anti-government politics and terrorism.
+
+During the 1950s Khomeini turned his attention to the problem of becoming a Grand Ayatu'llah—_marja' al-taqlid,_ a supreme authority on religious matters. Therefore, he began writing books, this establishing his scholarly credentials. His increasing personal wealth allowed him to gather a large circle of students. By about 1958 his position as an Ayatu'llah of the second rank was secure, but his prospects were limited by the presence of a number of more senior Ayatu'llahs, some of whom would surely outlive him and thus block his path to promotion. Moreover, his interests lay in philosophy, mysticism, and even poetry—not the jurisprudence that was the chief interest of his class. Even three decades later an air of doubt still attached to his claim to be a Grand Ayatu'llah.
+
+In 1962 and 1963 the government introduced a number of reforms: large-scale land reforms, women's sufferage, and the elimination of religious tests for local offices. The first struck at the independence of the religious institutions, which were dependent on their large endowments of rental farmland, while the latter two were seen by the clergy as anti-Islamic. Large demonstrations took place throughout the country. Khomeini took a leading role in agitating against the measures, speaking against the Shah in bold and abusive language. The protests reached their height in 1963 at \`Ashura, the anniversary of the martyrdom of Husayn, which fell that year at the beginning of June. By the time troops had restored order, hundreds were dead. Khomeini, along with other clerical leaders of the protests, was arrested and brought to Tehran where he was held for ten months before being released in April 1964. His preaching remained defiant. That November he was arrested again for his opposition to a bill removing American military personnel from the jurisdiction of the Iranian courts. He was exiled to Turkey. The following year he settled in Najaf, the chief Shi\`i scholarly center of Iraq, where he lived until 1978.
+
+**Thought and writings**
+
+Khomeini's intellectual importance rests on his theory of Islamic government, a subject on which he disagreed with the majority of modern Shi\`i clerics. Traditionally, Shi\`is accepted the separation of church and state in the absence of the Hidden Imam. Khomeini argued that many of the fundamental laws of Islam presumed the existence of an Islamic government. Also, people are weak and, for the most part, will fall into sin without the influence of a government to enforce religious law. In our time Islamic states had fallen into the hands of those who served the purposes of non-Muslim imperialists. Khomeini painted a stark picture of the division of society into a tiny minority of rich and corrupt oppressors exploiting the mass of oppressed Muslims. The solution was to establish true Islamic governments. The proper leaders for such governments were the Islamic clergy because of their knowledge of divine law and their commitment to justice. This last is the famous doctrine of the "guardianship of the jurisconsult" (_vilayat-i faqih_). Khomeini presented this message in books, pamphlets, and fiery sermons smuggled into Iran on casettes.
+
+Though Khomeini's scholarly output was much less than that of other Grand Ayatu'llahs, he did write a number of books. These were:
+
+_Tahrir al-Wasila_ and _Tawdih al-Masa'il,_ manuals on ritual obligations of the sort conventionally written by Grand Ayatu'llahs.
+
+_Kitab al-Bay',_ a treatise on the law of contracts that provided a vehicle for his denial of the legitimacy of the secular state.
+
+_Islamic Government (Hukumat-i Islami),_ a compilation of his lectures on government, his most influential work.
+
+_Misbah al-Hidayat,_ on mystical philosophy.
+
+To this must be added his Last Will and Testament, written in 1983 and constituting his political testament.
+
+There are also a number of collections of speeches, letters, and the like.
+
+**Khomeini and the Iranian Revolution**
+
+While in Najaf Khomeini developed his theory of Islamic government and built up a loose revolutionary network within Iran. Eventually his uncompromising opposition to the Shah's regime won him support from other anti-government groups, who hoped to use him for their own purposes. Early in 1978 riots broke out in major Iranian cities, resulting in many deaths. Riots continued through the summer and fall, encouraged by Khomeini's network of supporters. Expelled from Iraq in October, Khomeini settled in Paris, by now the recognized leader of the revolution. After the Shah's departure from Iran, Khomeini returned to Iran in triumph on 31 January and within days was the unquestioned ruler of the country though he himself held no government post.
+
+Khomeini moved quickly to consolidate his Islamic regime by executing many leaders of the old government. By consistently supporting the most radical elements of the revolution, he was able to maintain his own position and eliminate other elements of the revolutionary coalition, such as Marxists, secular nationalists, and even rival Ayatu'llahs. Though various political groups coalesced out of the clerical coalition that had brought him to power, Khomeini retained supreme control, able to frustrate policies that he objected to. Under his authority Iran pursued a xenophobic foreign policy, resulting in disasters such as American hostage crisis, the eight-year Iran-Iraq War, and the American economic embargo. His major foreign policy success was that under him and his successors, Iran for the first time in several centuries had a government that was not under the influence of one or more powerful Western states. Since Khomeini's program was primarily religious and moral, devoted to the moral and spiritual reform of Islamic society, he had few concrete economic and political programs, apart from a generalized hostility towards the West.
+
+In the last years of his life, he was rumored to be ill. In any case, he played little role in day-to-day affairs, living in seculsion in a heavily fortified village near Tehran. Nonetheless, he retained the capacity to intervene in affairs if he chose, as his condemnation of the British author Salman Rushdie in 1989 proved. He died of complications following surgery on 4 June 1989 in Tehran.
+
+**Khomeini and the Bahá'ís**
+
+Khomeini shared the distaste of many (though not all) Shi'i clerics for Bahá'ís. His first contact with Bahá'ís was evidently in Simnan in 1930, where he tried to organize an anti-Bahá'í meeting. Later his hatred for Bahá'ís, Jews, and the Pahlavi regime coalesced, convincing him that the three groups were in league to destroy Islam. Thus Khomeini supported the anti-Bahá'í pogroms of the 1950s and in 1963 accused the government of using local government reforms as a device to favor the Bahá'ís.
+
+After his return to Iran in 1979 Khomeini refused to include Bahá'ís among the religious minorities protected by the Islamic regime. There can be little doubt that the persecutions of the Bahá'ís in Iran under the Islamic regime were conducted with the consent of Khomeini, though they were generally initiated by particular groups within the revolutionary coalition and carried out by lower-level officials.
+
+Note: Almost every book published about the Iranian Revolution deals with Khomeini at length. An imperfect and generally hostile biography is Amir Taheri, _The Spirit of Allah_ (Bethesda: Adler & Adler, 1986). A study of the development of his intellectual views is found in Hamid Dabashi, _Theology of Discontent_ (New York: NYU Press, 1993), ch. 8 and passim. Khomeini's works have been zealously published in Iran since the revolution though some post hoc editing has taken place. A representative sample by a good scholar is _Islam and Revolution: Writings and Declarations of Imam Khomeini,_ trans. Hamid Algar (Berkeley: Mizan Press, 1981). There are many translations of varying quality produced by or on behalf of the Islamic Republic of Iran.

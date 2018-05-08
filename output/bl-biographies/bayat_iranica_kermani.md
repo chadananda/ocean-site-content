@@ -1,0 +1,32 @@
+---
+url: https://bahai-library.com/bayat_iranica_kermani
+title: Áqá Khan Kermání
+audio: 
+author: Mangol Bayat
+image: 
+source: Encyclopaedia Iranica, Volume 2
+date: 1987
+doctype: website
+status: search-only
+encumbered: false
+collection: Biographies (bahai-library.com)
+collectionImage: 
+---
+
+
+## Áqá Khan Kermání
+
+### by [Mangol Bayat](https://bahai-library.com/author/Mangol+Bayat)
+
+published in [_Encyclopaedia Iranica_](https://bahai-library.com/series/Encyclopaedia%20Iranica), Volume 2  
+New York: Columbia University, 1987
+
+
+**ĀQĀ KHAN KERMĀNĪ,** MĪRZĀ ʿABD-AL-ḤOSAYN (1270-1314/1854-55 to 1896), Iranian writer and intellectual, and an outstanding example of a first-generation secular nationalist. Born in 1270/1853-54 in Mašīz (Bardasīr), a village southwest of the city of Kermān. ʿAbd-al-Ḥosayn Khan, son of ʿAbd-al-Raḥīm, belonged to an important local family with a rich background in mysticism. He received a traditional education in Persian and Arabic languages, literature and grammar, rhetoric, logic, mathematics, jurisprudence, history, and theology. Preoccupied with moral ideas, he continued his studies in philosophy, a discipline traditionally considered the crown of all knowledge. Through one of his teachers, Ḥāǰǰī Sayyed Jawād Karbalāʾī, he discovered Babism and apparently converted; but he continued to seek new ideologies and new faiths. In 1301/1883, a brief career as the tax collector of the district of Bardasīr, a responsibility forced upon him and relegated by him to others, ended after a heated argument with the governor, who held him responsible for the deficit in payments. Just over thirty years of age, he decided to leave his native province. After two years in Isfahan, where he found a job in the service of Ẓell-al-solṭān and joined a literary circle that was discussing “new and progressive ideas,” he spent a few months in Tehran and in 1303/1886 he went to Mašhad and from there, via Rašt and Bādkūba (Baku) to Istanbul, partly to escape the persistent attempt of Kermānī officials to have him extradited to Kermān. In the same year he made a brief trip to Cyprus where he met Mīrzā Yaḥyā Nūrī known as Ṣobḥ-e Azal, leader of the Bābī Azalī faction, and married his daughter. He stayed in the Ottoman capital for the remaining ten years of his life.
+
+During the Istanbul period Mīrzā Āqā Khan became acquainted with western science and thought and wrote practically all his works. There he learned Ottoman Turkish and gained some fluency in French and English. He supported himself by copying manuscripts, teaching at the Iranian school of Istanbul, tutoring (his students included Cl. Huart), and contributing articles to the Istanbul Persian newspaper _Aḵtar_ attacking the Persian government. In 1308/1890 he began corresponding with Mīrzā Malkom Khan, the former Iranian ambassador to London who published a Persian political newspaper, _Qānūn_, in the British capital. Malkom’s ambition was to set up secret cells fashioned on the freemasonry model in order to “awaken the Iranian masses from their intellectual and political torpor,” and Mīrzā Āqā Khan was soon helping to distribute the paper and to establish an “Ādamīyat lodge” in the Turkish capital. He also collaborated in promoting and organizing the pan-Islamic movement with the famous reformer Sayyed Jamāl-al-dīn Afḡānī (Asadābādī), who had come to Istanbul in 1310/1892. These actions along with his writings and Bābī affiliation outraged the Iranian government. The pan-Islamic, anti-shah activity of Afḡānī and his followers was brought to light when some of their letters addressed to the Shiʿite _moǰtahed_s residing in Iraq came to the attention of the Iranian consul in Baghdad. Ottoman authorities first resisted the demand of the Persian government for the arrest and extradition of Asadābādī and Mīrzā Āqā Khan, but the revolt of the Armenians in 1312-13/1894-95 changed the situation and Mīrzā Āqā Khan and two of his close companions, Shaikh Aḥmad Rūḥī and Mīrzā Ḥasan Khan Ḵabīr-al-molk, were charged with conspiracy, arrested, and sent to Trebizond (Raǰab, 1312/January, 1895). A few months later, following the assassination of Nāṣer-al-dīn Shah (1313/1896) at the hand of an alleged Bābī closely associated with Afḡānī, the three men were also charged with murder; in Ḏu’l-ḥeǰǰa, 1313/May, 1896, they were extradited to Iran and executed in Tabrīz in Ṣafar, 1314/July, 1896.
+
+Aside from his articles in _Aḵtar_, Mīrzā Āqā Khan wrote many political pamphlets, poems, and philosophical and theological treatises, all of which propounded Bābī, Islamic, and more often, modern scientific ideas, in a rather disorderly fashion. As a Shiʿite Muslim, he asserted the universal validity of the Koranic revelation and his faith in the expected return of the Twelfth Imam. As a Bābī, he defended the claims of the Azalī leader Mīrzā Yaḥyā Ṣobḥ-e Azal. Though in his Muslim and Bābī statements he asserted that religion is one of the greatest foundations of human thought, in his more scientific exposés he denounced all religions as mere superstitions and fantasies that originate from humanity’s fear and sense of helplessness in a wild physical environment. Wholeheartedly adopting Darwin’s theory, he discussed the origins of the world in materialistic terms novel to Muslim and Bābī thought. But a careful analysis of Mīrzā Āqā Khan’s religious ideas reveals him to be not so confused or inconsistent as one might, at first glance, believe (see Ādamīyat, _Andīšahā_, pp. 118-35). His diplomatic choice of terms and formulation of ideas reflects the desire to appeal to as wide an audience as possible, be it Muslim or Bābī, and to avoid any accusation of heresy; in this light, his Bābī and Muslim pronouncements may be seen as masks of expediency that he could put on and take off according to the situation.
+
+  
+_Read the rest of this article online at [www.iranica.com/articles/aqa-khan-kermani-iranian-writer-and-intellectual-d-1896](http://www.iranica.com/articles/aqa-khan-kermani-iranian-writer-and-intellectual-d-1896)._

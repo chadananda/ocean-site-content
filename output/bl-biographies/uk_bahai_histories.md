@@ -1,0 +1,152 @@
+---
+url: https://bahai-library.com/uk_bahai_histories
+title: UK Bahá'í Histories: Links to stories of individual Bahá'ís in the United Kingdom
+audio: 
+author: UK Baha’i Histories Project
+image: 
+source: 
+date: 2013
+doctype: website
+status: search-only
+encumbered: false
+collection: Biographies (bahai-library.com)
+collectionImage: 
+---
+
+
+## UK Bahá'í Histories: Links to stories of individual Bahá'ís in the United Kingdom
+
+edited by [UK Baha’i Histories Project](https://bahai-library.com/author/UK%20Baha’i%20Histories%20Project).  
+National Spiritual Assembly of the Bahai’s of the UK, 2011-2013
+
+
+> **About:** The UK Baha’i Histories Project is collecting the stories of individual Baha’is who currently live in the UK, or have lived here in the past. The project is sponsored by the [National Spiritual Assembly of the Bahai’s of the UK](http://www.bahai.org.uk "Official UK Bahá'í website"). See the website [bahaihistoryuk.wordpress.com](http://bahaihistoryuk.wordpress.com/).
+
+| 
+1.  [Abbas, Christine](http://bahaihistoryuk.wordpress.com/category/abbas-christine/)
+2.  [Akehurst-Moore, Greg](http://bahaihistoryuk.wordpress.com/category/akehurst-moore-greg/)
+3.  [Albrow, Liz](http://bahaihistoryuk.wordpress.com/category/albrow-liz/)
+4.  [Appa, Margaret](http://bahaihistoryuk.wordpress.com/category/appa-margaret/)
+5.  [Ault, Midge](http://bahaihistoryuk.wordpress.com/category/ault-midge/)
+6.  [Bartlett, Rita](http://bahaihistoryuk.wordpress.com/category/bartlett-rita/)
+7.  [Batchelor, Ron](http://bahaihistoryuk.wordpress.com/category/batchelor-ron/)
+8.  [Beckett, Martin](http://bahaihistoryuk.wordpress.com/category/beckett-martin/)
+9.  [Behi, Joy](http://bahaihistoryuk.wordpress.com/category/behi-joy/)
+10.  [Beint, Kevin](http://bahaihistoryuk.wordpress.com/category/beint-kevin/)
+11.  [Bellamy, Paul](http://bahaihistoryuk.wordpress.com/category/bellamy-paul/)
+12.  [Bennett, Irene](http://bahaihistoryuk.wordpress.com/category/bennett-irene/)
+13.  [Blyth, Hugh](http://bahaihistoryuk.wordpress.com/category/blyth-hugh/)
+14.  [Booth, Paul](http://bahaihistoryuk.wordpress.com/category/booth-paul/)
+15.  [Bowers, George](http://bahaihistoryuk.wordpress.com/category/bowers-george/)
+16.  [Bowman, Evelyn](http://bahaihistoryuk.wordpress.com/category/bowman-evelyn/)
+17.  [Boyd, Cathie](http://bahaihistoryuk.wordpress.com/category/boyd-cathie/)
+18.  [Boyle, Charles](http://bahaihistoryuk.wordpress.com/category/boyle-charles/)
+19.  [Brackenridge, Pat](http://bahaihistoryuk.wordpress.com/category/brackenridge-pat/)
+20.  [Bruce, Jeff](http://bahaihistoryuk.wordpress.com/category/bruce-jeff/)
+21.  [Burgess, David](http://bahaihistoryuk.wordpress.com/category/burgess-david/)
+22.  [Burns, Peter](http://bahaihistoryuk.wordpress.com/category/burns-peter/)
+23.  [Butler, Gavin](http://bahaihistoryuk.wordpress.com/category/butler-gavin/)
+24.  [Cameron, Jane](http://bahaihistoryuk.wordpress.com/category/cameron-jane/)
+25.  [Caprez, Charles](http://bahaihistoryuk.wordpress.com/category/caprez-charles/)
+26.  [Card, Carl](http://bahaihistoryuk.wordpress.com/category/card-carl/)
+27.  [Card, Joyce](http://bahaihistoryuk.wordpress.com/category/card-joyce/)
+28.  [Carter, Jackie](http://bahaihistoryuk.wordpress.com/category/carter-jackie/)
+29.  [Coleman, Liz](http://bahaihistoryuk.wordpress.com/category/coleman-liz/)
+30.  [Davis, Adrian](http://bahaihistoryuk.wordpress.com/category/davis-adrian/)
+31.  [de Gruchy, Beryl](http://bahaihistoryuk.wordpress.com/category/de-gruchy-beryl/)
+32.  [Deeks, Rachel](http://bahaihistoryuk.wordpress.com/category/deeks-rachel/)
+33.  [Emerson, Liz](http://bahaihistoryuk.wordpress.com/category/emerson-liz/)
+34.  [Featherstone Blyth, Hugh](http://bahaihistoryuk.wordpress.com/category/featherstone-blyth-hugh/)
+35.  [Ferraby, Dorothy](http://bahaihistoryuk.wordpress.com/category/ferraby-dorothy/)
+36.  [Fox, Carolyn](http://bahaihistoryuk.wordpress.com/category/fox-carolyn/)
+37.  [Fox, Jeremy](http://bahaihistoryuk.wordpress.com/category/fox-jeremy/)
+38.  [Gash, Andrew](http://bahaihistoryuk.wordpress.com/category/gash-andrew/)
+39.  [Gash, Jean](http://bahaihistoryuk.wordpress.com/category/gash-jean/)
+40.  [George, Barbara](http://bahaihistoryuk.wordpress.com/category/george-barbara/)
+41.  [Giddings, Brian](http://bahaihistoryuk.wordpress.com/category/giddings-brian/)
+42.  [Girling, Sylvia](http://bahaihistoryuk.wordpress.com/category/girling-sylvia/)
+43.  [Golova, Aziz](http://bahaihistoryuk.wordpress.com/category/golova-aziz/)
+44.  [Goode, Betty](http://bahaihistoryuk.wordpress.com/category/goode-betty/)
+45.  [Grainger, Juliet](http://bahaihistoryuk.wordpress.com/category/grainger-juliet/)
+46.  [Grant, Margaret](http://bahaihistoryuk.wordpress.com/category/grant-margaret/)
+47.  [Gregory, Alma](http://bahaihistoryuk.wordpress.com/category/gregory-alma/)
+48.  [Grimshaw, Jim](http://bahaihistoryuk.wordpress.com/category/grimshaw-jim/)
+49.  [Grove, Rocky](http://bahaihistoryuk.wordpress.com/category/grove-rocky/)
+50.  [Harding, Jo](http://bahaihistoryuk.wordpress.com/category/harding-jo/)
+51.  [Hellicar, Eric](http://bahaihistoryuk.wordpress.com/category/hellicar-eric/)
+52.  [Hofman, Kathleen](http://bahaihistoryuk.wordpress.com/category/hofman-kathleen/)
+53.  [Hufton, Margaret](http://bahaihistoryuk.wordpress.com/category/hufton-margaret/)
+54.  [Humphrey, Mahin](http://bahaihistoryuk.wordpress.com/category/humphrey-mahin/)
+55.  [Humphrey, Ray](http://bahaihistoryuk.wordpress.com/category/humphrey-ray/)
+56.  [Hyett, Kathleen](http://bahaihistoryuk.wordpress.com/category/hyett-kathleen/)
+57.  [Iqani, Anne](http://bahaihistoryuk.wordpress.com/category/iqani-anne/)
+58.  [Isenthal, Vivian](http://bahaihistoryuk.wordpress.com/category/isenthal-vivian/)
+59.  [Jenkerson, Cyril](http://bahaihistoryuk.wordpress.com/category/jenkerson-cyril/)
+60.  [Jenkerson, Margaret](http://bahaihistoryuk.wordpress.com/category/jenkerson-margaret/)
+61.  [Jenkins, Peter](http://bahaihistoryuk.wordpress.com/category/jenkins-peter/)
+
+ | 
+
+62.  [Jenkins, Sandra](http://bahaihistoryuk.wordpress.com/category/jenkins-sandra/)
+63.  [Jolly, Iran](http://bahaihistoryuk.wordpress.com/category/jolly-iran/)
+64.  [Jones, Brian](http://bahaihistoryuk.wordpress.com/category/jones-brian/)
+65.  [Jones, Rose](http://bahaihistoryuk.wordpress.com/category/jones-rose/)
+66.  [Kilford, Susan Golden (Killie)](http://bahaihistoryuk.wordpress.com/category/kilford-susan/)
+67.  [King, Jacqui](http://bahaihistoryuk.wordpress.com/category/king-jacqui/)
+68.  [Kingdon, Roger](http://bahaihistoryuk.wordpress.com/category/kingdon-roger/)
+69.  [Kouchek-zadeh, Susan](http://bahaihistoryuk.wordpress.com/category/kouchek-zadeh-susan/)
+70.  [Lee, Malcolm](http://bahaihistoryuk.wordpress.com/category/lee-malcolm/)
+71.  [Lewis, Barbara](http://bahaihistoryuk.wordpress.com/category/lewis-barbara/)
+72.  [Lewis, David](http://bahaihistoryuk.wordpress.com/category/lewis-david/)
+73.  [Lockwood, Jenny](http://bahaihistoryuk.wordpress.com/category/lockwood-jenny/)
+74.  [Lockwood, Martin](http://bahaihistoryuk.wordpress.com/category/lockwood-martin/)
+75.  [Lord, Margaret](http://bahaihistoryuk.wordpress.com/category/lord-margaret/)
+76.  [Lynn, Jeff](http://bahaihistoryuk.wordpress.com/category/lynn-jeff/)
+77.  [MacCallum, Pixie](http://bahaihistoryuk.wordpress.com/category/maccallum-pixie/)
+78.  [Macdonald, Iain](http://bahaihistoryuk.wordpress.com/category/macdonald-iain/)
+79.  [Mahboubi, Dianne](http://bahaihistoryuk.wordpress.com/category/mahboubi-dianne/)
+80.  [Mahboubi, Foad](http://bahaihistoryuk.wordpress.com/category/mahboubi-foad/)
+81.  [Mar, Sarah](http://bahaihistoryuk.wordpress.com/category/mar-sarah/)
+82.  [McCafferty, Andy](http://bahaihistoryuk.wordpress.com/category/mccafferty-andy/)
+83.  [McDonald, Keith](http://bahaihistoryuk.wordpress.com/category/mcdonald-keith/)
+84.  [Miley, Sylvia](http://bahaihistoryuk.wordpress.com/category/miley-sylvia/)
+85.  [Moody, Nigel](http://bahaihistoryuk.wordpress.com/category/moody-nigel/)
+86.  [Morley, Liz](http://bahaihistoryuk.wordpress.com/category/morley-liz/)
+87.  [Morrissey, Pat](http://bahaihistoryuk.wordpress.com/category/morrissey-pat/)
+88.  [Mortimore, Clare](http://bahaihistoryuk.wordpress.com/category/mortimore-clare/)
+89.  [Neogi, Carolyn](http://bahaihistoryuk.wordpress.com/category/neogi-carolyn/)
+90.  [Norgate, Rose](http://bahaihistoryuk.wordpress.com/category/norgate-rose/)
+91.  [Norville, Elizabeth](http://bahaihistoryuk.wordpress.com/category/norville-elizabeth/)
+92.  [Nutt, Ethelreda](http://bahaihistoryuk.wordpress.com/category/nutt-ethelreda/)
+93.  [Petit, Mary](http://bahaihistoryuk.wordpress.com/category/petit-mary/)
+94.  [Phillips, Gillian](http://bahaihistoryuk.wordpress.com/category/phillips-gillian/)
+95.  [Pierce, Charlie](http://bahaihistoryuk.wordpress.com/category/pierce-charlie/)
+96.  [Poole, Richard](http://bahaihistoryuk.wordpress.com/category/poole-richard/)
+97.  [Profaska, Paul](http://bahaihistoryuk.wordpress.com/category/profaska-paul/)
+98.  [Rallings, Marian](http://bahaihistoryuk.wordpress.com/category/rallings-marian/)
+99.  [Reader, Dennis](http://bahaihistoryuk.wordpress.com/category/reader-dennis/)
+100.  [Reader, Wendy](http://bahaihistoryuk.wordpress.com/category/reader-wendy/)
+101.  [Roe, Vivian](http://bahaihistoryuk.wordpress.com/category/roe-vivian/)
+102.  [Rowlands, Latifeh](http://bahaihistoryuk.wordpress.com/category/rowlands-latifeh/)
+103.  [Rowshan, Cyrus](http://bahaihistoryuk.wordpress.com/category/rowshan-cyrus/)
+104.  [Sabri, Betty](http://bahaihistoryuk.wordpress.com/category/sabri-betty/)
+105.  [Saminaden, Jagdish](http://bahaihistoryuk.wordpress.com/category/saminaden-jagdish/)
+106.  [Semple, Ian](http://bahaihistoryuk.wordpress.com/category/semple-ian/)
+107.  [Shepherd, Betty](http://bahaihistoryuk.wordpress.com/category/shepherd-betty/)
+108.  [Smith, Helen](http://bahaihistoryuk.wordpress.com/category/smith-helen/)
+109.  [Sparey, Carolyn](http://bahaihistoryuk.wordpress.com/category/sparey-carolyn/)
+110.  [Stanley, Brian](http://bahaihistoryuk.wordpress.com/category/stanley-brian/)
+111.  [Stedman, John](http://bahaihistoryuk.wordpress.com/category/stedman-john/)
+112.  [Stone, Brian](http://bahaihistoryuk.wordpress.com/category/stone-brian/)
+113.  [Stone, Catherine](http://bahaihistoryuk.wordpress.com/category/stone-catherine/)
+114.  [Thorne, Adam](http://bahaihistoryuk.wordpress.com/category/thorne-adam/)
+115.  [Turner, Lou](http://bahaihistoryuk.wordpress.com/category/turner-lou/)
+116.  [Uncategorized](http://bahaihistoryuk.wordpress.com/category/uncategorized/)
+117.  [Vickers, Paddy](http://bahaihistoryuk.wordpress.com/category/vickers-paddy/)
+118.  [Vickers, Stephen](http://bahaihistoryuk.wordpress.com/category/vickers-stephen/)
+119.  [Villiers-Stuart, Garry](http://bahaihistoryuk.wordpress.com/category/villiers-stuart-garry/)
+120.  [Wade, Margaret](http://bahaihistoryuk.wordpress.com/category/wade-margaret/)
+121.  [Warren, Nancy](http://bahaihistoryuk.wordpress.com/category/warren-nancy/)
+122.  [Williams, Ada](http://bahaihistoryuk.wordpress.com/category/williams-ada/)
+
+ |

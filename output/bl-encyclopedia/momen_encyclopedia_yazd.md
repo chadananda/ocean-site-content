@@ -1,0 +1,50 @@
+---
+url: https://bahai-library.com/momen_encyclopedia_yazd
+title: Iran: Province of Yazd
+audio: 
+author: Moojan Momen
+image: 
+source: 
+date: 1994
+doctype: website
+status: search-only
+encumbered: false
+collection: Encyclopedia Articles (bahai-library.com)
+collectionImage: 
+---
+
+
+## Iran: Province of Yazd
+
+### by [Moojan Momen](https://bahai-library.com/author/Moojan+Momen)
+
+1994
+
+
+This city and province is in the eastern part of central Iran situated on the high, desert plateau that forms much of the country. The climate is extremely dry and agriculture is only possible with the assistance of underground irrigation channels that bring water many miles. Yazd itself was a center for textiles and for the production of glass and other goods. The people of the area are Persian-speaking Iranians and there is a small group of Zoroastrians in Yazd itself and in some of the villages around.
+
+It was Mullá Sádiq-i-Muqaddas (q.v) who first openly proclaimed the cause of the Báb from the pulpit of a mosque in Yazd in 1845. He was assaulted and had to leave the town immediately; a similar fate befell Mullá Yúsif-i-Ardibílí. Mullá Ahmad-i-Azghandí was a nephew of Siyyid Husayn-i-Azghandí, one of the leading mujtahids of Yazd. He had become a Bábí in Khurásán and came to Yazd where he managed to assist Mullá Sádiq and Mullá Yúsif when it became necessary (DB 183-187). Quddús also passed through Yazd in that earliest period.
+
+Vahíd-i-Dárábí (q.v.) arrived in Yazd in early 1850. His presence and his open preaching of the message of the Báb caused a great commotion in the city, made worse by the fact that the main leaders of one of the factions in the town Muhammad-\`Abdu'lláh who had risen in revolt against the governent previously now declared himself a Bábí and supporter of Vahíd. The situation worsened with an open confrontation between the Bábís and the governor and eventually Vahíd was forced to leave the town (DB 466-75). Muhammad-\`Abdu'lláh was captured and killed a short time later and there were several executions of Bábís in 1852 following the attempt on the life of the Shah (Malmírí 9-15).
+
+When news came that the Bábí leadership had established itself in Baghdad after 1852, many of the Bábís of the area travelled there. Several of these stayed while others returned bringing the news that rather than Mírzá Yahyá, it was Bahá'u'lláh who had won their respect and admiration in Baghdad. Among those who returned were Mullá Muhammad-Ridá Radiyu'r-Rúh Manshádí (martyred 1284/1867) and Mírzá Husayn (brother of Varqá, d. 1334/1915). The latter brought back the first copy of Bahá'u'lláh's Hidden Words to the Yazd area while the former brought back the Qasida \`Izz Varqá'iyya (see "Poetical Works of Bahá'u'lláh"). Therefore when Bahá'u'lláh's claim became known, he already had a strong basis of support in this area. As elsewhere, one of the first to bring news of Bahá'u'lláh's claim to this area was Nabíl-i-A\`zam and it was not long before the majority of Bábís had become Bahá'ís.
+
+Of those Bábís who did not become Bahá'ís, a small group of about half a dozen followed Mírzá Ja'far Kaffásh who put forward a claim to leadership and called his group the Kullu-Shay'ís. Mírzá Ja'far later moved to Karbalá and withdrew his claims. He died in Yazd in 1309/1891 and no trace of his group remained (ZH 6:854-5; Dihají 179-80; Browne 233). The only supporter of Mírzá Yahyá in Yazd was ShaykhMuhammad. He had been in Shiraz when Nabíl-i-A'zam first brought the news of Bahá'u'lláh's claim to that city and had been the only person to raise any objections there. Finding himself without any support and fiercely opposed in Shiraz he returned to his native Yazd. Here he debated and disputed with the Bahá'ís to no avail until 1306/1888 when he moved to Istanbul, which had become a center of Azalí activity. He returned to Yazd in the early 1890s but, since he was known as a Bábí, he was unable to live there and moved to Karbalá. (ZH6:855; BKG 389-97).
+
+Yazd was well-known throughout Iran as being rather fanatical in its Islam. Therefore there was always a repressive atmosphere towards the Bahá'ís of the city. At first matters were moderated by the fact that several of the leading religious figures in Yazd were indifferent to the new religion while others were supporters, like Mírzá Muhammad-Ridá, or even secret believers, like Áqá Siyyid Abu'l-Qásim Mujtahid. However as the older generation of \`ulamá died, leadership of the \`ulamá in Yazd fell into the hands of the mujtahid ShaykhMuhammad-Hasan Sabzivárí and his son Shaykh Muhammad-Taqí who together with Sayyid 'Alí Mudarris were much opposed to the Bahá'ís.
+
+From about 1290/1873 onwards the persecutions intensified. The first culmination of this was the episode of the Seven Martyrs of Yazd in 1891. Quite apart from the seven Bahá'ís that were killed in that episode, there was widespread harrassment and looting of Bahá'í property (Malmírí 32-61; BBR 301-5). Twelve years later there was the much more serious 1903 upheaval. For one entire month, the mob went on the rampage through the streets of Yazd and in the nearby villages killing Bahá'ís wherever they found them and looting and destroying their property. Over 70 Bahá'ís were killed in Yazd, Taft, Manshád and other villages (Malmírí 80-591; BBR 385-402). On both occasions the governor Jalálu'd-Dawlih made no attempt to protect the Bahá'ís.
+
+Despite the persecutions, the Bahá'í Faith spread in Yazd. Indeed Captain Henry Vaughan who chanced to be in Yazd a few days after the episode of the Seven Martyrs in 1891 comments that "these persecutions would give a great impetus to the movement, and that each death caused numerous converts" (BBR 301). Among those who became Bahá'ís were the members of the Afnán family resident in Yazd. They were converted by Hájí Muhammad-Ibráhím Muballigh, who was a son-in-law of the Báb's younger uncle Hájí Mírzá Hasan-'Alí. Numerous others from all walks of life also became Bahá'ís or at least supporters of the religion. These ranged from government officials, such as the deputy governor for a time, Iskandar Khán, to religious leaders, such as Áqá Shaykh Sádiq who taught at the Madrissih Shafí'iyyih. Several Shaykhís were also converted.
+
+Among the prominent Bahá'ís of Yazd were Mullá Muhammad-Ridá Radá'r-Rúh (killed 1284/1867); Mullá Muhammad-Ridá Muhammadábádí (q.v.), one of the Hands of the Cause; Hájí Sháh-Muhammad-i-Manshádí (killed 1297/1879) and Hájí Abu'l-Hasan-i-Ardikání (q.v.), the first and second Trustees of the Huqúqu'lláh; Hájí Mullá Mahdí \`Atrí (d. 1297/1879) and his son \`Alí-Muhammad Varqá (q.v.); Mírzá Ahmad (d. 1320/1902) for whom the Arabic Tablet of Ahmad (q.v.) was written; Hájí Mírzá Muhammad Afshár; Mullá 'Abdu'l-Ghaní (d. 1335/1916); Hájí Muhammad-Táhir-i-Malmírí (d. 1953); Áqá Muhammad-Husayn Ulfat (d. 1345/1926); and Fádil-i-Yazdí.
+
+Perhaps the most interesting development was the conversion of large numbers of Zoroastrians. The first conversion occurred in Káshán (q.v.). Several other Zoroastrians had become very attracted to the Bahá'í Faith in Tehran during the time that Mírzá Abu'l-Fadl Gulpaygání had been working for Manikji Limji Hatari, the first Parsi agent in Tehran. But real progress in this area of Zoroastrian conversions did not occur until Mullá Bahrám Akhtar-Khávarí (d. 1349/ 1930) became a Bahá'í in about 1298/1881. Since he had a thorough knowledge of Zoroastrian prophecies, he, together with Hájí Qalandar, developed a successful approach to the Zoroastrians of Yazd and some of the villages around. Among the more eminent of the Zoroastrian converts were Ustád Javánmard (d. 1347/1928) and Arbáb Siyávash Sifídvash. At one stage, the majority of the Anjuman-i Násirí, the elected body which led the Zoroastrian community in Yazd, were either Bahá'ís or very sympathetic to the Bahá'í Faith (Stiles, see also "Zoroastrianism").
+
+There were also conversions in many of the villages around Yazd. In Yazd, Maryamábád and Mihdiyábád, Bahá'í schools were established (BBR 475-6). In \`Aliyábád, Husaynábád, \`Izzábád, Sharafábád and Hurmuzak strong Bahá'í communities grew up.
+
+Because of the persecutions many of the Bahá'ís of this town moved to other areas, especially to Ashkhabad. Bahá'ís from Yazd formed almost one-third of the Bahá'í emigrants to Ashkhabad (Momen 296) and included such persons as Hájí Muhammad-Taqí Afnán (see "Afnan Family"), who was one of the leading merchants of Yazd before he left for Ashkhabad where he spent much of his wealth in the construction of the Mashriqu'l-Adhkár, and Ustád 'Ali-Akbar-i-Yazdí, who supervised the building work involved.
+
+**Bibliography**
+
+On the martyrs in Yazd, the most detailed account is by Mírzá Abu'l-Qasim-i-Baydá, photocopy of manuscript in Afnan Library; also Hájí Muhammad Táhir-i-Malmírí, _Tárikh-i-Shuhadáy-i-Yazd_, second printing, Pakistan, 135 B.E./1978. Mírzá Muhammad-'Alí Khán-i-Bahá'í, history of the Seven Martyrs of Yazd, photocopy of mss in Afnán Library. ZH 3:458-483; 6:726-855; 8:895-978. Also cited: E.G. Browne, _Materials for the Study of the Báb Religion_, Cambridge, 1918; _Risala_ of Siyyid Mihdí Dihají, University of Cambridge Library, Browne mss, F. 59; Moojan Momen 1991, "The Bahá'í Community of Ashkhabad; its social basis and importance in Bahá'í history" in _Cultural Change and Continuity in Central Asia_ (ed. S. Akiner), London: Kegan Paul, 1991; S. Stiles, "Early Zoroastrian conversions to the Bahá' Faith in Yazd, Iran", _From Iran East and West_ (ed. Juan R. Cole and M. Momen), Studies in Báb and Bahá' History, Los Angeles, 1984, pp. 67-93. "Madrisi-yi-dukhtarániy-i-Húshangíy-i-Yazd va du madrisih dígar," _Payám-i-Bahá'í_ October 1992, 155:29-31. See also Michael Fischer, "Social change and the Mirrors of Tradition: the Bahá'ís of Yazd" in _The Bahá'í Faith and Islam_ (ed. H. Moayyad), Ottawa: Association for Bahá'í Studies, 1990, pp. 25-55.

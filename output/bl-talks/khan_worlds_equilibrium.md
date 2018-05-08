@@ -1,0 +1,87 @@
+---
+url: https://bahai-library.com/khan_worlds_equilibrium
+title: The World's Equilibrium
+audio: 
+author: Peter J. Khan
+image: 
+source: 
+date: 1998
+doctype: website
+status: search-only
+encumbered: false
+collection: Talks (bahai-library.com)
+collectionImage: 
+---
+
+
+## The World's Equilibrium
+
+### by [Peter J. Khan](https://bahai-library.com/author/Peter+J.+Khan)
+
+1998-08-22
+
+
+The people are becoming more profoundly concerned about the world's condition. All the turmoil, uncertainty and searching for direction centers around the New World Order. To this we should look for direction. I am going to give a personal impression of a progress report on where we are at this time. What is happening with the development of the World Order of Bahá'u'lláh.
+
+In this progress report of the state and condition - I will make some general remarks about the World Order itself.
+
+First: The Bahá'í Teachings are not unique in their ideals. (oneness of Mankind, equality of women and men). These are not unique to the Bahá'í Faith. Most other traditions have these teachings. And thinking people will say "Yes, that's good. I already think that".
+
+What IS unique is that this Revelation brings a realistic, practical approach to the attainment of ideals. It brings ideals into reality. What we call the world order is the vehicle and the means for doing this. Second: The world order of Bahá'u'lláh is not something we have now started working on. It is an intrinsic element of the Faith. The Bab in the Bayan spoke of this and it was further developed by Bahá'u'lláh, 'Abdu'l-Bahá, Shoghi Effendi. It has been progressively clarified and its implementation set into being.
+
+The World Order of Bahá'u'lláh rests on the Kitab-i-Aqdas - the laws of the future. The laws are complex, detailed and they combine together to create a structure of future civilization. Some of the laws are clear, some are mysterious. Some (at first sight) might appear strange. The future civilization will have a character far different from now. An example is the law about renewing the furnishings of your home every 19 years. Why in a book of such spiritual tone, would there be such a mundane subject as this. There is a profound spiritual purpose - and it will take the passage of decades perhaps centuries to understand the kernel of truth here. We may get insights into the psychological effects of environmental change. When humanity reaches a stable population, such a law will be understood to foster creativity, artistic endeavor. These laws lay the basis of future world civilization.
+
+The World Order has three dimensions:
+
+1.  The transformation of values of individuals - to occur generation after generation - without compromise or corruption This is reflected in the Tablets of the Divine Plan.
+2.  Creating new patterns of cooperation and social organization. Changing the way people relate to one another, make decisions - collective decision making. The Administrative Order.
+3.  The Central body - coordination: fostering of creative impulse (In the past institutions tended to stifle innovation - to foster uniformity.) This will be absent, due to the Central Body of the Faith, which will protect and foster the balance of central authority with individual initiative. Tablet of Carmel is the charter for the development of the World Center.
+
+The World Order of Bahá'u'lláh has three processes: The development of the World Center, the development of the Administrative Order and Propagation (Tablets of the Divine Plan).
+
+The challenge is to allow all three to grow in balance, organically, in an evolutionary manner. This development requires due attention to foster the three processes in the short term and the long term. Those of us who have been affected by Western thought think sequentially. First you do one thing and then when completed, you do another. These three processes must go on simultaneously, interacting with each other and in balance.
+
+I will speak on these three processes in the Development of the World Order of Bahá'u'lláh: The World Center, The Administrative Order and Propagation.
+
+**1\. THE WORLD CENTER:**
+
+There is physical turmoil at the World Center because of the construction. We are used to dust and machinery operating all the time. We are in the latter phase of the completion of the buildings on Mount Carmel, some of which will be ready for occupancy perhaps by the year 2000 or so. We have been beset by difficulties: receiving the funds necessary, the political instability, terrorism, the difficulty finding artisans who have the skills to maintain the very high standard required, permits, materials, etc. All are being solved.
+
+There is a question: Why did we do it? If I were aware of how limited the means of the Bahá'í community is, and I were looking at this, I would wonder "why spend scarce resources on such expensive buildings? Why not spend it on direct alleviation of suffering, educational programs, scholarships around the world. The amount spent has never been announced, but it can be estimated to be in the realm of $200 million. What was the reason? There is no answer if one does not accept the spiritual dimension. There is no reasonable answer if the orientation is material. We, as Bahá'ís, are not people whose total focus is material. There are great spiritual forces at the core of our belief. This is a dimension of our faith - that the release of great spiritual forces is associated with the development of the World Center on Mount Carmel. There is a sacredness - these great spiritual forces. This development is a response to the mechanism of those forces. The guidance in the Writings is the reason we have directed so much of the resources of the Faith to this development. Shoghi Effendi referred to the mysterious spiritual potency of the monument gardens. He spoke of the effect on the development of the cause all over the world. The establishment of the World Administrative Center is essential to the accomplishment of God's Purpose for mankind through the World Order.
+
+It is spiritual, not material - more compelling. We make no apologies for this response to profound spiritual truths. Other reasons - more mundane - it is a collective act of worship of God. We offer it to our Lord as an element of our worship. This revelation is committed to beauty as well as worship. Most people's view of the future is not beautiful. (When we look at the films dealing with the future, there is ugliness). We are a religion of beauty as well as reason, we see the future as beautiful as well as peaceful and harmonious. Emergence of the Faith.
+
+Question #2. At the World Center there are 600 people who serve. Why in the world do you need 600 people? ("This is an awkward question for me to be asking - if I were not a member of the House of Justice I'd probably lose my voting rights" - laughter). We are setting a foundation of the World Administrative of the Faith for centuries to come. Of the 600 - 300 are concerned with paper. How could there be so much paper? There are 179 NSA's, 81 Counselors, numbers of NSA's external agencies, office at the UN. We get letters from NSA's - minutes. It is estimated that we get 10 to 15 thousand letters. Someone has to answer them There are copies, retrieval techniques, statistics to keep (Four Year Plan), literature translation - 800 languages, legal affairs office, research department, library, newsletters, archives, photos, catalogued conservation , restoring of documents, finance currencies of 179 countries constantly fluctuating, investments, real value. The 300 others: gardens, weeding, lawns, shrubs. Why do we have 100 acres to beautify? Fundamentally for the worship of God. On the slopes of the Holy Mountain. Works office, restores and repairs Holy Places. They are subject to disrepair, wear and tear. Security, cleaning, maintenance office. We have 2000 pilgrims and visitors. Our Holy places and buildings still look brand new, due to the excellent care and maintenance. People who visit buildings that are 15 years occupied are amazed to find they are not brand new. This is why 600 people are at the World Center. We are expanding and developing the World Center in accordance to need, with economy. At present no more than a fraction of the space is occupied. Other offices will be added.
+
+**2\. ADMINISTRATIVE DEVELOPMENT:**
+
+The International Convention this year was significantly more wonderful than any of the others. There was a far greater diversity of participants. In the past mostly Persian and American pioneers were delegates to the International Convention, because they went out to spread the Faith all around the world. There was a greater maturity. A greater percentage were indigenous believers and the maturity of their consultation was greater. It was truly international. There was a far greater involvement of women in consultation. There are many cultures where women are shy and reticent. In the past many indigenous delegates would not speak. This year, they overcame their shyness and contributed freely. The inter NSA cooperation was routinized. A whole network of Inter NSA cooperation. Soon we will have more NSA's. Faroe Islands, Balkans States will be separated into Latvia, Lithuania, Estonia. Malta, French Polynesia. The Universal House of Justice decision in Ridvan 1997 that Assembly formation could only occur on the first day of Ridvan was significant. Many said we would lose many Assemblies. The communities had to take the initiative themselves or lose their LSA's. There was drop of 6% - but the following year we regained most of those. This is a measure of the maturity of response. The LSA's are more mature, concerned with justice versus mercy, external relations, human rights, children, minorities, women.
+
+**3\. PROPAGATION:**
+
+Tablets of the Divine Plan. It would be imaginary to say that we had had a vast increase in our numbers. It is more like modest. What conclusion is to be reached from this fact? Should we be dissatisfied, disappointed? Of course, the Four Year Plan calls for an increase in the process of Entry by Troops. Always within that context, there is a great deal of satisfaction in human resource development. We have 10's, 1000s of Bahá'ís converted from passive to active. Through the Institute process. The courses are training believers toward ACTION. Teaching of the Faith. In the Four Year Plan, there is an increase in people power, more serving the Faith. When we look for victory there is a striking increase in human resources. Systematic approach. "When we were working on the Ridvan Message at the beginning of the plan, there were several drafts, and different people were working on parts of it. When we put it all together, we found that we had used the word "systematic" eleven times on one page. We had to reduce it to about six. You see the point we were making - perhaps over-making" (Laughter) There is a variety of approaches - to meet a diversity of needs. We need to teach specific populations. Management, business (ethics) medical (concept of nature of human being) Ridvan Message speaks of the hunger in the world. There is a world-wide concern about racism. People of conscience. There is a transformation of values necessary to eradicate that evil. In countries where there is financial instability like Korea, Japan, some of the Asian countries, the NSA's there are reporting a sharp increase in receptivity, because people are realizing that material well-being cannot satisfy the spiritual hunger. There is social disintegration, disorder in Africa, tension in Europe. Social breakdown, corruption in government. Deep concern is part of spiritual hunger. The Bahá'í Faith had promoted racial unity, advancement of women, rights of all people in a consistent way. Other groups have latched on to these issues, but after a time, gone on to other issues. The Bahá'ís have been consistent in their promotion of these issues.
+
+There are countries where values education for children is very successful. In the state schools, religious education is compulsory. The Bahá'ís are offering it - in such a universal way, non-Bahá'ís are coming. In one community there are 10 Bahá'ís. They offer a class on spiritual education and 150 children attend. Every week. There is a yearning for a sense of community - we have a trust and are optimistic. We don't think that maybe it will happen. In the Ridvan Message of 1998 we find a certitude of the immanence of great victories, resounding victories.
+
+'Abdu'l-Bahá in the _Star of the West_ \- in the early part of the century said that the world was like a baby asleep in its crib, oblivious of the world around it. The troubles of the world are like shaking the crib. The baby sleeps more deeply. When the amplitude would increase, eventually the baby wakes up in fright. That is now happening. Turning to us is fear and insecurity, looking to us for direction. That is our job!
+
+We need to relate our teaching to current issues. We should get together and talk about problems of society and analyze them at a deeper level. Find the values, which underlie the problem. Example: soccer violence, it arises from frustration - perhaps the people have a dead end job, unhappy, the fans are a tribe, there is cohesion in opposing the other team. Someone who deeply yearns for community. What are the Bahá'í teachings? We need to resist the tendency to have simplistic solutions to complex problems. Youth and children: We can expect more from youth. Parents are stunned at the level of responsibility given to the young people who are serving at the World Center. We appeal to their better nature. Most of the time it works. Of course there are a few who cannot measure up.
+
+How can we help the world to achieve true lasting peace, with all the terrible things that are going on? That is a very important question. Is there time? We are reassured by the promise of peace. We are distinguished by our certitude that it will happen. We must work towards a future in the most effective and efficient way. The transformation of values is necessary. I have been typecast - like Clint Eastwood - as the one who speaks on "mental tests" in the Western world. If we can identify certain subtle things we can take defensive measures - deepening in the Covenant. It will immunize us from severe mental tests, which subtly seduce us to erosion of faith.
+
+Question on creativity. The House of Justice is the first body concerned with the coordination of fostering creativity, innovation. What has it done to foster creativity and innovation? Two things. It monitors the Bahá'í Community to avoid excessive uniformity. The House has to decide at what point it should call for each - second - The work of the House of Justice is to support, to stimulate growth, development - stretch - use of the arts in propagation of the Faith. It makes key interventions in order to stimulate new thinking.
+
+Church and State. The World Order of Bahá'u'lláh deals in different way in different places. In the early years one way, later - during the Most Great Peace things will change. Ultimately in the future, maybe centuries and centuries, the House of Justice will be recognized as the government of the world. Subject is almost unintelligible at this stage. Nature of question is rooted in history - connotations regarding church and state. It is nothing like what you are thinking. Look closely at the WOB and get a deeper understanding.
+
+Question: The vast projects on Mt Carmel - reaction of government & Israel?  
+Answer: There is not one uniform view. We have good relations with the state of Israel. On the informal level there is a pride in people at the beauty being developed on Mt. Carmel. The City of Haifa particularly - partly in anticipation of greater tourism. Some are envious - there is no uniformity of attitude and response.
+
+Question: Women on the House of Justice?  
+Answer: I am also type cast for this question. Everything is speculation. We wrote the book and decided that NOT to deal with the question would be phony. There is quite a large section on it. Don't buy the book, borrow Billy Roberts copy and read it. We intended to write about the "Advancement of Women," but it turned out to be a book on the Covenant.
+
+Question: Training Institutes: There is a healthy degree of experimentation across the world. Encourage avoidance of generalization. Some are narrowly focused, some so diffuse that it does not lead to action.
+
+Question: So little written about the women of the Holy Family.  
+Answer: Ruhiyyih Khanum is working on an unpublished manuscript about this. More will be done in the future. There is a small volume on Navvab.
+
+Question on China. We were in China and the relations went well. We were invited to a private banquet in a large dining room with many delicacies, which we survived. When they offered the _piece de resistance,_ it was a rice crisp with a large crisp scorpion on top. I looked at it and it looked at me. I was fortunate in that it was dead. So I poked it with my chopstick and it was cooked. It was a sign of great honor to be given this delicacy. I grit my teeth and put it in my mouth and ate it. (Laughter)

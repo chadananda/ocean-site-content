@@ -1,0 +1,256 @@
+---
+url: https://bahai-library.com/foster_neoplatonism_bahai_ontology
+title: Neo-Platonism: Framework for a Bahá'í Ontology
+audio: 
+author: Mark A. Foster
+image: 
+source: 
+date: 1995
+doctype: website
+status: search-only
+encumbered: false
+collection: Unpublished Articles (bahai-library.com)
+collectionImage: 
+---
+
+
+## Neo-Platonism: Framework for a Bahá'í Ontology
+
+### by [Mark A. Foster](https://bahai-library.com/author/Mark+A.+Foster)
+
+1995
+
+
+In reality, the Prophets of God address us in the language of the Kingdom. Yet, outwardly, in order to instruct us in the essential reality underlying exoteric appearances, They speak to us in a terminology distinctive to a particular time and place. Thus, to human vision, Their utterances simultaneously appear both as universal and as socio-historically relative. But they cannot be limited by human standards. A spiritual comprehension of Prophetic knowledge demands that we see reality with from a God's-eye perspective (with the eye of God), i.e., the point of view of the divine teachings.
+
+So, the Shakyamuni Buddha taught His disciples in a recognizable framework to chelas of the Indic traditions; Jesus spoke to His apostles in the semantic gestalt of the Jews; and Muhammad revealed the Holy Qur'an as a Judaeo-Christian narrative. But, beyond all these linguistic relativities, a study of the inner meanings of Their verses brings the divine lover into an encounter with the discourse of reality. In that respect, whatever the Messengers of God tell us is eternal and, as such, transcends all situational exigencies.
+
+Moreover, the words used by these exalted Beings should, I believe, be regarded as rational-level symbol vehicles or thought bridges. Their intent, as I see it, is to transform objects in the kingdom of names and attributes (materiality) into their true purpose as metaphors for the inner Kingdom.The primary meaning of Their words is always symbolic. Even where there is a literal referent, such as the laws of the Aqdas or the ordinances of the T'nakh, the point of obedience is reunion with the Beloved. Therefore, praxis and ritual are best seen as spiritual technologies. By extending normal human abilities, they lift our hearts to the heavenly realms.
+
+The following is from a letter, dated April 1, 1984, written to this writer on behalf of the Universal House of Justice:
+
+> In response to your letter of 26 February 1984, we are asked by the Universal House of Justice to share with you the attached extract from a previously untranslated Tablet revealed by 'Abdu'l-Bahá on the subject of "speaking in tongues." ...
+> 
+> The disciples of Christ taught His Faith with the language of the Kingdom. That language conformeth to all languages, for it consisteth of celestial meanings and divine mysteries. For the one who becometh conversant with that language the realities and secrets of creation stand unveiled before him. Divine truths are common to all languages. The Holy Spirit, therefore, taught the disciples the language of the Kingdom, and they thus were able to converse with the people of all nations. Whenever they spoke to those of other nations of the world, it was as if they conversed in their tongues. The well-known and outstanding languages of the world number abou a thousand. It was necessary for the disciples ot have written in at least one of the languages of other nations. Thus, as it is known, the Gospels were written only in Hebrew and Greek, and not even the language of the Romans, although it was at the time the official language. As the disciples were not well-versed in it, the Gospels were not written in that language.
+
+As the disciples of Christ learned from Jesus the language of the Kingdom speaking in tongues or glossolalia - in this age, Bahá'u'lláh has also spoken tongues. He has revealed to us the mysteries of existence, of the worlds of God, of the nature of the soul, of the degrees of spirit and their manifestations, and of the dynamics of individual and collective transformation. To speak in tongues is to incorporate the divine teachings into our language patterns and to relate to each others as souls.
+
+The language of the kingdom, like all discourse, exists on the rational level. Whatever narrative framework, or linguistic meaning system, is used by an organized group or society is identical with their social structure. Adopting the Prophetic language, the essence of which is unity in diversity, will, then, produce an integrated group which is grateful for the individualities of its members.
+
+Likewise, all language is meaningless without material referents. As 'Abdu'l-Bahá said to Dr. Auguste Forel (1956, p.337), "The mind comprehendeth the abstract by the aid of the concrete ...." So, in other words, the Prophets take words which, outwardly, pertain to material phenomena and, through them, demonstrate the analogical nature of the world of matter - the kingdom of names and attributes. All material substance is generated by spirit (purposeful power), and the words of the Prophets show us the purpose and power of material objects by symbolizing them in particular ways in Their teachings.
+
+The progressive teachings of the Prophets are, according to \`Abdu'l-Bahá, "the science of reality" or "divine science." In order for any society to move from material to divine civilization, it must ascribe as much importance to the science of reality (religion, the divine teachings, or religion) as it does to the material sciences (physical, biological, social, and behavioral). In The Promulgation of Universal Peace, \`Abdu'l-Bahá was quoted as saying:
+
+> The Prophets of God have been the Servants of Reality. Their teachings constitute the science of reality. Reality is one; it does not admit plurality. We conclude, therefore, that the foundation of the religions of God is one foundation. (1982, p.297)
+
+And again:
+
+> Scientific knowledge is the highest attainment upon the human plane, for science is the discoverer of realities. It is of two kinds: material and spiritual. Material science is the investigation of natural phenomena; divine science is the discovery and realization of spiritual verities. The world of humanity must acquire both.... By the divine we mean the discovery of the mysteries of God, the comprehension of spiritual realities, the wisdom of God, inner significances of the heavenly religions and foundation of the law. (p.138)
+
+The independent investigation of reality, which approximates Bahá'u'lláh's definition of "justice" (Bahá'u'lláh, 1986, p.53) and 'Abdu'l-Bahá's definition of "science" (see above), is required of all the servants of God in this age. We can no longer depend on the guidance of clerics and the collective voices of human authority. We must determine what truth for ourselves. It is the challenge of living in the Great Day of God.
+
+If we agree to respond positively to this challenge, then we need to develop a sense of the language of divine discourse used by the Great Ones of this age. As mentioned earlier, the Prophets of God speak in the terminology of Their peoples. Outwardly, They may repeat what, in retrospect, may, exoterically, seem to be untrue. However, the meanings intended by the Great Prophets are often not primarily literal. Even where Bahá'u'lláh or 'Abdu'l-Bahá quote from a particular person or tradition, They frequently investing the words with a meaning which may, at least consciously, have been unintended in the original narrative.
+
+Much of the time, Bahá'u'lláh adopted the language of esoteric Shi'ih and Sufi Islam - two of the primary spiritual contexts of nineteenth-century Persia. Moreover, in large part due to the synthesizing efforts of Muhyiddin Ibn \`Arabi and other Sufi visionaries, the terminology of Neo-Platonism \[my own preferred spelling of the more common "Neoplatonism"\] had already become incorporated into Islamic spirituality. Therefore, it is understandable that a substantial amount of Bahá'u'lláh's and \`Abdu'l-Bahá's terminology is Neo-Platonic. This paper will advance the thesis that, on a mystical level, the Bahá'í Faith is the fulfillment of Neo-Platonism, and that Bahá'u'lláh, in fact, culminates a line of spirituality which can be traced back to ancient Greek metaphysics.
+
+The Writings of \`Abdu'l-Bahá contain many references to Socrates having visited the Holy Land and being taught by the Prophets of Israel, disciples of Solomon, and other Hebrews. According to \`Abdu'l-Bahá, Socrates, after his visit, returned to Athens and advanced the doctrines to the Unity of God and the immortality of the human soul. However, based on material included in an unpublished memorandum, dated October 22, 1995, prepared by the Research Department at the Bahá'í World Centre, at the request of the Universal House of Justice, it is not certain that these journeys actually took place. As quoted in this memorandum, Shoghi Effendi, through his secretary, stated that historians cannot be certain that Socrates did visit the Holy Land. However, he also said, since Bahá'ís believe that 'Abdu'l-Bahá had an intuitive knowledge of this subject, they must accept his authority on the matter and that proof may come to light in the future.
+
+Regardless of whether Socrates literally traveled to the Holy Land, we know from statements of Bahá'u'lláh and 'Abdu'l-Bahá that there is more than one form of travel. For example, Bahá'u'lláh wrote:
+
+> One of the created phenomena is the dream. Behold how many secrets are deposited therein, how many wisdoms treasured up, how many worlds concealed. Observe, how thou art asleep in a dwelling, and its doors are barred; on a sudden thou findest thyself in a far-off city, which thou enterest without moving thy feet or wearying thy body .... (1986, p.14)
+
+And 'Abdu'l-Bahá said to Laura Clifford Barney:
+
+> One \[sort of spiritual discovery\] is the revelations of the Prophets and the spiritual discoveries of the elect. The visions of the Prophets are not dreams; no, they are spiritual discoveries and have reality. They say, for example: "I saw a person in a certain form, and I said such a thing and he gave such an answer." This vision is in the world of wakefulness, and not that of sleep. Nay, it is a spiritual discovery which is expressed as if it were the appearance of a vision....
+> 
+> ... In the same way, man sees in the world of sleep a vision which becomes exactly realized .... (1981, pp.251-253)
+
+I would suggest that, regardless of whether Socrates literally traveled to Palestine and Syria, 'Abdu'l-Bahá's use of a common Eastern tradition might convey a deeper significance, one which was on the level of spiritual reality. He may never have intended His statements to refer to the realm of outward appearances. Therefore, regardless of whether the reported literal journey ever took place, Socrates, through his "spiritual traveling," could have been inspired by the bounties of the Dispensation of Moses. In either case, it seems to me that we can assume that Greek philosophy was, through Socrates, influenced in some fashion by the Israelitish Prophets and holy ones.
+
+Our essential literary connection with Socrates is through his chief disciple, Plato. For all intents and purposes, what we know of the former's teachings is through the writings of the latter. Moreover, much of the terminology used in the Bahá'í teachings is Platonic or, more accurately, Neo-Platonic. The basic esoteric framework of the Bahá'í teachings is, I believe, a confirmation and fulfillment of the Hellenic wisdom, revealed by God to Moses, transmitted, inwardly perhaps, to Socrates, conveyed to Plato, reinterpreted by Plotinus, incorporated into Sufi and Shi'ih esotericism, and fulfilled by Bahá'u'lláh.
+
+Plato postulated a world of forms, or ideas, which, he argued, is juxtaposed to the world of outward appearances, or materiality. But he argued that, in comparison with the world of forms, the world of outward appearances was illusory. Although he believed that both realms were eternal, there was no direct connection between them. Rather, an agent, the "Demiurge," who is able to exist on the border of both worlds, tries to impose the various forms on the chaotic world of outward appearances. However, the material world is not able to sustain or support these immutable ideas. Therefore, it could only partake of them for limited periods of time.
+
+Due to its insistence on the relative separation of the two worlds, pure Platonism would never become a truly mystical religious system. While it had explanatory value, and dealt with some questions which Socrates probably never considered, and which Plato's student, Aristotle, later rejected in his own metaphysical formulations, it was not intended, nor was it able, to become a technology of spiritual transcendence. However, the seed of Socratic metaphysical idealism had now begun to grow as Plato, at least to an extent, was able to reconcile the existence of a spiritual realm with the parallelism of a material universe. Yet, several centuries were to pass before Platonism would blossom into a full-blown mystical system.
+
+According to Blaine Harris (1976), Neo-Platonism was established as a school of thought by Plotinus (205-270 C.E.). Plotinus, an Egyptian, was the student of Ammonius Saccas of Alexandria (185-250 C.E.). Plotinus did now consider himself a "Neo-Platonist." Rather, he regarded himself as being fully faithful to Plato's system. However, he, and Ammonius, were innovators. Taken as a whole, The Enneads, a series of fifty-four essays written by Plotinus, affirm themes common to the Platonic tradition, i.e., the acceptance of a world of forms, the belief that the ourward realm is influenced by that world of forms, a preference for intuition over empirical methodologies, the belief in the immortality of the soul, an affirmation of the essential "goodness" of the material universe, and the belief that what is good is beautiful, and vice-versa.
+
+Moreover, Harris writes that, although Plotinus criticized certain aspects of Aristotelianism, he actually blended Platonism with it - especially, with Aristotle's dialecticism. Therefore, it is perhaps not surprising that Ernst Hoffman felt that Neo-Aristotelianism would have been more apt description than Neo-Platonism. However, Plotinus himself was so strongly commited to Plato, that naming his system after Aristotle strikes me as virtually sacrilegious!
+
+Perhaps a useful analogy can be drawn with Gerald Gardner, the founder of modern so-called Wicca (or, erroneously, witchcraft) and its offshoot, Neo-Paganism. Although Wicca is primarily based on Aleister Crowley's thelemic magick, it also incorporates elements of reconstructed ancient Greek, Roman, and, especially, Druidic mythologies, as well as Tantrism. Certainly, its connection with what anthropologists call witchcraft, or with the "burning times" in old and New England, is non-existent, and it is best seen as a hybrid. However, all creative thinkers introduce a variety of ideas, including their own, into their systems, and Plotinus was no different.
+
+Rather than embarking on a detailed examination of Neo-Platonic emanationism, I will instead restrict my discussion to mentioning just a few of the major concepts in Plotinus's system, and then showing how these terms have been incorporated into the Bahá'í metaphysic of unity in diversity. While a detailed treatment of Neo-Platonism would be interesting in itself, the primary purpose of this paper is to demonstrate how the Bahá'í teachings fulfill Plotinus's rational mysticism and not to explain all aspects of Neo-Platonism. The interested reader will have no trouble locating a large literature in this area. Furthermore, the similarity between Neo-Platonism and the Bahá'í teachings does not lie in the preciseness of cosmological affinity but rather in the similarity in terms and the emphasis on spiritual transcendence.
+
+The central feature of Neo-Platonism is the notion of the the Divinity as a graded Triad (MacKenna, 1991) consisting of the One (an unknowable Essence; the stationary Principle to which all things return), the Intellectual Principle or the Divine Mind (the world of forms or the archetypes of existence), and the Universal Soul (the Source, or Creator, of all emanations). This Universal Soul is the realm of the lower spiritual essences and includes all the individual human souls. However, as Plotinus saw it, each individual soul must, through the mind (the principle of animate life), enter into a relationship with the body which, itself, is part of the world of outward appearances or matter. Life itself is an emanation from the Universal Soul (Plotinus, 1991, p.244); while matter is the lowest emanation of the Universal Soul and is identified by Plotinus with evil.
+
+Plotinus was a rational mystic. Therefore, as far as a Neo-Platonic soteriology (or discourse on salvation) is concerned (Harris, 1976), he saw at least three factors involved: moral purification, the logical analysis of reality, and an ecstatic communion with the One. As we shall see, all three of these are aspects of the Bahá'í approach to individual salvation as well.
+
+The latest unveiling of the science of reality (the systematic teachings of the Prophets of God) has a model of existence which resembles Neo-Platonism. As with Plotinus, there is a threefold concept of existence in the Bahá'í teachings - although it is not exactly the same. Within each of these three levels, except the first, other worlds of God are listed. As we know, the worlds of God are infinite in number. However, in this diagram, this writer has, according to his own understanding, provided a simple classification schema of the seventeen basic conditions, or categories, of existence, according to the Bahá'í teachings The basis of this model is the Kingdom of God, i.e., the dominion of the King. In other words, all things are animated by successively stepped-down degrees of spirit. And it is spirit, or the purposeful, loving and knowing, power of existence, beginning with the Most Great Spirit (God), which brings all reality under divine dominion. The diagram itself should be read from the bottom up, since that is the path of progression back to the Source of all reality. (See next page.)
+
+\* Map of the Conditions of Existence*  
+  
+THE KINGDOM OF DIVINE ESSENCE  
+(Deity or the Source)   
+Spiritual Essence: the Most  
+Great Spirit (the Source of  
+all Purposeful, loving and  
+knowing, Power)  
+  
+**************************************************************  
+  
+  
+THE KINGDOM OF DIVINE MANIFESTATION  
+(The divine station of the Prophets,  
+the Greater World, Prophethood,  
+"the divine Appearance and heavenly  
+Splendor")  
+Spiritual Essence: the Holy Spirit  
+(the Purposeful, loving and knowing  
+Power, of divine Grace)  
+  
+THE CAUSE OF GOD (the condition of  
+divine action or life)  
+  
+THE WILL OF GOD (the condition of  
+divine volition, love, law,  
+revelation, or covenant)  
+  
+THE WORD OF GOD (the condition of  
+divine knowledge or meaning)  
+  
+As 'Abdu'l-Bahá said,  "The attainment of any object is conditioned  
+upon knowledge, volition, and action."  
+  
+******************************************************************  
+  
+THE KINGDOM OF DIVINE EMANATION  
+(Creation)  
+  
+—————————————————————-  
+  
+THE SPIRITUAL KINGDOM BEYOND (the next world)  
+Spiritual Essence: "spirit" (the purposeful,  
+or loving and knowing, power of purity)  
+  
+————————————————————-  
+  
+THIS WORLD (before death)  
+  
+————————————————-  
+  
+THE KINGDOM REVEALED (the spiritual  
+condition in this world)  
+Spiritual Essence: the spirit of  
+faith (the purposeful, loving and  
+knowing, power of conscious knowledge  
+and good deeds)  
+  
+THE WORLD ORDER OF BAHA'U'LLAH (the  
+human kingdom in the Kingdom revealed)  
+  
+————————————————-  
+  
+THE HUMAN KINGDOM (the world of human  
+affairs, humanity, or mankind which  
+has progressed through the conditions  
+of familialism, tribalism, "city-statism,"  
+and nationalism)  
+  
+THE WORLD OF HUMAN IMPERFECTION  
+(attachment of the mind to materiality)  
+  
+THE WORLD OF HUMAN REASON (origins—>  
+life patterns—>end objectives; time)  
+  
+————————————————  
+  
+THE KINGDOM OF NAMES AND ATTRIBUTES  
+(materiality or the world of the  
+matrix)  
+  
+THE ANIMAL KINGDOM (the world of  
+sensation)  
+Spiritual Essence: the animal spirit  
+(the purposeful, loving and knowing,  
+power of sensation)  
+  
+THE VEGETABLE KINGDOM (the world of  
+growth)  
+  
+Spiritual Essence: the vegetable  
+spirit (the purposeful, loving and  
+knowing, power of growth)  
+  
+THE MINERAL KINGDOM (the world of  
+cohesion)  
+Spiritual Essence: the mineral  
+spirit (the purposeful, loving and  
+knowing, power of cohesion)
+
+From this diagram, the similarity between the Bahá'í and Neo-Platonic cosmological models is evident. The resemblance may be attributed to at least two factors. Personally, I suspect that both of these explanations may have merit.
+
+First, Bahá'u'lláh was addressing humanity in the common spiritual terminology of His culture, and, as already pointed out, the Prophets commonly use existing narrative frameworks, sometimes as parables, to convey spiritual meaning. So, for example, Moses, perhaps, adopted pre-Hebraic stories of a two-gendered creation and a universal deluge to convey a symbolic, but probably not strictly empirical, reality and significance. Likewise, since Bahá'u'lláh had already employed a Neo-Platonic Sufi terminology, and as the Hellenic-derivitive elements of that language were also in educated usage in the West, 'Abdu'l-Bahá had no reason not to continue using it.
+
+Second, just as Bahá'u'lláh has fulfilled the prophecies of the Great divine Teachers of the Ages, so, by incorporating the educated nomenclature of the Mosaic-inspired Socratic and Platonic philosophies, He was fulfilling, or completing, those systems as well. Moreover, Western civilization has been twice animated by Hellenism - initially from Greece and Rome directly and subsequently from Arabia during the Crusades; and these philosophical foundations of the Occident, revealed through Moses and the Lesser Prophets, are now confirmed in the universal Revelation of the Greatest Name..
+
+Let us now explore Bahá'í cosmology, the structural basis of the science of reality and the Bahá'í metaphysic of unity in diversity, by focusing on specific conditions of existence. Although the worlds of God are infinite in number, I believe I have delineated the basic ones. However, simply stated, the reality of the worlds of God can be summed up by referring to the diversity of emanations (the Kingdom of Emanation) of the manifested (the Kingdom of Manifestation) Unity of God (the Kingdom of the Divine Essence). Or, even more simply, if God is One, then all His diverse Prophets, diverse religions, diverse peoples, and the diverse elements of the entire creation, which come from God, are also one. Or, at the simplest of all levels, all that exists is the Unity of God.
+
+The basis of the Bahá'í worlds-of-God cosmology is the concept of unknowable essences or spirits ('Abdu'l-Bahá, 1981, p.321-322). God is the Most Great Spirit, or Supreme Unknowable Essence, but the lower degrees of spirit are unknowable essences, as well. In this world, we know these essences only analogically - by reference to objects in the kingdom of names and attributes (materiality). Through reflecting, metaphorically, on the revealed meanings of the world of matter, we begin to see the divinity of God reflected in our own spirits. However, in the kingdom beyond, the next world, we will be immersed in spirit and will no longer require the material symbols. We will have an inner vision of all the degrees of spirit up to, and including, our own. However, the higher degrees of spirit, the Holy Spirit and the Most Great Spirit, will forever remain unknowable.
+
+Spirit, we are told, is loving and knowing power. It is the animating principle of all existence:
+
+> He \[God\], through the direct operation of His unconstrained and Sovereign Will, chose to confer upon man the unique distinction and capacity to know Him and to love Him - a capacity that must needs be regarded as the generating impulse and primary purpose underlying the whole of creation. (Bahá'u'lláh, 1983, p.65)
+> 
+> The greatest power in the realm and range of human existence is spirit - the divine breath which animates and pervades all things. It is manifested throughout creation in different degrees or kingdoms. ('Abdu'l-Bahá, 1956, p.260)
+
+Knowing power, in a sense, is a result of loving power. We come to know that which we love (link, or connect, with). In reality, the knowledge of any being is limited by what it has the capacity to love. In the case of humans, our dual nature, soul and body, gives us free will while in this world.
+
+We can choose to turn human spirits to the world of matter and live in the world of human imperfection (a lower condition of love) or to turn them heavenward and contemplate the spiritual realities of existence. While the first choice yokes one's consciousness to the lower kingdoms of creation, the second (conscious knowledge of, and obedience to, the revealed Will of God, or faith) promotes the growth of the spirit of faith and draws one closer to God manifested.
+
+The mineral knows only how to link (in love) elements into a cohesive whole. It is the most limited level of knowledge. One step higher, the vegetable in endowed with an innate knowledge of linking (or loving) which draws the plant to the sun, water and nutrients. The result is growth.
+
+Higher still, the animal possesses the instinctive knowledge of a sensory linking (or loving) with its physical environment. One expression of that linking is mating - the highest manifestation of the animal's sense of feeling.
+
+In the human kingdom, the human spirit, or rational soul, links with ideas and concepts which it learns through the common faculty - the intellectual power which transmits sensory information information to the mental faculties of imagination, thought, comprehension, and memory. (\`Abdu'l-Bahá, 1956, p.318). However, if assisted by the spirit of faith, the breath of the Holy Spirit in the soul, the human spirit can become "acquainted with the divine secrets and heavenly realities." (\`Abdu'l-Bahá, 1981, pp.208-209).
+
+The Prophets have the manifested purposeful loving and knowing Power of the Most Great Spirit; that is to say, They are animated by the Holy Spirit. The entire kingdom of emanation, or world of creation, proceeds, through the animating influence of the Holy Spirit, from the Kingdom of Manifestation and its three conditions of the Word of God (divine Knowledge or Revelation), the Will of God (divine Volition, Love, Law, or Covenant), and the Cause of God (divine Action or Life).
+
+Finally, we become aware that there is also an unmanifested Deity in the Source world - the Kingdom of the Divine Essence. However, neither the Prophets nor the realms which They manifest have access to this Most Great Spirit.
+
+On the level of practical spirituality, we see in the Bahá'í teachings the foundation of a divine mystical system. Bahá'u'lláh has accomplished what Neo-Platonism, with its more limited perspective on reality, could not have. Neo-Platonic cosmology and soteriology have been fulfilled through Bahá'u'lláh's science of reality. The Blessed Beauty has provided a means for all humanity to link with its creator through what Plotinus would have referred to as the contemplation of the One. In summary, the basis of the Bahá'í technology of spiritual transformation is an understanding of the dual nature, its relationship with the world of human imperfection and the Kingdom revealed, and the various manifestations of the human spirit and the spirit of faith.
+
+According to the Bahá'í teachings, man has a dual nature - a soul and a body. From my point of view, the body is actually the manifested reality of the soul (the life of the spirit) in the kingdom of names and attributes (the realm of outward appearances or materiality); or, to put in another way, the physical temple is the expression of the soul in the animal kingdom. The proper relationship between the soul and body is that of moderation, i.e., the soul, moderated by submission to the Will of God, and the body as an instrument of the soul for bringing the intentions of an obedient servant into physical manifestation.
+
+However, the mind stands between the soul and body and is part physical (the brain and nervous system) and part spiritual (the mental faculties or intellect). Likewise, the contemplative (meditative, reflective, or hermeneutic) focus of the mind can be either on the body or on the soul. Dwelling on the body and on materiality keeps one's consciousness in the world of human imperfection, while a continued reflection on oneself as a spiritual being, armed with great celestial power, is the key to spiritual resurrection. It raises one's consciousness to the Kingdom revealed and frees one from the morass of human imperfections.
+
+Personal development involves the intensification of one's rational and spiritual powers. If one develops only the former, one will, in effect, be an educated animal. However, if, in addition, one develops one's spiritual powers, then one fulfills the covenantal promise, made by God to humanity, that each of us are created in the divine image and likeness. It is only through spiritual advancement that can we live as citizens of the Kingdom revealed and fulfill our eternal destinies.
+
+The manifestations of the human spirit (the purposeful, loving and knowing, power of rational accomplishment) include the mental faculties of imagination, thought, comprehension, and memory (\`Abdu'l-Bahá, 1956, pp.346-346); the coordination of bodily functions (\`Abdu'l-Bahá, 1984, p.291); the innate character (\`Abdu'l-Bahá, 1981, pp.247-248); and will power (\`Abdu'l-Bahá, 1981, p.248). The manifestations of the spirit of faith include the magnet of faith and service (\`Abdu'l-Bahá, 1909, p.62), inner vision or insight (\`Abdu'l-Bahá, 1909, pp.604-605), and the portion of grace (Bahá'u'lláh, 1983, p.8).
+
+First, the mental faculties, or the intellect, allow the mind to process sensory information and to comprehend material and rational reality (including time). They are, perhaps, the pivotal manifestation of the human spirit. They distinguish man from the animal. By comprehending the world of outward appearances as spiritual metaphor, the mental faculties can act as a vehicle for spiritual understanding.
+
+Second, the coordination of bodily functions is the manifested power of the human spirit in the human body. Since the body is the instrument of the soul, the mind must have the ability to dictate the movements of the body. If it were not for this faculty, the human body, like the bodies of animals, would move only in accordance with instinct and humans would, by definition, not be responsible for their actions.
+
+Third, the innate character consists of the unique rational-level talents and abilities with which each of us is endowed. So, some are especially skilled at math, others excell in music, and still others possess great literary genius. The idiot savants are an evidence of how God has placed the signs of wonder in all of His creation.
+
+Fourth, will power (or the loving power of the human spirit) is the manifestation of the soul's power which allows one to make choices and to have the strength of character to bring them into fruition. As will power (from the higher nature) interacts with the brain and nervous system (aspects of man's lower, or physical, nature), it gives us free will, i.e., the quality of being able to choose between reacting from the higher or lower nature. In other words, this faculty enables us to be spiritually transformed. While animals, especially the higher ones, may have the ability to make certain choices, since they do not have an immortal soul, by defintion, they do not have free will.
+
+So, the two sorts of fate (conditional and decreed) include all the circumstances of our lives which we react to ('Abdu'l-Bahá, 1981, p.244). Conditional fate, as I see it, includes all the individual and collective rewards and punishments which are the results of our previous choices. So, the Lesser, or political, Peace is a collective punishment for the kings and ecclesiastics having rejected the Proclamation of Bahá'u'lláh. Likewise, we are, individually and collectively, rewarded and punished for our actions. Decreed fate, on the other hand, includes all the tests which are sent to us out of God's mercy. Through free will, we can choose how we respond to all the circumstances in our lives, regardless of whether they are conditional or decreed.
+
+Fifth, the magnet of faith and service is the manifested loving power of the spirit of faith. It allows one to attract the divine virtues and to experience spiritual happiness. The key is a life of faith. We must endeavor to know ourselves, for within each of us lies mysteries of existence. Then, we can enter the Kingdom revealed and feel the healing warmth of the Sun of Reality.
+
+Sixth, inner vision, or insight, is the manifestation of the spirit of faith which results from living a life animated by the magnet of faith and service. We can understand the inner mysteries of the heavenly teachings and inwardly know each other on the level of the soul. Inner vision is the highest level of knowledge accessible to human souls in this world. Above it is the Universal Mind - the divine Knowledge of the Manifestation of God.
+
+Finally, seventh is the portion of grace. It is the spiritual counterpart of the innate character. Together, these two manifestations of spirit represent our individualities. The portion of grace refers to one's potential to reflect the divine virtues and to develop insight or inner vision. I once ended one of my poems with a reference to this faculty:
+
+> While bigotry rallies in the regular guy Unable to cherish the mind walks of many The power of diversity releases the dreamer From the prison of mediocrity ...
+> 
+> Crystal, thumbprint, snowflake, soul No two of each the same From matchless portions of grace To souls apiece Issue countless chains of linkings To a Source unknown Respectively, respectively, respectfully ....
+
+The Universal House of Justice outlined what it called "the essential requisites for our spiritual growth" (1988, pp.540-541). The Supreme Body mentioned six of these which, it said, are repeatedly emphasized by 'Abdu'l-Bahá in His Talks and Tablets: the devoted recital of one of the daily Obligatory Prayers, the reverential reading of the Sacred Scriptures (at least in the morning and evening), prayerful meditation on the teachings, a daily effort to conform one's personal behavior to the high standards of the Bahá'í teachings, teaching the Cause of God, and selfless service to the faith and to one's chosen trade or profession. If we can begin to put into practice these advices of the Master, we will be contributing to the raising of the "new race of men" predicted by Bahá'u'lláh.
+
+Copyright, 1995, Mark A. Foster, Ph.D.
+
+Dedication
+
+With profound gratitude to my three spiritual teachers, all now in the Kingdom beyond, Elizabeth Thomas, Marian Lippitt, and Henry Weil

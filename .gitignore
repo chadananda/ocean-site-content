@@ -14,3 +14,17 @@ output/*/.*
 
 # Include specific folders for collections that are checked in
 !output/centenary
+!output/bl-articles-unpublished
+!output/bl-biographies
+!output/bl-talks
+!output/bl-encyclopedia
+!output/bl-shoghi-effendi
+!output/bl-uhj-letters
+!output/bl-letters
+!output/bl-translations
+!output/bl-pilgrim-notes
+!output/bl-theses
+!output/bl-articles-published
+!output/centenary
+!output/bl-news-articles
+!output/bl-uhj-documents

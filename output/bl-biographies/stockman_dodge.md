@@ -1,0 +1,38 @@
+---
+url: https://bahai-library.com/stockman_dodge
+title: Dodge, Arthur
+audio: 
+author: Robert Stockman
+image: 
+source: 
+date: 1995
+doctype: website
+status: search-only
+encumbered: false
+collection: Biographies (bahai-library.com)
+collectionImage: 
+---
+
+
+## Dodge, Arthur
+
+### by [Robert Stockman](https://bahai-library.com/author/Robert+Stockman)
+
+1995
+
+
+    **Dodge, Arthur Pillsbury.** (1849-1915).  Disciple of 'Abdu’l-Bahá. Arthur P. Dodge was born on 29 May 1849 in Enfield, N.H. of Puritan New England stock.  He was self-educated, which made him a firm believer in "common sense" and in the importance of providing people information through magazines and the media so that self-education was possible.  At age sixteen Dodge was hired by the _Manchester Union Leader,_ one of New Hampshire’s leading newspapers, as a reporter; a few years later Dodge passed the New Hampshire and Massachusetts bar examinations and became a lawyer.  Mary Baker Eddy, founder of Christian Science, asked him to be one of her lawyers, but he declined.  In 1880 he published a flattering biography of the Hon. Phinehas Adams, a businessman from Manchester, N.H.  In 1886 Dodge became a magazine publisher in Boston; in 1891 he moved to Chicago and became an inventor.
+
+         Dodge had always been curious about religion and attended many churches, but became increasingly skeptical about Protestant teachings.  In the fall of 1897, when he was about to move to New York City, he heard of the Bahá’í Faith.  He received Kheiralla’s Bahá’í lessons in abbreviated form; he invited Kheiralla to come to New York City to teach the Faith there, and hosted him.  In January or February 1898, Dodge, his wife Elizabeth, and two of his sons took Kheiralla’s entire set of lessons in the first Bahá’í class held in New York City.  They all became Bahá’ís.
+
+         The Dodge family immediately became active in the Bahá’í community.  In the spring of 1898 the New York Bahá’ís elected officers, and they chose Dodge to be their President.  In the fall of 1900 Arthur and Elizabeth Dodge went on pilgrimage; returning to the United States via Britain, they visited Edward Granville Browne, the famous Cambridge Orientalist who had met Bahá’u'lláh, and asked him to translate the letters of \`Abdu’l-Bahá that they carried home with them.  In New York Dodge published the letters from \`Abdu’l-Bahá, with some of 'Abdu’l-Bahá’s statements to them, as a booklet titled _Tablets from Abdul Beha Abbas to Some American Believers in the year 1900._  It was one of the first works of Bahá’í scripture published in the United States.  The tablets focused on the interpretation of Christian doctrines and biblical prophecies offered by Kheiralla, as well as Kheiralla’s teaching of reincarnation.  On 7 December 1900 Dodge was elected to the New York Bahá’í Board of Counsel, the first Bahá’í governing body in that city.
+
+         In 1901 Dodge published _The Truth of It: The Inseparable Oneness of Common Sense–Science–Religion,_ the first introductory book on the Bahá’í Faith written by a western Bahá’í.  Chapters on common sense and science were followed by a series of chapters that defined religion and criticized popular Christian understandings.  The work was as much an attack on corrupt clergy, secular-minded scientists, misdirected biblical scholars, foolish cultic beliefs, and organized religion as it was an explanation of a few Bahá’í teachings.  The book demonstrates how little a prominent American Bahá’í knew about the Faith in 1900; the depth of Dodge’s bitterness toward the churches; and his frustration with scientists, who had consistently displaced his inventions with better ones.
+
+         Dodge remained active in the New York Bahá’í community, though not always on its Board of Counsel; by June 1901 apparently he had resigned from the body, probably because of personal disagreements with other members.  In 1906 the Board of Counsel listened to a disagreement between Dodge and Howard MacNutt about the station of \`Abdu’l-Bahá.  Dodge maintained that \`Abdu’l-Bahá was the return of Christ; MacNutt viewed Him as an ordinary man who had attained His station through personal effort.  Neither man’s position was correct, as \`Abdu’l-Bahá’s station is understood today.  \`Abdu’l-Bahá’s reply denied the idea that He was the return of Christ and emphasized His complete servitude to Bahá’u'lláh; in New York this was understood as a victory for MacNutt’s point of view.  Since the tablet arrived just six weeks before the 1907 election, MacNutt was elected to the Board of Counsel but Dodge was not; subsequently 'Abdu’l-Bahá wrote to a Bahá’í to insist that Dodge be treated with consideration and respect.  In 1909 Dodge was again elected to the Board.
+
+         In 1907 Dodge published his third and last book, titled _Whence?  Why?  Whither?  Man, Things, Other Things._  In the work Dodge started by exploring the nature, purpose, and direction of human existence.  The book’s second part considered the nature of religion and offered interpretations of biblical passages and prophecies.  The third section spoke of the coming of God’s Kingdom on earth.  The final section was a discussion of a miscellany of subjects such as racism, crime, church heresy trials, and strikes, with criticism expressed of such figures as Andrew Carnegie, the anti-religious scientist Andrew White, and playwright George Bernard Shaw.
+
+         Early in 1914 Dodge and his family moved to Freeport, New York, on Long Island.  In his last two years Dodge lost much of the bitterness he felt toward the churches.  He died in Freeport on 12 October 1915.
+
+    **Bibliography.**  The only recent summary of Dodge’s life may be found in O. Z. Whitehead, _Some Bahá’ís to Remember_ (Oxford: George Ronald, 1983).  Wendell Phillips Dodge, son of Arthur Dodge, has written several biographical articles on his father: "In Memoriam: Arthur Pillsbury Dodge, 1849-1915," in _Star of the West,_ vol. 6, no. 19 (2 March 1916), 161-63, 165-67, is the best. He was probably also the author of "Arthur P. Dodge Dead, After Varied Career," a newspaper obituary reprinted in _Star of the West,_ vol. 6, no. 13 (4 November 1915), 100-01.  Wendell Phillips Dodge also published "Arthur Pillsbury Dodge and His Motor Car" in _New Hampshire Profiles,_ April 1971, 40.  A brief and detailed account of Dodge’s life may be found in Robert H. Stockman, _The Bahá’í Faith in America, Origins, 1892-1900, Volume One_ (Wilmette, Ill.: Bahá’í Publishing Trust, 1985), 116-17.  In Robert H. Stockman, _The Bahá’í Faith in America, Early Expansion, 1900-12, Volume Two_ (unpublished) descriptions of Dodge’s pilgrimage and his two books may be found.  Dodge’s books are very rare today: they are \[Arthur Pillsbury Dodge, comp.,\] _Tablets of Abdul Beha Abbas to Some American believers in the year 1900.  The Truth Concerning A. "Re-incarnation"; B. "Vicarious Atonement"; C. "The Trinity"; D. Real Christianity._ (New York: Board of Counsel, 1901); Arthur Pillsbury Dodge, _The Truth of It: The Inseparable Oneness of Common Sense — Science — Religion_ (New York: Mutual Publishing Company, 1901); and Arthur Pillsbury Dodge, _Whence?  Why?  Whither?  Man, Things, Other Things_ (Westwood, Mass.: Ariel Press, 1907).

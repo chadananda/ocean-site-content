@@ -1,0 +1,96 @@
+---
+url: https://bahai-library.com/shoghieffendi_faith_bahaullah
+title: The Faith of Bahá'u'lláh: A World Religion
+audio: 
+author: Shoghi Effendi
+image: 
+source: 
+date: 1947
+doctype: website
+status: search-only
+encumbered: false
+collection: Shoghi Effendi (bahai-library.com)
+collectionImage: 
+---
+
+
+## The Faith of Bahá'u'lláh: A World Religion
+
+### by [Shoghi Effendi](https://bahai-library.com/author/Shoghi+Effendi)
+
+1947-07
+
+
+| **Contents:**
+Introduction  
+Restatement of Eternal Verities  
+To Reconcile Conflicting Creeds  
+Oneness of the Human Race  
+The Herald  
+Bahá'u'lláh  
+'Abdu'l-Bahá  
+Administrative Order  
+Tributes by Leaders
+
+ |
+
+* * *
+
+Palestine, Palestine  
+July, 1947  
+  
+The Faith established by Bahá'u'lláh was born in Persia about the middle of the nineteenth century and has, as a result of the successive banishments of its Founder, culminating in His exile to the Turkish penal colony of 'Akká, and His subsequent death and burial in its vicinity, fixed its permanent spiritual center in the Holy Land, and is now in the process of laying the foundations of its world administrative center in the city of Haifa.
+
+Alike in the claims unequivocally asserted by its Author and the general character of the growth of the Bahá'í community in every continent of the globe, it can be regarded in no other light than a world religion, destined to evolve in the course of time into a world-embracing commonwealth, whose advent must signalize the Golden Age of mankind, the age in which the unity of the human race will have been unassailably established, its maturity attained, and its glorious destiny unfolded through the birth and efflorescence of a world-encompassing civilization.
+
+### Restatement of Eternal Verities
+
+Though sprung from Shi'íh Islám, and regarded, in the early stages of its development, by the followers of both the Muslim and Christian Faiths, as an obscure sect, an Asiatic cult or an offshoot of the Muhammadan religion, this Faith is now increasingly demonstrating its right to be recognized, not as one more religious system superimposed on the conflicting creeds which for so many generations have divided mankind and darkened its fortunes, but rather as a restatement of the eternal verities underlying all the religions of the past, as a unifying force instilling into the adherents of these religions a new spiritual vigor, infusing them with a new hope and love for mankind, firing them with a new vision of the fundamental unity of their religious doctrines, and unfolding to their eyes the glorious destiny that awaits the human race.
+
+The fundamental principle enunciated by Bahá'u'lláh, the followers of His Faith firmly believe, is that religious truth is not absolute but relative, that Divine Revelation is a continuous and progressive process, that all the great religions of the world are divine in origin, that their basic principles are in complete harmony, that their aims and purposes are one and the same, that their teachings are but facets of one truth, that their functions are complementary, that they differ only in the non-essential aspects of their doctrines, and that their missions represent successive stages in the spiritual evolution of human society.
+
+### To Reconcile Conflicting Creeds
+
+The aim of Bahá'u'lláh, the Prophet of this new and great age which humanity has entered upon - He whose advent fulfils the prophecies of the Old and New Testaments as well as those of the Qur'án regarding the coming of the Promised One in the end of time, on the Day of Judgment - is not to destroy but to fulfill the Revelations of the past, to reconcile rather than accentuate the divergencies of the conflicting creeds which disrupt present-day society.
+
+His purpose, far from belittling the station of the Prophets gone before Him or of whittling down their teachings, is to restate the basic truths which these teachings enshrine in a manner that would conform to the needs, and be in consonance with the capacity, and be applicable to the problems, the ills and perplexities, of the age in which we live. His mission is to proclaim that the ages of the infancy and of the childhood of the human race are past, that the convulsions associated with the present stage of its adolescence are slowly and painfully preparing it to attain the stage of manhood, and are heralding the approach of that Age of Ages when swords will be beaten into plowshares, when the Kingdom promised by Jesus Christ will have been established, and the peace of the planet definitely and permanently ensured. Nor does Bahá'u'lláh claim finality for His own Revelation, but rather stipulates that a fuller measure of the truth He has been commissioned by the Almighty to vouchsafe to humanity, at so critical a juncture in its fortunes, must needs be disclosed at future stages in the constant and limitless evolution of mankind.
+
+### Oneness of the Human Race
+
+The Bahá'í Faith upholds the unity of God, recognizes the unity of His Prophets, and inculcates the principle of the oneness and wholeness of the entire human race. It proclaims the necessity and the inevitability of the unification of mankind, asserts that it is gradually approaching, and claims that nothing short of the transmuting spirit of God, working through His chosen Mouthpiece in this day, can ultimately succeed in bringing it about. It, moreover, enjoins upon its followers the primary duty of an unfettered search alter truth, condemns all manner of prejudice and superstition, declares the purpose of religion to be the promotion of amity and concord, proclaims its essential harmony with science, and recognizes it as the foremost agency for the pacification and the orderly progress of human society. It unequivocally maintains the principle of equal rights, opportunities and privileges for men and women, insists on compulsory education, eliminates extremes of poverty and wealth, abolishes the institution of priesthood, prohibits slavery, asceticism, mendicancy and monasticism, prescribes monogamy, discourages divorce, emphasizes the necessity of strict obedience to one's government, exalts any work performed in the spirit of service to the level of worship, urges either the creation or the selection of an auxiliary international language, and delineates the outlines of those institutions that must establish and perpetuate the general peace of mankind.
+
+### The Herald
+
+The Bahá'í Faith revolves around three central Figures, the first of whom was a youth, a native of Shíráz, named Mírzá 'Ali-Muhammad, known as the Báb (Gate), who in May, 1844, at the age of twenty-five, advanced the claim of being the Herald Who, according to the sacred Scriptures of previous Dispensations, must needs announce and prepare the way for the advent of One greater than Himself, Whose mission would be according to those same Scriptures, to inaugurate an era of righteousness and peace, an era that would be hailed as the consummation of all previous Dispensations, and initiate a new cycle in the religious history of mankind. Swift and severe persecution, launched by the organized forces of Church and State in His native land, precipitated successively His arrest, His exile to the mountains of Adhírbáyján, His imprisonment in the fortresses of Máh-Kú and Chihríq, and His execution, in July, 1850, by a firing squad in the public square of Tabríz. No less than twenty thousand of his followers were put to death with such barbarous cruelty as to evoke the warm sympathy and the unqualified admiration of a number of Western writers, diplomats, travelers and scholars, some of whom were witnesses of these abominable outrages, and were moved to record them in their books and diaries.
+
+### Bahá'u'lláh
+
+Mírzá Husayn-'Alí, surnamed Bahá'u'lláh (the Glory of God), a native of Mázindarán, Whose advent the Báb had foretold, was assailed by those same forces of ignorance and fanaticism, was imprisoned in Tihrán, was banished, in 1852, from His native land to Baghdád, and thence to Constantinople and Adrianople, and finally to the prison city of 'Akká, where He remained incarcerated for no less than twenty-four years, and in whose neighborhood He passed away in 1892. In the course of His banishment, and particularly in Adrianople and 'Akká, He formulated the laws and ordinances of His Dispensation, expounded, in over a hundred volumes, the principles of His Faith, proclaimed His Message to the kings and rulers of both the East and the West, both Christian and Muslim, addressed the Pope, the Caliph of Islám, the Chief Magistrates of the Republics of the American continent, the entire Christian sacerdotal order, the leaders of Shí'ih and Sunní Islám, and the high priests of the Zoroastrian religion. In these writings He proclaimed His Revelation, summoned those whom He addressed to heed His call and espouse His Faith, warned them of the consequences of their refusal, and denounced, in some cases, their arrogance and tyranny.
+
+### 'Abdu'l-Bahá
+
+His eldest son, 'Abbás Effendi, known as 'Abdu'l-Bahá (the Servant of Bahá), appointed by Him as His lawful successor and the authorized interpreter of His teachings, Who since early childhood had been closely associated with His Father, and shared His exile and tribulations, remained a prisoner until 1908, when, as a result of the Young Turk Revolution, He was released from His confinement. Establishing His residence in Haifa, He embarked soon after on His three-year journey to Egypt, Europe and North America, in the course of which He expounded before vast audiences, the teachings of His Father and predicted the approach of that catastrophe that was soon to befall mankind. He returned to His home on the eve of the first World War, in the course of which He was exposed to constant danger, until the liberation of Palestine by the forces under the command of General Allenby, who extended the utmost consideration to Him and to the small band of His fellow-exiles in 'Akká and Haifa. In 1921 He passed away, and was buried in a vault in the mausoleum erected on Mount Carmel, at the express instruction of Bahá'u'lláh, for the remains of the Báb, which had previously been transferred from Tabríz to the Holy Land after having been preserved and concealed for no less than sixty years.
+
+### Administrative Order
+
+The passing of \`Abdu'l-Bahá marked the termination of the first and Heroic Age of the Bahá'í Faith and signalized the opening of the Formative Age destined to witness the gradual emergence of its Administrative Order, whose establishment had been foretold by the Báb, whose laws were revealed by Bahá'u'lláh, whose outlines were delineated by \`Abdu'l-Bahá in His Will and Testament, and whose foundations are now being laid by the national and local councils which are elected by the professed adherents of the Faith, and which are paving the way for the constitution of the World Council, to be designated as the Universal House of Justice, which, in conjunction with me, as its appointed Head and the authorized interpreter of the Bahá'í teachings, must coordinate and direct the affairs of the Bahá'í community, and whose seat will be permanently established in the Holy Land, in close proximity to its world spiritual center, the resting-places of its Founders.
+
+The Administrative Order of the Faith of Bahá'u'lláh, which is destined to evolve into the Bahá'í World Commonwealth, and has already survived the assaults launched against its institutions by such formidable foes as the kings of the Qájár dynasty, the Caliphs of Islám, the ecclesiastical leaders of Egypt, and the Nazi regime in Germany, has already extended its ramifications to every continent of the globe, stretching from Iceland to the extremity of Chile, has been established in no less than eighty-eight countries of the world, has gathered within its pale representatives of no less than thirty-one races, numbers among its supporters Christians of various denominations, Muslims of both Sunní and Shí'ih sects, Jews, Hindus, Sikhs, Zoroastrians and Buddhists. It has published and disseminated, through its appointed agencies, Bahá'í literature in forty-eight languages; has already consolidated its structure through the incorporation of five National Assemblies and seventy-seven local Assemblies, in lands as far apart as South America, India and the Antipodes-incorporations that legally empower its elected representatives to hold property as trustees of the Bahá'í community. It disposes of international, national and local endowments, estimated at several million pounds, and spread over every continent of the globe, enjoys in several countries the privilege of official recognition by the civil authorities, enabling it to secure exemption from taxation for its endowments and to solemnize Bahá'í marriage, and numbers among its stately edifices, two temples, the one erected in Russian Turkistan and the other on the shore of Lake Michigan at Wilmette, on the outskirts of Chicago.
+
+This Administrative Order, unlike the systems evolved after the death of the Founders of the various religions, is divine in origin, rests securely on the laws, the precepts, the ordinances and institutions which the Founder of the Faith has Himself specifically laid down and unequivocally established, and functions in strict accordance with the interpretations of the authorized Interpreters of its holy scriptures. Though fiercely assailed, ever since its inception, it has, by virtue of its character, unique in the annals of the world's religious history, succeeded in maintaining the unity of the diversified and far-flung body of its supporters, and enabled them to launch, unitedly and systematically, enterprises in both Hemispheres, designed to extend its limits and consolidate its administrative institutions. The Faith which this order serves, safeguards and promotes, is, it should be noted in this connection, essentially supernatural, supranational, entirely non-political, non-partisan, and diametrically opposed to any policy or school of thought that seeks to exalt any particular race, class or nation. It is free from any form of ecclesiasticism, has neither priesthood nor rituals, and is supported exclusively by voluntary contributions made by its avowed adherents. Though loyal to their respective governments, though imbued with the love of their own country, and anxious to promote, at all times, its best interests, the followers of the Bahá'í Faith, nevertheless, viewing mankind as one entity, and profoundly attached to its vital interests, will not hesitate to subordinate every particular interest, be it personal, regional or national, to the over-riding interests of the generality of mankind, knowing full well that in a world of interdependent peoples and nations the advantage of the part is best to be reached by the advantage of the whole, and that no lasting result can be achieved by any of the component parts if the general interests of the entity itself are neglected.
+
+Nor should the fact be overlooked that the Faith has already asserted and demonstrated its independent religious character, has been emancipated from the fetters of orthodoxy in certain Islámic countries, has obtained in one of them an unsolicited testimony to its independent religious status, and succeeded in winning the allegiance of royalty to its cause.
+
+### Tributes by Leaders
+
+"It is like a wide embrace," is Queen Marie of Rumania's own tribute, "gathering together all those who have searched for words of hope. It accepts all great Prophets gone before, ' it destroys no other creeds and leaves all doors open.... The Bahá'í teaching brings peace to the soul and hope to the heart. To those in search of assurance, the words of the Father are as a fountain in the desert after long wandering.... It is a wondrous message that Bahá'u'lláh and His son \`Abdu'l-Bahá have given us. They have not set it up aggressively, knowing that the germ of eternal truth which lies at its core cannot but take root and spread.... It is Christ's Message taken up anew, in the same words almost, but adapted to the thousand years and more difference that lies between the year one and today. . . If ever the name of Bahá'u'lláh or \`Abdu'l-Bahá comes to your attention, do not put their writings from you. Search out their books, and let their glorious, peace -bringing, love - creating words and lessons sink into your hearts as they have into mine."
+
+"The teachings of the Bábis," wrote Leo Tolstoy, ". . . have a great future before them . . . I therefore sympathize with Bábism with all my heart, inasmuch as it teaches people brotherhood and equality and sacrifice of material life for service to God . . . The teachings of the Bábis which come to us out of Islám have through Bahá'u'lláh's teachings been gradually developed, and now present us with the highest and purest form of religious teaching."
+
+"Take these principles to the diplomats," is the late President Masaryk's advice, "to the universities and colleges and other schools, and also write about them. It is the people who will bring the universal peace." "The Bahá'í teaching," is President Eduard Benes' testimony, "is one of the great instruments for the final victory of the spirit and of humanity . . . The Bahá'í Cause is one of the great moral and social forces in all the world today. I am more convinced than ever, with the increasing moral and political crises in the world, we must have greater international coordination. Such a movement as the Bahá'í Cause which paves the way for universal organization of peace is necessary."
+
+"If there has been any Prophet in recent times," asserts the Rev. T. K. Cheyne in his 'The Reconciliation of Races and Religions', "it is to Bahá'u'lláh that we must go. Character is the final judge. Bahá'u'lláh was a man of the highest class-that of Prophets." "It is possible indeed," declares Viscount Samuel of Carmel, "to pick out points of fundamental agreement among all creeds. That is the essential purpose of the Bahá'í religion, the foundation and growth of which is one of the most striking movements that have proceeded from the East in recent generations."
+
+"Palestine," is Professor Norman Bentwich's written testimony, "may indeed be now regarded as the land not of three but of four faiths, because the Bahá'í creed, which has its center of faith and pilgrimage in 'Akká and Haifa, is attaining to the character of a world religion. So far as its influence goes in the land, it is a factor making for international and inter-religious understanding."
+
+And, finally, is the judgment passed by no less outstanding a figure than the late Master of Balliol, Professor Benjamin Jowett: "The Bábi movement may not impossibly turn out to have the promise of the future." Professor Lewis Campbell, an eminent pupil of Dr. Jowett, has confirmed this statement by quoting him as saying: "This Bahá'í Movement is the greatest light that has come into the world since the time of Jesus Christ. You must watch it and never let it out of your sight. It is too great and too near for this generation to comprehend. The future alone can reveal its import."

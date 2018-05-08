@@ -1,0 +1,44 @@
+---
+url: https://bahai-library.com/stockman_faith_belief
+title: Faith and Belief
+audio: 
+author: Robert Stockman
+image: 
+source: 
+date: 1995
+doctype: website
+status: search-only
+encumbered: false
+collection: Encyclopedia Articles (bahai-library.com)
+collectionImage: 
+---
+
+
+## Faith and Belief
+
+### by [Robert Stockman](https://bahai-library.com/author/Robert+Stockman)
+
+1995
+
+
+    _Faith and Belief._  Faith and belief are two closely related concepts that are often understood to be synonymous, though they are distinct.  According to Wilfred Cantwell Smith, in his book _Faith and Belief,_ "belief" involves either lack of certainty about something or neutrality about its correctness.  Thus "John knows Paris is the capital of France" is a statement of certainty; "John believes Paris is the capital of France" indicates uncertainty about the truth of the statement; "John believes Marseilles is the capital of France" indicates either that John is uncertain or that the speaker knows that John is wrong (_Faith and Belief,_ 35).
+
+         _Faith,_ on the other hand presupposes a level of certainty, not a level of uncertainty.  While some uncertainty may remain, and some level of "belief" may exist, faith presupposes the correctness and truthfulness of some proposition or experience.  An integral part of faith, Smith asserts, is a personal response to that proposition or experience.  Faith implies engagement, interaction, while belief involves only an intellectual assertion that something may be true and correct (Ibid., 4-5, 50).
+
+         Another scholar of religion, Jaroslav Pelikan, has enumerated some of the ways that faith is a response to the transcendent.  He offers the following: 1) faith as faithfulness, that is, as loyalty and devotion to someone or something; 2) faith as obedience, either in terms of carrying out moral law or in terms of following correct ritual action; 3) faith as works, that is, faith must be expressed in goodly deeds, otherwise such faith is "dead" (New Testament, James 2:20); 4) faith as trust; 5) faith as dependence and submission, that is, faith as a response to the recognition that one is dependent on an all-powerful and sovereign God; 6) faith as experience of the Divine; 7) faith as involvement in the community; 8 ) faith expressed as prayer and worship; 9) faith expressed in adherence to credos (statements of faith); 10) faith expressed in creative adoption and adaptation of the religious tradition; 11) faith as a way of knowing truth.
+
+    **Bahá’í Definitions of Faith and Belief.**  'Abdu’l-Bahá describes faith as having three progressively more sophisticated forms.  The first and simplest He calls _objective faith,_ which is "expressed by the outer \[physical\] man" and which consists of "obedience of the limbs and senses."  The second is _subjective faith_ and consists of "unconscious obedience to the will of God."  All created things, whether intelligent or not, are capable of these two types of faith.  Only humans, however, are capable of the third type of faith, _discerning faith,_ which 'Abdu’l-Bahá defines as "true knowledge of God and the comprehension of divine words" (_Bahá’í World Faith,_ 364).  Here 'Abdu’l-Bahá appears to be defining faith as a form of conscious knowledge; his definition echoes the biblical description of faith as "the substance of things hoped for, the evidence of things not seen" (New Testament, Hebrews 11:1).
+
+         But the Bahá’í sacred writings also recognize faith as engagement and response.  Bahá’u'lláh defines the "essence of faith" as "fewness of words and abundance of deeds" and warns that "he whose words exceed his deeds, know verily his death is better than his life" ("The Words of Wisdom," in _Tablets of Bahá’u'lláh Revealed after the Kitáb-i-Aqdas,_ 156).  'Abdu’l-Bahá, wishing to correct the impression of a correspondent that deeds are acceptable in and of themselves, defined faith as "first, conscious knowledge, and second, the practice of good deeds" (_Tablets of Abdul-Baha Abbas,_ vol. III, 549); thus 'Abdu’l-Bahá combined both knowledge and action into a definition of faith, but emphasized the priority of conscious knowledge.
+
+         Bahá’u'lláh and 'Abdu’l-Bahá built their description of faith on earlier Islamic scholarship, which also focused on knowledge and action (_Faith and Belief_, 40-41).  Within Islam a lively debate about the nature of faith has occurred.  For Ash\`arís, for example, faith is centered on internal judgment and acceptance; Mu\`tazilís saw it as performance of "prescribed duties" (primarily the five pillars of the Islamic religion); Hanbalís understood it as based on knowledge made alive by intention and expressed through words and deeds ("iman \[Faith\]," in _Encyclopedia of Islam,_ 2d ed., 1172).
+
+         Several Islamic disputes about the nature of faith shed light on Bahá’í views of faith.  One is the role of taqlíd, "imitation" or "emulation"; for Shí'í Islam, imitation of a mulla or member of the learned is an important part of the believer’s faith.  The mulla in turn imitates a higher member in the learned, until all reach a _marjih'-i-taqlíd,_ a "reference point of emulation."  The Bahá’í Faith rejects taqlíd by abolishing clergy, abolishing the emulatory role of the learned, and by emphasizing the importance of independent investigation of truth. Faith, thus, is conceived as more individual and more active than in Shí'ism.
+
+         Shí'ism also stated that an acceptable aspect of faith was _taqiyyih,_ "dissimulation"; that a believer, under duress, could deny his or her faith.  The Bahá’í Faith forbids dissimulation, thus insisting that deeds must be consistent with faith.
+
+    **Other Uses of the Word "Faith."**  The word "faith" appears over 5,000 times in the published writings of the Báb, Bahá’u'lláh, \`Abdu’l-Bahá, and Shoghi Effendi in English.  Such an extensive use of the word defies detailed analysis, but a selective examination of passages indicates that several uses are common.  Most common, by far, is use of the word "faith" to mean "religion."  Two phrases are common in the writings of Shoghi Effendi and account for the vast majority of the uses of the word "faith": "Bahá’í Faith" and "Faith of Bahá’u'lláh."  In addition, in Shoghi Effendi’s translations of the writings of Bahá’u'lláh and \`Abdu’l-Bahá, the phrases "Faith of Bahá’u'lláh," "Faith of God," and "the true Faith" occur often.  In these cases the English word "Faith" is not being used to translate the Arabic _ímán_ ("faith" in the sense of human knowledge and response) but Arabic and Persian words such as _dín_ ("religion") _á’ín_ ("tradition," "Faith") _'amr_ ("Cause"), and others.
+
+         The word "believe" occurs much less often than "faith" in the English-language writings of the Báb, Bahá’u'lláh, \`Abdu’l-Bahá, and Shoghi Effendi: about 250 times.  Occasionally the rigorous philosophical sense of the word is meant: "they \[materialist philosophers\] state that nothing is entitled to belief and acceptance except that which is sensible or tangible" (\`Abdu’l-Bahá, _Promulgation of Universal Peace,_ 177).  Occasionally the word is used pejoratively to imply mere belief, or the inadequacy of belief alone: "The holy, divine Manifestations did not reveal themselves for the purpose of founding a nation, sect or faction. . . . They did not declare Their heavenly mission and message in order to lay the foundation for a religious belief" ('Abdu’l-Bahá, _Foundations of World Unity,_ 104); or "we should form one united front and combat, wisely and tactfully, every force that might darken the spirit of the Movement, cause division in its ranks, and narrow it by dogmatic and sectarian belief" (Shoghi Effendi, _Bahá’í Administration,_ 45).  The word occasionally is even synonymous with "religion": "Christians, Muslims, Zoroastrians, Jews–people of every belief and denomination. . ." ('Abdu’l-Bahá, _Promulgation of Universal Peace,_ 127).  Other times the word is roughly synonymous with "faith," in which case it may have adjectival modifiers such as "profound belief" (Shoghi Effendi, _Dawn of a New Day,_ 79) or "religious faith and belief" ('Abdu’l-Bahá, _Promulgation of Universal Peace,_ 221), or just "religious belief" ('Abdu’l-Bahá, _Bahá’í World Faith,_ 247).
+
+    **Bibliography.**  Scholarly discussion of the concepts faith and belief are based on two sources: Wilfred Cantwell Smith’s seminal work, _Faith and Belief_ (Princeton, N.J.: Princeton Univ. Press, 1979), and Jaroslav Pelikan’s article "Faith" in Mircea Eliade, _The Encyclopedia of Religion_ (New York: Macmillan, 1987).  The Islamic context of the word may be found in L. Gaudet’s article "iman" in _The Encyclopedia of Islam,_ 2d ed. (London: E. J. Brill, Leyden, Luzac and Co., 1960-).

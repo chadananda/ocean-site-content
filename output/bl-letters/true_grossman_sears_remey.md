@@ -1,0 +1,113 @@
+---
+url: https://bahai-library.com/true_grossman_sears_remey
+title: Statement on Mason Remey from the Western Hands of the Faith
+audio: 
+author: Corinne True, Hermann Grossmann, William Sears
+image: 
+source: 
+date: 1960
+doctype: website
+status: search-only
+encumbered: false
+collection: Letters (bahai-library.com)
+collectionImage: 
+---
+
+
+## Statement on Mason Remey from the Western Hands of the Faith
+
+### by [Corinne True](https://bahai-library.com/author/Corinne+True), [Hermann Grossmann](https://bahai-library.com/author/Hermann+Grossmann), and [William Sears](https://bahai-library.com/author/William+Sears)
+
+1960-05-31
+
+
+Hands of the Faith in the Western Hemisphere  
+Corine True - Hermann Grossmann - William Sears  
+536 Sheridan Road,  
+Wilmette, Illinois
+
+To All National Assemblies in the Western Hemisphere, and to all Members of the Auxiliary Boards.
+
+Beloved Co-workers:
+
+Once again the mighty power and Messing of the Covenant of Bahá'u'lláh has been demonstrated to the world. Another "campaign ribbon" of victory has been won by the faithful soldiers of the Blessed Perfection.
+
+The moment that Mr. Mason Remey's fruitless statement reached the believers throughout the world, they rose up in defense of the Covenant like an army alerted to an attack. Prom every part of the planet a flood of massages expressing unswerving loyalty and renewed dedication to the work of the Crusade poured in to the heart of the Faith at the World Center.
+
+Except for those emotionally unbalanced friends who have remained disturbed ever since the hour of our beloved Guardian's passing, the entire Bahá'í world has simultaneously declared its oneness and loyalty to the 26 faithful Hands of the Cause of God. The believers have arisen like those "lions of the Covenant” spoken of by the Master. They have pledged redoubled consecration to the Ten-Year Plan, so that the Message of the Hands of the Faith may be fulfilled, and the Universal House of Justice, that divinely guided Body, may be established and may speak out with infallible authority against all such abortive attacks from within or from without. No wonder 'Abdu'l-Bahá declared; "So firm and mighty is this Covenant that from the beginning of time until the present day no religious Dispensation hath produced its like.”
+
+The beloved Guardian so often told the friends "there are no secrets in the Bahá’í Faith”; therefore, the Hands in the Western Hemisphere wish to share with you all of the developments which have come to their attention following this surprising and barren claim of Mr. Remey. An incident took place in France, where a small number of believers have been disturbed and confused since November, 1957. Unhappily, among this group were members of the National Spiritual Assembly of France. These friends, in their obsessed views and lack of patience, unwisely voted to accept Mr. Remey's claim. This majority of five persisted in their views, the spirit of which had for some time been agitating that part of the world. The Hands of the Faith, acting at once to protect the Cause of God, sent Hand of the Cause, Mr. A. Q. Faizi, to France, where with the co-operation of the Hands of Europe, the matter was fully investigated, and the unfaithful friends given an opportunity to retract. Failing this, the existing membership of the National Spiritual Assembly of France was dissolved. The Hands of the Faith then arranged for a new election to take place, an election in which these misguided souls would not be eligible to participate. Encouraging reports have already been received from France indicating that the matter is well in hand. The other National Assemblies of the Bahá’í world not only remained staunchly faithful, but energetically and unreservedly denounce this foolish action.
+
+Here and there in a few isolated instances some of those individuals who have been sources of discontent and centers of difficulty for years have seized upon the Remey matter and have attempted to agitate the believers. They have been met with the same loyalty and steadfastness, and these attempts have been immediately communicated to the Hands of the Faith and the National Assemblies.
+
+In fact, since this letter was begun, word has reached us that Mr. Remey has again tried to cause division among the gallant warriors of Bahá'u'lláh. He has sent a second letter which he presumptuously calls the "first in a series". In it he persists in his insupportable views and calls the twenty-six loyal Hands of the Faith violators for not accepting his self-deluded assumption of power.
+
+Inasmuch as it appears that his letters may continue to bombard the friends from time to time, the Hands in the Western Hemisphere felt that it would be helpful for you to have all of the background information which they have on this matter so that the work of teaching and winning the Crusade will not suffer, and so that it will help you in answering any questions which might arise.
+
+You should all know that this is not a sudden so-called burst of inspiration on the part of Mr. Remey. For the past two years he has been urging the Hands of the Faith to appoint a Guardian. However, until his surprising and illogical statement this Ridván, the Hands of the Faith did not realize that it was himself that he had in mind when he asked them to appoint a Guardian. The sacred texts make it plain that the Hands of the Faith have no such authority. The beloved Guardian himself, in answer to a question as to whether the Hands had the right to choose a Guardian, replied firmly that they could not. Although a photostatic copy of this letter was shown to Mr. Remey, he still could not be persuaded from his insistence that the Hands should immediately appoint a Guardian, even against the beloved Guardian's specific words. \[See more on this letter in [Hands of the Cause of God Cannot Appoint a Guardian](http://bahai-library.com/uhj_hands_appoint_guardian).
+
+Beloved friends, for two long years, the Hands of the Faith both individually and collectively, with the utmost patience and loving kindness and tender affection, have repeatedly explained to Mr. Remey that they had neither the authority nor the divine guidance to take such action; that they would never go contrary to the explicit instructions of the beloved Guardian, and the clear words of the Will and Testament.
+
+The Hands of the Faith called Mr. Remey's attention to the sacred vow taken by all of them, and signed by them in the Mansion of Bahji, November, 1957. This Proclamation, they said, was the charter of their life. It was the guide for all their actions until, with the aid of the National Assemblies throughout the world, and the believers everywhere, they would be able to raise up the Universal House of Justice. They all promised with their hearts and their signatures before Bahá'u'lláh that until this divinely guided Body came into being — this Supreme Institution of the Administrative Order, the "source of all good" and "freed from all error" — the subject of the future of the Guardianship would be set aside, and that they would dedicate their lives wholly to laying the proper foundation for this sacred Body. It was agreed that no individual, no group, no institution on earth at the present time was capable of rendering a decision upon this subject. Only the Universal House of Justice could resolve this divine paradox. All of the Hands agreed, including Mr. Remey, that this Body, of which the Master said "what they purpose is the purpose of God", would render a decision to which all of the Bahá’ís of the world would instantly and unitedly be completely obedient. Therefore, in order to preserve the security and unity of the Faith of Bahá'u'lláh, the Hands considered themselves to be the "Chief Stewards" appointed by the beloved Guardian to inspire the friends, cheer their hearts, and give the selfless leadership which would raise up this fortress of the Covenant, the Universal House of Justice. It was to this vow which the Hands, including Mr. Remey, set their signatures and pledged to dedicate their lives.
+
+The Hands of the Faith, following long hours of prayer in the Shrine of Bahá'u'lláh, and after much consultation, decided upon Ridvan 1963 as the date for the establishment of the Universal House of Justice. Until that date, dear friends, we are under the twin infallible guidance of the Divine Plan of the Master and the Ten-Year Plan of our beloved Guardian, which in reality are one. We have been given every step necessary to lead us up to the Universal House of Justice. This divine guidance continues to Ridvan 1963. If, in that same Ridvan period of 1963, the Universal House of Justice is established, our blessed Faith will never pass out from under the shadow of this divine infallibility. This is what the Hands of the Faith have labored to assure. In that hour of glorious triumph in 1963, as the loving tribute of the Bahá’ís everywhere to the life of our beloved Guardian, as a monument to his thirty-six precious years of sacrifice, the Universal House of Justice, for which he gave his life, would come into being, and divine infallibility would be restored to earth. Whatever problems and sorrows might lie heavy on the hearts of the friends could then be turned over to a supreme body capable of resolving them and of commanding the entire allegiance of every loyal Bahá’í heart.
+
+All that the Hands of the Faith have ever asked of the friends, and all that they still do ask, is that the believers have the patience to await this great day which is now so close upon us, and that in the meanwhile they serve and teach with ever increasing intensity so that this may be a day of unprecedented victory and overwhelming triumph on all Crusade fronts.
+
+The Hands of the Faith, after reaching this decision in November 1957, and reaffirming it again in 1958, rose as one man around that conference table in Bahji. We were but a few feet from the room in which the Founder of our Faith had passed away. We had bowed our heads to the floor in supplication in that very room, in the room where in almost His last breath on earth Bahá’u’lláh had said to His followers: "I am well pleased with you all ... May God assist you to remain united. May He aid you to exalt the Cause of the Lord of Being."
+
+Before leaving that conclave, the Hands of the Faith stood around that table where they had bared their hearts. They reached out and joined hands. They linked themselves together in oneness, their hands and arms bound in one circle like a mighty cord of the Covenant. This was the closing symbol to their solemn vow that they would dedicate what few hours remained of their lives to winning the beloved Guardian's Crusade so that the great Universal House of Justice might come into being, and the troubled hearts of the dear friends in every land might be cheered and comforted.
+
+It was this pledge that all of the Hands, including Mr. Remey, signed in November 1957. They renewed it with their signatures, including Mr. Remey, in 1959. This was the sacred pledge he broke.
+
+That his emotional disturbance has become even more aggravated is clear from the fact that he has now written, distracting the efforts of the Bahá’ís laboring for our beloved Guardian on the frontiers of every part of the planet, calling the remaining twenty-six Hands of the Faith "violators." He calls them misguided with no leadership. What a pitiful whisper of division in the roar of the monumental onrushing victories of the Faith on every Crusade front, a year of victories for the Faith of Bahá'u'lláh such as the Bahá’í world has never before seen in its history.
+
+Mr. Remey shows his greatest disregard for the Writings of our Faith when he bases his abortive claim upon his appointment as the President of the International Bahá’í Council. All the other Hands of the Faith were entirely united that the International Council as an "appointed" institution becomes dissolved when it becomes "elective.” Furthermore, his statement that he was the only person to ever be given a position of authority by the beloved Guardian, is disproved by the very words of the beloved Guardian himself about the Council in his Message of March 6, 1952: "Present membership now comprises: ‘Amatu’l-Bahá Rúhíyyih, chosen liaison between me and the Council; Hands of the Cause Mason Remey, Amelia Collins, Ugo Giachery, Leroy Ioas. President, Vice-President, member at large, Secretary General, respectively; Jessie Revell, Ethel Revell, Lotfullah Hakim, Treasurer, Western and Eastern assistant secretaries."
+
+Every believer who has studied the writings of the beloved Guardian is fully aware that the International Bahá’í Council was to go through several stages, and that the "appointed" phase of which Mr. Remey was the temporary President, would no longer even exist with the same identity after it was democratically elected from among all the believers of the Bahá'í world. In its final stage when it "effloresced" into the Universal House of Justice, five of its members, including the "chosen liaison" and the "Vice-President", who were women, would no longer be a part of it in any way, so completely would it have altered according to the beloved Guardian's plan. In the words of the Guardian himself in his Message of January 9, 1951, this appointed Council would be replaced by an elected body, thus marking "its _transformation_ into a duly elected body." Thus it would be completely transformed, he said, as a prelude and final step preceding the election of the Universal House of Justice.
+
+The Master said that the Hands of the Faith must be selfless, humble, and "under all conditions, sanctified and detached from earthly things." Yet, Mr. Remey had the temerity to state that he had known for twelve years that he was to be the Guardian. This means, dear friends, that for nine of the last years of our beloved Guardian's precious life, and for six of the years when he sat at the table with our beloved Guardian, Mr. Remey held this fantastic view. So obsessed did he become with this tragic delusion that in his first futile statement, the personal pronouns "I" and "mine'' are used well over one hundred times in five short pages.
+
+Still, in spite of all these things, after two years of loving patience and kindness, the Hands of the Faith, when they received his abortive statement, still hoped that Mr. Remey would see the utter futility of his insupportable claim and repudiate it himself. Therefore, up to the time of the writing of this letter, the Hands of the Faith have taken no stronger action than to notify the friends of the situation and ask them to refrain from any association with Mr. Remey until such a repudiation has been made. By his action, he has abandoned his station as a Hand of the Cause. His future will be determined by his own deeds, or by his failure to repudiate.
+
+The Master in His Will and Testament gave to the Hands of the Faith the grave and vital responsibility of protecting the Faith against enemies from both within the ranks of the Hands and without, saying: "My object is to show that the Hands of the Cause of God must ever be watchful and so soon as they find anyone beginning to oppose and protest against the Guardian of the Cause of God cast him out from the congregation of the people of Bahá and in no wise accept any excuse from him. How often hath grievous error been disguised in the garb of truth, that it might sow the seeds of doubt in the hearts of men..."
+
+The Master also said in that same Document: "Should any, within or without the company of the Hands of the Cause of God disobey and seek division, the wrath of God and His vengeance will be upon him..."
+
+Mr. Remey has both "opposed" the beloved Guardian's word in repeatedly urging the Hands to appoint a Guardian which is in "protest" against Shoghi Effendi’s written instructions to the contrary. He has also clearly sought "division" by now appointing himself.
+
+In the very last words of the Will and Testament, 'Abdu'l-Bahá, speaking upon the succession of the Guardianship, says: "To none is given the right to put forth his own opinion or express his particular convictions. All must seek guidance and turn unto the Center of the Cause and the House of Justice. And he that turneth unto whatsoever else is indeed in grievous error."
+
+Now that the Center of the Cause, our beloved Guardian is no longer with us, the faithful will, we feel sure, turn as requested by the Hands of the Faith to the only other source of Divine infallibility, the Universal House of Justice, and will labor industriously for its establishment.
+
+Beloved friends, it is regrettable that this letter has assumed such length, but we felt that it was better for the work of the Crusade to deal with the matter once and for all and get on with our true purpose, winning the Crusade and raising the Universal House of Justice, rather than have this matter come up time after time requiring more explanation, and thus stealing our precious hours and energy. Time is our most precious commodity; we cannot waste it in these days which shall never return. Therefore, although from the Will and Testament itself this foolish claim dies still-born, we have taken the time to acquaint you with what has happened.
+
+We should not be at all surprised that such an attack has come upon us. The history of our glorious Faith clearly shows that after the passing of one of its great Figures, someone filled with ego and the thirst for leadership has tried each time to seize the authority — always unsuccessfully, thanks to the power of the Covenant of Bahá'u'lláh. The beloved Guardian himself, writing to the Western world on August 12, 1941, concerning these enemies of the Faith, says:
+
+"Were anyone to imagine or expect that a Cause, comprising within its orbit so vast a portion of the globe, so turbulent in its history, so challenging in its claims, so diversified in the elements it has assimilated into its Administrative structure, should, at all times, be immune to any divergence of opinion, or any defection on the part of its multitudinous followers, it would be sheer delusion, wholly unreasonable and unwarranted, even in the face of the unprecedented evidence of its miraculous power ... Dear friends! Manifold, various, and at times extremely perilous, have been the tragic crises which the blind hatred, the unfounded presumption, the incredible folly, the abject perfidy, the vaulting ambition, of the enemy have intermittently engendered within the pale of the Faith. From some of its most powerful and renowned votaries, at the hands of its once trusted and ablest propagators, champions, and administrators, from the ranks of its most revered and highly-placed trustees whether as companions, amanuenses, or appointed lieutenants of the Herald of the Faith, of its Author, and of the center of the Covenant, from even those who were numbered among the kindred of the Manifestation, not excluding the brother, the sons and daughters of Bahá'u'lláh ... a Faith, of such tender age, and enshrining so priceless a promise, has sustained blows as dire and treacherous as any recorded in the world's religious history ... as opposition to the Faith, from whatever source it may spring, whatever form it may assume, however violent its outbursts, is admittedly the motive power that galvanizes on the one hand, the souls of its valiant defenders, and taps for them, on the other, fresh springs of that Divine and inexhaustible Energy, we who are called upon to represent, defend and promote its interests, should, far from regarding any manifestation of hostility as evidence of the weakening of the pillars of the Faith, acclaim it as both a God-sent gift and a God-sent opportunity which, if we remain undaunted, we can utilize for the furtherance of His Faith, and the routing and complete elimination of its adversaries."
+
+Therefore, beloved co-workers, let us arise in the shadow of these words of our beloved Guardian, more determined than ever before, and inspired to an even greater outpouring of our energies, resources and time, so that the year 1960-1961 will be forever remembered in history as the year in which more believers were enlisted under the banner of Bahá’u’lláh than in any other year in the history of the Faith. Let us with one heart and soul strive to win every teaching goal during this ensuing year, and thus be enabled to devote the last two years of the beloved Guardian's Crusade to "reaching the masses” and to flooding the world with the Word of Bahá'u'lláh. May this attack upon the Covenant of Bahá'u'lláh be the fuse that ignites in our hearts an explosion of such intensity that its brightness may be seen around the world, and the sound of its roar in praise of God attract every human ear to its Truth and Beauty.
+
+Let us be confident that these words of Bahá'u'lláh might very well refer to this matchless year of opportunity which lies before us:
+
+"This is the hour, O my Lord, which Thou has caused to excel every other hour, and hast related it to the choicest among thy creatures, I beseech Thee, O my God, by Thy self and by them _to ordain in the course of this year what will enable the Day-Star of Thy power to shine brightly above the horizon of Thy glory, and to illuminate, by They sovereign might, the whole world ... Render Thy Cause Victorious, O my Lord._“
+
+And again:
+
+"_I beseech Thee by Thy Name ...to unfurl, ere the present year draw to a close, the ensigns of Thine undisputed ascendancy and triumph, that the entire creation may be enriched by Thy wealth …and that all may arise and promote The Cause._“
+
+These are the sacred words of Bahá’u’lláh. Surely they are not only prayers, but are also promises — promises which we might very well make a reality _this coming year_ by our collective and consecrated efforts. By lives wholly dedicated to teaching we may indeed become "the choicest among His creatures."
+
+Let this be our united reply to those who would vainly seek to dim the imperishable lustre of our Faith, to degrade its holy Name, or weaken its structure. Let each believer be a "lion" roaring in the forest in defense of the Faith, consolidating its institutions, and expanding its horizon. Let this be our answer.
+
+With warmest and deepest Baha’i love,
+
+In the service of the beloved Guardian,
+
+HANDS OF THE FAITH IN THE WESTERN HEMISPHERE,
+
+Corinne True  
+Hermann Grossmann  
+William Sears
+
+May 31, 1960

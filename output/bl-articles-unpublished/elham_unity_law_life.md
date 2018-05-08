@@ -1,0 +1,139 @@
+---
+url: https://bahai-library.com/elham_unity_law_life
+title: Unity is the Law and Purpose of Life: The Case of the Baha'is in Iran
+audio: 
+author: Elham M.
+image: 
+source: 
+date: 2001
+doctype: website
+status: search-only
+encumbered: false
+collection: Unpublished Articles (bahai-library.com)
+collectionImage: 
+---
+
+
+## Unity is the Law and Purpose of Life: The Case of the Baha'is in Iran
+
+### by [Elham M.](https://bahai-library.com/author/Elham+M.)
+
+2001-12
+
+
+Unity is the integration of all things. In the _Oxford Dictionary,_ unity is defined as: "Being formed of parts that constitute a whole, due interconnection and coherence of parts" (167). In the _Basic Bahá'í Dictionary_ the definition is as follows: "Wholeness, togetherness and solidarity" (228), which refers to absolute unity.
+
+Investigation reveals that every aspect of existence reflects a profound unity.
+
+> "The universe is no longer seen as a machine, made up of a multitude of separate objects, but appears as a harmonious indivisible whole; a network of dynamic relationships that include the human observer and his or her consciousness in an essential way." (Capra 47)
+
+Ecological relationships on the planet serve as an excellent example of this interconnectedness in the physical environment — any disruption of one ecosystem will have a direct effect, not only on everything within its own system, but also upon all other systems. However, in each system some entities come together at a conscious level, expressing a semblance of unity.
+
+In the mineral world, unity manifests itself in the atomic or subatomic levels in the force of cohesion that binds all molecules together. Also, man-made tools are signs of intricate organization. Taking a clock, we can see how each component works in close harmony with all other components. If something happens to one part and it cannot function properly the whole system will break down.
+
+The apple tree bears fruit in a developmental process. This is due to its unity, harmony and cohesive relationships, both within its seed, and also with its nutrients, including sun, soil, water and the chemical elements which they provide, thus establishing a dynamic balance between its internal and external environment.
+
+A living body is another example, in which each cell has a number of complex functions that are carried out every second. Each cell's functioning is closely related to that of all other cells. All cells are dependent on each other and cannot work separately. Groups of cells make up an organ. In each organ there are specific activities and each organ interacts with at least some other organs. If one organ were to detach itself from others, it would cease to function and would die. If something happens that a member of the body can no longer function properly, the system as a whole rejects it; dysfunction and death follow.
+
+To control each system there must be rules, which regulate the manner of functioning and interaction of all the parts. Rules or principles provide this regulatory function and organize the action of the system. Although for each diverse part there may be a special role assigned, the parts may not ignore one another; rather they must maintain coordination and cooperation, so that the whole organism may function properly, despite the dissimilarities or diversity among them.
+
+It is easier to identify such working inter-relationships in a "closed" system, such as a living organism, than it is in an "open" one such as a social community, a family, or a whole society. However, in the remaining discussion, we shall examine the unique situation that is occurring in Iran.
+
+Following the 1979 Islamic revolution in Iran, the situation in the country changed radically, not only in its politics but also as regards its economics, culture, dress — in short, in all aspects of life. Moreover, since the individual's worldview is largely determined by the surrounding culture and environment, the revolution had a profound effect on the outlook and thinking of the individual citizen.
+
+The system now imposed on the country was based on a very rigid and traditional view of Islam, a view that was deeply prejudiced about other religions. Therefore, every attempt was made to wipe out the Bahá'í community. In fact, since 1977, two years before the revolution itself, the Bahá'í community had begun to experience an increase in harassment in various local communities throughout the country.
+
+The Bahá'í administrative offices were broken into and membership lists and other information removed. All properties held by Bahá'í institutions were confiscated. Based on this information many of the leading Bahá'í s of Iran was arrested and many had to leave the country.
+
+Some 220 Bahá'ís, most of them well-known scholars and professionals in varied fields, were put to death by the regime. Their crime was only the fact of their membership in the Bahá'í religious community and their unwillingness to deny that fact. The authorities expelled all Bahá'í students from their universities and, in some cities, even the Bahá'í youth and children from their schools. All Bahá'ís employed by the government, professors from universities, and clerks from various companies, factories, and institutes were expelled and Bahá'í-owned businesses were boycotted. Bahá'ís were denied permission to hold administration gatherings such as the 19-Day Feast, the regular monthly Bahá'í community meeting for devotion, consultation and fellowship. Election of Bahá'í administrative assemblies, which oversee the education and development of the Bahá'í community, was declared a criminal act in 1983 and both the national and all 400 local governing bodies of the community were dissolved; the property of many Bahá'ís was seized and many suffered beatings and harassment.
+
+The homes of many Bahá'ís were searched everywhere and their occupants interrogated. Sometimes, one individual would be arrested and interrogated in order to find out about other members of the community or about Bahá'í activities, which are, in any event and in all countries, not secret. The property of many Bahá'ís was confiscated and their houses burned in many villages. In some cities, such as Shiraz, the ruling mullahs incited people to attack Bahá'ís. Consequently, mobs attacked Bahá'í homes and forced their owners to hurriedly abandon their dwellings, leaving all their property behind. Many Bahá'ís were imprisoned and tortured. Many died under torture. As a result, Bahá'ís live in fear and insecurity and are, in the main, without gainful employment.
+
+One might expect that a community living with such a high degree of insecurity and impoverishment would soon disintegrate. How were they to satisfy their needs for survival and association, needs that are so fundamental and urgent for all human beings? They were denied basic freedom, justice, equality and civil rights. The Bahá'ís were even not allowed to leave the country legally since they were not permitted to have passports.
+
+The children of Bahá'ís were ridiculed daily in school by other children, some of whom would tease them mercilessly. They were often pressured to curse their own religion and to convert to Islam, even though they already believed in Islam as a holy religion as an article of their own faith. But that was not enough for their tormentors.
+
+Frequently, the names of those who had been killed because of their membership in the Bahá'í Faith (or, as it is called by the authorities in Iran, "the Bahá'í sect") would appear in the newspaper. In many instances, their families found out about the death of their relative from the media. Then, when they went to retrieve the body, the authorities refused to give it to them and, instead, told them to look for it in abandoned plots of land outside of the city, where the bodies had been thrown into mass graves, bearing no signs or names.
+
+Since the internally elected bodies could no longer function, the Universal House of Justice, the international governing institution of Bahá'í community provided the necessary guidance to assist the Bahá'ís inside Iran to elect a number of devoted and trusted believers to administer the affairs of the Iranian Bahá'í community. These individuals, with the help of other Bahá'ís, were, assigned in each city try to help the other members of the community. Those who had to leave their hometown were given accommodations with the local Bahá'ís, who helped them to settle down and then to take care of the Bahá'í community.
+
+One of the very important factors in keeping a society safe is education. That is why the Iranian regime banned the Bahá'ís from institutions of higher education. Ignorance is the first step towards the degradation of any community. Children and youth, especially, as the power and energy of the community, must be protected. In addition, in such a crisis, the only power that could give the Bahá'ís sufficient strength to resist, rather than becoming resigned to their anger, giving up or leaving the country, was their faith and love. Truly, the whole community needed protection and trust. In such a difficult situation, when one has the feeling that one is not alone but rather surrounded by kind, loving and understanding people, one can have hope and energy.
+
+From the very beginning, even in the midst of the most terrible persecution, pressure and fear, the Bahá'í community, at great risk to themselves, began spiritual education classes once a week, for each two or three students, providing them with a teacher. These were truly devoted people who accepted to serve the other Bahá'ís in this way. They were not allowed to have classes as such, but because there were so few students in each one, they were not called "classes". However, in those classes they prayed together and studied deeply about Bahá'í Faith and about other religions.
+
+It sometimes happened that when some Bahá'ís went to the homes of other Bahá'ís, the Muslim neighbors would call the "pasdar" (Islamic armed guards) and tell them to come and investigate what was going on in the neighbor's house! Because of this extreme danger of exposure when too many Bahá'ís gathered together, two or three families only would gather cautiously every 19 days to have the monthly "Feast", to pray together and to share any important news. In order to protect the relationship between local Bahá'ís in each city, one or two local believers would be chosen to visit the homes of the local Bahá'ís, at least twice each month, bring them news and answer any questions the family might have. These chosen individuals would then report to the "Local Friends", the name given to the appointed Bahá'ís who were handling the administrative work of the community, such as conducting marriages and funerals, providing for the Bahá'í education of community's children in its community, ensuring that the Bahá'í Holy Days and Nineteen-Day Feast were observed and providing advice, guidance and assistance for those in difficulty, especially those who had lost loved ones, who were homeless, without employment or in distress. However, they were not free to have any meetings in order to consult together and were forced by circumstance to meet each other in basements, hallways, parks, or even in cars.
+
+Despite the severity of the persecution, the Bahá'í community had focused its thinking on ways to develop the knowledge of the community. It was important for the Bahá'ís to understand what was happening to them and why, to learn how to stand firm consciously. But quite apart from this, education in general is very important in the Bahá'í Faith. Therefore, classes and courses for youth, and later for all members of the community, were initiated. With the help of many of the professors and scholars and other highly educated members of the community who had been dismissed from their teaching posts, the program began to take shape. It started with only two or three courses but developed into ten educational institutions, offering more than thirty courses in religion, philosophy, logic, literature, psychology, etc.
+
+In this way, the Bahá'ís in Iran resist their persecutors knowledgeably and their love for what they believe gives them the strength to be creative and strong. Moreover, the continuous guidance of the Universal House of Justice and its continuous efforts to relieve the suffering of the Bahá'ís in Iran gives them a feeling of support and the knowledge that they are not alone.
+
+In addition, an intensive effort continues to be made by the other Bahá'í communities of the world to lessen their persecutions. Not only do they support them with their prayers, but also speak out on their behalf and trying to win freedom for them by sending requests, along with various national governments and international organizations such as UN Human Rights Commission and the UN General Assembly. The Universal House of Justice coordinates these efforts in order to maintain unity.
+
+Since 1985, the situation of the Bahá'ís in Iran has improved somewhat. But they still do not have their civil rights: they are not permitted to continue their education in universities or be employed in government jobs. There are many other restrictions placed on their work in society and the Bahá'í administrative institutions are still banned. Although the community has received permission to have institutes and gatherings of not more than fifteen people, and although many have received exit passports, there is still no trust. In the fall of 1998, the "Bahá'í Open University", as it has been called, was attacked by the police, on the orders of the government, and all equipment at one of the institutions — computers, documents, even furniture — was confiscated. The professors were told to stop their teaching work and a number were arrested and interrogated. Some time later, after much effort and negotiation, the Bahá'ís received permission to resume the institution and had to start from scratch, purchasing new equipment and books.
+
+At the present time, there are more than ten different educational institutes for different age ranges: from small children to grownups. They have succeeded in establishing the first Bahá'í University in the history of the Bahá'í Faith, in spite of the desperate conditions in which they find themselves. The Guardian of the Bahá'í Faith, Shoghi Effendi, had challenged the Bahá'ís "to work together, in the utmost unity and love" in order to establish just such a "true Bahá''í University, which some day must form part of the activities of our glorious Faith." (Shoghi Effendi, _The Light of Divine Guidance_145)
+
+Thus, the only power that motivates the Bahá'ís to maintain these institutions is their love for what they believe and their desire to serve other Bahá'ís. They have demonstrated that it really is possible that some people suffer happily in the service of others. "Spiritual individuals not only are able to relate in a cooperative and equal way but are also able and willing, to prefer others over themselves (_movasal_)" (Danesh _The Psychology of Spirituality_ 95).
+
+All of these programs being administered by the Bahá'í community serve all the Bahá'ís throughout Iran, from the largest cities to the smallest villages, both near and far. No project is begun without thought being given to its potential to serve all members of the community, for the believers have a deep conviction that every single Bahá'í has right to participate in each project and program that exists in the Bahá'í community. Therefore, in order to develop facilities for every one, some must sacrifice. Since there is no freedom for them — they cannot use normal services such as mail — and the administrators work in such a broad geographic area, covering the entire country, these devoted people work full time to prepare facilities and conditions for other to study. Their sacrifice is very real, since it is still by no means safe and there is always the possibility of arrest because they are working in Bahá'í institutions.
+
+During this period of intense persecution, the Bahá'ís in Iran suffered arrests, executions, confiscation, and expulsion as a routine part of daily life. They become creative under these restrictive conditions, which demanded great courage and creativity. Research by Sharif and his colleagues shows that crises play a vital role not only in orienting people's awareness to their interdependence but also in bringing antagonistic groups of people together. They discovered this when they took two groups of eleven-year old boys to a summer camp. When antagonistic groups are forced to work together for mutually important goals, their attitudes about one another tend to change (Sharif 58). In the situation of the Bahá'ís in Iran, they were not aggressive and unfriendly to each other, but in the most difficult days they became closer to each other, making their perseverance in that situation more achievable.
+
+Looking at the Bahá'í community in Iran after twenty-four years of relentless persecution, we can see that they are very active. They are involved in building many different institutions. They have many different kinds of gatherings, increasing their knowledge, devotion and consultation, many more than took place before the Revolution. They are finding ways to satisfy their need for transcendence in a very spiritual way.
+
+But what has happened in Iran which made them happy, strong and active is mostly the power of their love for what they believe in, their collective resistance to persecution, their profound unity, as well as their firm trust in each other. "Love provides people with a profound sense of self-worth and self respect and helps them to establish trustful relationships with other. These are conditions conducive to growth, creativity, unity, and life" (Danesh _The Psychology of Spirituality_ 239).
+
+Conscious love was the one force which brought about such unity among them. And they have been able to demonstrate this by their perseverance. Sometimes, when a Bahá'í has been arrested, attempts are made to force him or her to betray other members of the community. Various tricks may be used, such as suggesting to the person that "other Bahá'ís did the same, so why don't you do it too?" that is, using the tactic of "divide and conquer". However, to the dismay of the regime, this has never worked with the Bahá'ís, because they never lose their trust in one another. They are firmly united because they all love one another truly.
+
+Only this unity in the power of love and creativity has saved the Bahá'í community in Iran. They regard the source of their belief and their faith as a divine blessing.
+
+> "Spiritual people realize that they are noble beings who have been created to know and to love. The acquisition of knowledge renders them victorious over ignorance and provides them with true power and strength, power based on reality and a strength that does not fade. Such power is enhanced by the presence of love in the lives of spiritual people". (Danesh _The Psychology of Spirituality_ 239)
+
+Unity between them gives them courage to live and find their way. They are thus enabled to detach themselves from everything except their love for their faith. As was stated by Dr. Danesh: "It is through interdependence and unity that people will truly feel secure and trustful, and, thus, truly free" (Danesh _Unity The Creative Foundation of Peace_ 61). Now they are learning and experiencing that they can be happy and live happily for each other, serving each other and being active in the faith. They are aware that there are many other fellow Bahá'ís, many of whom they may not know personally, but who are devotedly serving the Faith in order to make the situation better for others.
+
+> "In healthy, integrated growth, our love for others contains not only acceptance and empathy but also realization and appreciation of unity. The experience of unity allows us to be fully aware of others, attuned to their hopes and despairs, repairs, responsive to their needs and circumstances, and prepared to offer assistance and self-sacrifice as required. Such a relationship is like the relationship of the various organs and parts of the human body. The human body can function in a healthy manner only when there exists total harmony and unity among all its component parts". (Danesh _The Psychology of Spirituality_ 94)
+
+Enormous suffering lies behind this level of unity and understanding. Without the conscious state of unity, which this suffering made possible, the Bahá'í community would long ago have perished. This suffering was undergone consciously, because the Bahá'ís are deeply committed to never giving up and to persevering continuously, in order to drive the roots of the community more deeply and firmly into the hearts of the believers.
+
+An additional result of the achievement of unity was creativity. As expressed by Dr. Danesh in a talk on 16 November 2001 at Landegg International University, a conscious process of attracting diverse entities through the force of love results in a creative act, usually one of a very complex nature. As such, all existence is the creative outcome of the law of the unity. Expressed in developmental terms, this is the meaning of sacrifice. The Bahá'í community in Iran stands as a paramount example of such sacrifice.
+
+Unity is manifested in all things in relative degrees. Nevertheless, the degree of the manifestation of unity is dependent on the perfection of the entity in which it manifests itself. The process of unity in human life is a conscious process. The mere gathering of some elements does not necessarily mean that there is unity. In order for there to be unity, there must be an attraction; that is, various elements, factors, or diverse entities should be attracted to each other. This attraction is an incentive, a motivator. Thus, the force of unity is kindness or love. In the Bahá'í Faith the essence of creation is love.
+
+> "The fundamental purpose animating the Faith of God and His Religion is to safeguard the interests and promote the unity of the human race, and to foster the spirit of love and fellowship amongst men" (Bahá'u'lláh 220).
+
+The process of unity is continuous, developmental, and evolving. In the kingdom of creation, this unity begins at a low level, from the "consciousness" of the mineral level to that of human beings at a much higher level; and within the realm of the human being, from the unity of self to unity with other creatures. At the highest level, there is unity with the Creator. This process is such as it is, since the whole world of humanity is constantly evolving.
+
+Thus, by looking at the material kingdom, at individuals and at groups we can conclude that there can be no continuous life without unity. All elements in an organism, be it material or human, try to maintain and consolidate that unity. Although it is at times not easy to find unity in the universe — indeed, the opposite sometimes seems to be the case — this is the result of our limited vision. Ian Barbour explains how the principle of complementarity, as developed by Niels Bohr, resolves "the seeming contradiction between the wave appearance and the particle appearance of the same subatomic entity" The inability of the human to perceive the entirety of the two, wave and particle, which are part of the same entity — photon or electron — is due, he says, to the "conceptual limitation of human understanding." (Barbour 168)
+
+Unity is the law of existence and the purpose of life. As was stated in the message of the National Spiritual Assembly of the Bahá'ís of the United States to the Bahá'ís of Alaska: "As a unified global society, Bahá'ís see unity as the law of life." (NSA of US 35)
+
+The Bahá'í community in Iran is demonstrating by its love, service and spirit of self sacrifice that establishing unity in the community is possible. Its achievements over the past twenty years prove that human beings are approaching new levels of understanding of the value of unity in the community. Now, not only religious communities, but also governments, scholars and researchers have begun to write, think and talk about unity and peace. The subject can often be seen in the pages of the most common daily newspaper. The Guardian of the Bahá'í Faith stated as, "For none is self-sufficiency any longer possible, inasmuch as political ties unite all peoples and nations, and the bonds of trade and industry, of agriculture and education, are being strengthened every day. Hence the unity of all mankind can in this day be achieved. Verily this is none other but one of the wonders of this wondrous age, this glorious century." (Shoghi Effendi _The Promise Day is Come_ 120)
+
+Thus, in the Bahá'í Faith there is a strong belief in the necessity of unity. That is the underlying aim of human life: the establishment of unity among all human beings, through the power of love. This is the only way to bring happiness and peace into the lives of individual human beings and to the peoples and nations of the world. In order to achieve this, it is necessary to first put their belief into practice in their attitudes and communities, demonstrating it in their relationships with others.
+
+> "Consider: Unity is necessary to existence. Love is the very cause of life; on the other hand, separation brings death. In the world of material creation, for instance, all things owe their actual life to unity. The elements, which compose wood, mineral, or stone, are held together by the law of attraction. If this law should cease for one moment to operate these elements would not hold together; they would fall apart, and the object would, in that particular form, cease to exist. The law of attraction has brought together certain elements in the form of this beautiful flower, but when that attraction is withdrawn from this center the flower will decompose, and, as a flower, cease to exist. So it is with the great body of humanity. The wonderful Law of Attraction, Harmony and Unity hold together this marvelous Creation. As with the whole, so with the parts, whether a flower or a human body, when the attracting principle is withdrawn from it, the flower or the man dies. It is therefore clear that attraction, harmony, unity and Love, are the cause of life, whereas repulsion, discord, hatred and separation bring death." (Abdu'l-Bahá 129)
+
+  
+**Notes**
+
+\* I wish to express my deepest thanks to Nancy Ackerman for her assistance in editing the final version of this paper.
+
+1\. Abdu'l-Bahá. _Paris Talks._ _The Second Principle—The Unity of Mankind._ 11th ed. London: Bahá'í Publishing Trust, 1969.
+
+2\. Bahá'u'lláh. _The Kitab-i-Aqdas._ Haifa: The Universal House of Justice, 1992.
+
+3\. Barbour, Ian G. _Religion and Science: Historical and Contemporary Issues_. Harper San Francisco, 1997.
+
+4\. Capra, Frithjof. _The Turning Point: Science, Society, and the Rising Culture_. New York: Bantam Books, 1982.
+
+5\. Danesh, H.B. _The Psychology of Spirituality_. Landegg Academy Press, 1997.
+
+6\. Danesh, H.B. _Unity: The Creative Foundation of Peace_. Toronto: Bahá'í Studies Publications, Fitzhenry & Whiteside, 1986.
+
+7\. Sherif, Mozafer. _Experiments in group Conflict_. Scientific American 195.5,1956.
+
+8\. Shoghi Effendi. _The Light of Divine Guidance_. _Letters from the Guardian of the Bahá'í Faith to individual believers, groups and Bahá'í communities in Germany and Austria_. Hofheim-Langenhain: The National Spiritual Assembly of the Bahá'ís of Germany, 1985.
+
+9\. Shoghi Effendi. _The Promised Day is come_. Wilmette, Illinois: Bahá'í Publishing Trust, 1980.
+
+10\. National Spiritual Assembly of the Bahá'ís of the United States. Messages to Alaska, _A statement by the National Spiritual Assembly of the Bahá'ís of the United States_, 1991.
